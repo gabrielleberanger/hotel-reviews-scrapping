@@ -61,10 +61,12 @@ As a final step, **the stemmed forms of values keywords and hotel reviews were m
 
 #### RESULTS
 
-Regardless of the hotel range, ***friendliness*, *instantaneity* and *service*/*creativity*** are the Top 4 values that are the most sought-after by Accor Hotels customers. The ***service*** value seem to have **a greater importance for the customers of premium brands** than intermediary brands (appears respectively in 48% vs. 30% of hotel reviews). Quite logically, **intermediary customers** also seem to be **more attentive to *price fairness***, while **premium customers give a greater importance to *status***.
+- Regardless of the hotel range, ***friendliness*, *instantaneity* and *service*/*creativity*** are the Top 4 values that are the most sought-after by Accor Hotels customers.
+- The ***service*** value seem to have **a greater importance for the customers of premium brands** than intermediary brands (appears respectively in 48% vs. 30% of hotel reviews).
+- Quite logically, **intermediary customers** also seem to be **more attentive to *price fairness***, while **premium customers give a greater importance to *status***.
 
-Analysis conducted on 949 reviews of premium Accor Hotels brands:
+Analysis conducted on 949 reviews of *premium* Accor Hotels brands:
 ![](https://github.com/gabrielleberanger/hotel-reviews-scrapping/blob/master/pipeline-outputs/prepartion-reporting-outputs-premium/bar-chart-top-10-values-premium.png)
 
-Analysis conducted on 4,575 reviews of intermediary Accor Hotels brands:
+Analysis conducted on 4,575 reviews of *intermediary* Accor Hotels brands:
 ![](https://raw.githubusercontent.com/gabrielleberanger/hotel-reviews-scrapping/master/pipeline-outputs/preparation-reporting-outputs-intermediary/bar-chart-top-10-values-intermediary.png)
