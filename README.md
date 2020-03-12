@@ -1,4 +1,4 @@
-## Top hospitality values mentioned in Accor Hotel reviews
+## Analysing top hospitality values mentioned in Accor Hotels reviews
 
 *This project was completed as part of my cursus at Ironhack (a 9-week intensive coding bootcamp).*
 
