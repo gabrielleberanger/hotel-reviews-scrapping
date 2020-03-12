@@ -20,14 +20,16 @@ In total, **11,694 reviews** on **265 hotels** were scrapped from a well-known h
 
 The scraping pipeline was composed of **three main steps**:
 
-- **Step #1 - Acquisition: scrapping of hotel reviews** - *Output files (1 per city):*
+- **STEP #1 - Acquisition: scrapping of hotel reviews** - Output files (1 per city):
 	- 10 `hotel_tables` (city name, hotel name, hotel rating, number of hotel reviews, hotel url)
 	- 10 `filtered_hotel_tables`, removing non-Accor Hotels brands from the scraping output
 	- 10 `review_tables` (city, hotel name, individual rating, review text)
-- **Step #2 - Preparation of collected data** - *Output files:*
-	- 1 `scrapped_table` for France (left join of the `filtered_hotel_tables` and `review_tables` of all cities, filtered on the selected range of Accor Hotel brands: *premium, intermediary or economic*)
+
+- **STEP #2 - Preparation of collected data** - Output files:
+	- 1 `scrapped_table` for France (aggregation of the `filtered_hotel_tables` and `review_tables` of all cities, filtered on the selected range of Accor Hotel brands: *premium, intermediary or economic*)
 	- 1 `study_table` (transformed `scrapped_table`, featuring a count of values occurrences)
-- **Step #3 - Reporting** - *Output file*:
+
+- **STEP #3 - Reporting** - Output file:
 	- 1 `bar chart` summarizing the percentage of total reviews mentioning each one of the hospitality values
 
 #### REPOSITORY STRUCTURE
