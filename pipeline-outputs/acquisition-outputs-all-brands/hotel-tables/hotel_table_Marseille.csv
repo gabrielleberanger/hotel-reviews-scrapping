@@ -1,0 +1,254 @@
+;city;hotel_name;hotel_rating;hotel_reviews;hotel_url
+0;Marseille;Escale Oceania Marseille Vieux Port;4.5;1220;https://www.tripadvisor.fr/Hotel_Review-g187253-d219969-Reviews-Escale_Oceania_Marseille_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Az.html
+1;Marseille;Sofitel Marseille Vieux-Port;4.5;2936;https://www.tripadvisor.fr/Hotel_Review-g187253-d207554-Reviews-Sofitel_Marseille_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+2;Marseille;Hôtel La Residence du Vieux Port;4.5;1130;https://www.tripadvisor.fr/Hotel_Review-g187253-d195832-Reviews-Hotel_La_Residence_du_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+3;Marseille;Citadines Castellane Marseille;4.0;391;https://www.tripadvisor.fr/Hotel_Review-g187253-d197119-Reviews-Citadines_Castellane_Marseille-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+4;Marseille;Hermes;4.0;426;https://www.tripadvisor.fr/Hotel_Review-g187253-d235838-Reviews-Hermes-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+5;Marseille;Golden Tulip Marseille Euromed;4.0;683;https://www.tripadvisor.fr/Hotel_Review-g187253-d8871826-Reviews-Golden_Tulip_Marseille_Euromed-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+6;Marseille;Staycity Marseille Centre Vieux Port;4.5;1018;https://www.tripadvisor.fr/Hotel_Review-g187253-d11744464-Reviews-Staycity_Marseille_Centre_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d.html
+7;Marseille;Grand Hotel Beauvau Marseille Vieux Port - MGallery Collection;4.5;840;https://www.tripadvisor.fr/Hotel_Review-g187253-d195831-Reviews-Grand_Hotel_Beauvau_Marseille_Vieux_Port_MGallery_Collection-Marseille_Bouches_du_Rhone.html
+8;Marseille;Hotel Carre Vieux Port Marseille;4.0;773;https://www.tripadvisor.fr/Hotel_Review-g187253-d256135-Reviews-Hotel_Carre_Vieux_Port_Marseille-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+9;Marseille;Alex Hotel & Spa;4.5;592;https://www.tripadvisor.fr/Hotel_Review-g187253-d5790602-Reviews-Alex_Hotel_Spa-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+10;Marseille;C2 Hôtel;4.5;441;https://www.tripadvisor.fr/Hotel_Review-g187253-d6554997-Reviews-C2_Hotel-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+11;Marseille;Ibis Marseille Centre Euromed;4.0;1058;https://www.tripadvisor.fr/Hotel_Review-g187253-d1025963-Reviews-Ibis_Marseille_Centre_Euromed-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+12;Marseille;InterContinental Marseille - Hotel Dieu;4.5;2590;https://www.tripadvisor.fr/Hotel_Review-g187253-d3226264-Reviews-InterContinental_Marseille_Hotel_Dieu-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d.html
+13;Marseille;NH Collection Marseille;4.5;400;https://www.tripadvisor.fr/Hotel_Review-g187253-d12957244-Reviews-NH_Collection_Marseille-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+14;Marseille;Mama Shelter Marseille;4.5;1314;https://www.tripadvisor.fr/Hotel_Review-g187253-d2700663-Reviews-Mama_Shelter_Marseille-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+15;Marseille;Hotel Vertigo - Vieux Port;4.0;238;https://www.tripadvisor.fr/Hotel_Review-g187253-d1954574-Reviews-Hotel_Vertigo_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+16;Marseille;Le Ryad Boutique Hôtel;4.5;585;https://www.tripadvisor.fr/Hotel_Review-g187253-d1025492-Reviews-Le_Ryad_Boutique_Hotel-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+17;Marseille;Hotel 96;4.5;451;https://www.tripadvisor.fr/Hotel_Review-g187253-d3802131-Reviews-Hotel_96-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+18;Marseille;Casa Ortega;5.0;116;https://www.tripadvisor.fr/Hotel_Review-g187253-d2647683-Reviews-Casa_Ortega-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+19;Marseille;Hotel Saint Ferreol;4.0;231;https://www.tripadvisor.fr/Hotel_Review-g187253-d235922-Reviews-Hotel_Saint_Ferreol-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+20;Marseille;AC Hotel by Marriott Marseille Prado Velodrome;4.0;323;https://www.tripadvisor.fr/Hotel_Review-g187253-d9451954-Reviews-AC_Hotel_by_Marriott_Marseille_Prado_Velodrome-Marseille_Bouches_du_Rhone_Provence_Alp.html
+21;Marseille;Kyriad Marseille Palais des congrès - Vélodrome;4.0;330;https://www.tripadvisor.fr/Hotel_Review-g187253-d238784-Reviews-Kyriad_Marseille_Palais_des_congres_Velodrome-Marseille_Bouches_du_Rhone_Provence_Alpes.html
+22;Marseille;Radisson Blu Hotel Marseille Vieux Port;4.0;1826;https://www.tripadvisor.fr/Hotel_Review-g187253-d649844-Reviews-Radisson_Blu_Hotel_Marseille_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_.html
+23;Marseille;nhow Marseille;4.0;1818;https://www.tripadvisor.fr/Hotel_Review-g187253-d198260-Reviews-Nhow_Marseille-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+24;Marseille;Golden Tulip Villa Massalia;4.0;1167;https://www.tripadvisor.fr/Hotel_Review-g187253-d651455-Reviews-Golden_Tulip_Villa_Massalia-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+25;Marseille;Novotel Marseille Vieux Port;4.0;1669;https://www.tripadvisor.fr/Hotel_Review-g187253-d239222-Reviews-Novotel_Marseille_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+26;Marseille;Mercure Marseille Centre Vieux Port;4.0;1512;https://www.tripadvisor.fr/Hotel_Review-g187253-d197110-Reviews-Mercure_Marseille_Centre_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Az.html
+27;Marseille;Novotel Marseille Centre Prado Vélodrome;4.0;733;https://www.tripadvisor.fr/Hotel_Review-g187253-d198261-Reviews-Novotel_Marseille_Centre_Prado_Velodrome-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote.html
+28;Marseille;Ibis Marseille Timone;4.0;418;https://www.tripadvisor.fr/Hotel_Review-g187253-d197116-Reviews-Ibis_Marseille_Timone-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+29;Marseille;azur hotel;4.0;306;https://www.tripadvisor.fr/Hotel_Review-g187253-d238753-Reviews-Hotel_Azur-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+30;Marseille;Hotel Bellevue;4.0;557;https://www.tripadvisor.fr/Hotel_Review-g187253-d1018718-Reviews-Hotel_Bellevue-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+31;Marseille;Hôtel Terminus Saint Charles;3.5;429;https://www.tripadvisor.fr/Hotel_Review-g187253-d1495325-Reviews-Hotel_Terminus_Saint_Charles-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+32;Marseille;Hipark by Adagio Marseille;3.5;356;https://www.tripadvisor.fr/Hotel_Review-g187253-d2146410-Reviews-Hipark-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+33;Marseille;Best Western La Joliette;4.0;143;https://www.tripadvisor.fr/Hotel_Review-g187253-d1963633-Reviews-Best_Western_Plus_La_Joliette-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+34;Marseille;Appart'hôtel Odalys Le Dôme;3.5;80;https://www.tripadvisor.fr/Hotel_Review-g187253-d10793579-Reviews-Appart_Hotel_Odalys_Le_Dome-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+36;Marseille;Residhotel Vieux Port;3.5;289;https://www.tripadvisor.fr/Hotel_Review-g187253-d1482738-Reviews-Residhotel_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+37;Marseille;Adagio Marseille Prado Plage;3.5;448;https://www.tripadvisor.fr/Hotel_Review-g187253-d238764-Reviews-Adagio_Marseille_Prado_Plage-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+38;Marseille;Hôtel Maison Montgrand Vieux Port;4.0;284;https://www.tripadvisor.fr/Hotel_Review-g187253-d1731608-Reviews-Hotel_Maison_Montgrand_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azu.html
+39;Marseille;Adagio Access Marseille Prado Perier;3.5;445;https://www.tripadvisor.fr/Hotel_Review-g187253-d502981-Reviews-Adagio_Access_Marseille_Prado_Perier-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_A.html
+40;Marseille;Kyriad Marseille Centre Paradis;3.5;488;https://www.tripadvisor.fr/Hotel_Review-g187253-d236939-Reviews-Kyriad_Marseille_Centre_Paradis-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+42;Marseille;Hôtel Marseille Centre;3.5;611;https://www.tripadvisor.fr/Hotel_Review-g187253-d482516-Reviews-Hotel_Marseille_Centre-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+43;Marseille;Hôtel Maison Saint Louis;4.0;35;https://www.tripadvisor.fr/Hotel_Review-g187253-d238787-Reviews-Hotel_Maison_Saint_Louis-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+44;Marseille;New Hotel Bompard;3.5;611;https://www.tripadvisor.fr/Hotel_Review-g187253-d197108-Reviews-New_Hotel_Bompard-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+45;Marseille;Adagio Access Marseille Saint Charles;3.5;516;https://www.tripadvisor.fr/Hotel_Review-g187253-d1724139-Reviews-Adagio_Access_Marseille_Saint_Charles-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d.html
+46;Marseille;B&B HOTEL Marseille La Valentine Saint Menet;4.5;23;https://www.tripadvisor.fr/Hotel_Review-g187253-d13340568-Reviews-B_B_Hotel_Marseille_La_Valentine_St_Menet-Marseille_Bouches_du_Rhone_Provence_Alpes_C.html
+47;Marseille;Ibis Marseille Centre Vieux Port;3.5;775;https://www.tripadvisor.fr/Hotel_Review-g187253-d197118-Reviews-Ibis_Marseille_Centre_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+48;Marseille;Ibis Styles Marseille Gare Saint Charles;3.5;76;https://www.tripadvisor.fr/Hotel_Review-g187253-d2559207-Reviews-Ibis_Styles_Marseille_Gare_Saint_Charles-Marseille_Bouches_du_Rhone_Provence_Alpes_Cot.html
+49;Marseille;Première Classe Marseille Est - La Valentine;2.5;207;https://www.tripadvisor.fr/Hotel_Review-g187253-d644521-Reviews-Premiere_Classe_Marseille_Est_La_Valentine-Marseille_Bouches_du_Rhone_Provence_Alpes_Co.html
+51;Marseille;Citadines Prado Chanot Marseille;3.5;204;https://www.tripadvisor.fr/Hotel_Review-g187253-d232407-Reviews-Citadines_Prado_Chanot_Marseille-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+52;Marseille;Novotel Suites Marseille Centre Euromed;4.0;1245;https://www.tripadvisor.fr/Hotel_Review-g187253-d1075138-Reviews-Novotel_Suites_Marseille_Centre_Euromed-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote.html
+53;Marseille;B&B HOTEL Marseille Centre La Joliette;3.5;273;https://www.tripadvisor.fr/Hotel_Review-g187253-d1996984-Reviews-B_B_Hotel_Marseille_Centre_La_Joliette-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_.html
+56;Marseille;Ibis Budget Marseille Timone;3.5;363;https://www.tripadvisor.fr/Hotel_Review-g187253-d1071222-Reviews-Ibis_Budget_Marseille_Timone-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+57;Marseille;Ibis Marseille Bonneveine Calanques Plages;3.5;514;https://www.tripadvisor.fr/Hotel_Review-g187253-d197111-Reviews-Ibis_Marseille_Bonneveine_Calanques_Plages-Marseille_Bouches_du_Rhone_Provence_Alpes_Co.html
+58;Marseille;ibis Styles Marseille Vieux Port;3.5;101;https://www.tripadvisor.fr/Hotel_Review-g187253-d229776-Reviews-Ibis_Styles_Marseille_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+59;Marseille;Campanile Marseille - Saint Antoine;3.5;378;https://www.tripadvisor.fr/Hotel_Review-g187253-d280166-Reviews-Campanile_Marseille_Saint_Antoine-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+61;Marseille;Appart'City Marseille Euromed;3.0;520;https://www.tripadvisor.fr/Hotel_Review-g187253-d3937532-Reviews-Appart_City_Marseille_Euromed-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+62;Marseille;Best Western Hotel Marseille Bourse Vieux Port by HappyCulture;4.0;577;https://www.tripadvisor.fr/Hotel_Review-g187253-d3224799-Reviews-Best_Western_Hotel_Marseille_Bourse_Vieux_Port_by_HappyCulture-Marseille_Bouches_du_Rh.html
+63;Marseille;Hotel Ibis Budget Marseille la Valentine;3.5;402;https://www.tripadvisor.fr/Hotel_Review-g187253-d1391547-Reviews-Hotel_Ibis_Budget_Marseille_la_Valentine-Marseille_Bouches_du_Rhone_Provence_Alpes_Cot.html
+64;Marseille;Marseille Centre Prado Vélodrome;3.5;45;https://www.tripadvisor.fr/Hotel_Review-g187253-d2519842-Reviews-Appart_City_Marseille_Centre_Prado_Velodrome-Marseille_Bouches_du_Rhone_Provence_Alpes.html
+65;Marseille;City Residence Marseille;3.0;86;https://www.tripadvisor.fr/Hotel_Review-g187253-d6549962-Reviews-City_Residence_Marseille-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+67;Marseille;Appart'Hotel Odalys Prado Castellane;4.0;119;https://www.tripadvisor.fr/Hotel_Review-g187253-d8660488-Reviews-Appart_Hotel_Odalys_Prado_Castellane-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_.html
+68;Marseille;Les Appartements du Vieux Port;4.5;78;https://www.tripadvisor.fr/Hotel_Review-g187253-d11700427-Reviews-Les_Appartements_du_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+69;Marseille;Adagio Marseille Vieux Port;3.5;660;https://www.tripadvisor.fr/Hotel_Review-g187253-d1503404-Reviews-Adagio_Marseille_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+70;Marseille;B&B HOTEL Marseille Centre La Timone;4.0;251;https://www.tripadvisor.fr/Hotel_Review-g187253-d2152636-Reviews-B_B_Hotel_Marseille_Centre_La_Timone-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_.html
+71;Marseille;ibis budget Marseille Prado Exhibition Centre;3.5;524;https://www.tripadvisor.fr/Hotel_Review-g187253-d507425-Reviews-Ibis_budget_Marseille_Prado_Exhibition_Centre-Marseille_Bouches_du_Rhone_Provence_Alpes.html
+72;Marseille;Ibis Styles Marseille Centre Prado Castellane;3.5;503;https://www.tripadvisor.fr/Hotel_Review-g187253-d2216485-Reviews-Ibis_Styles_Marseille_Centre_Prado_Castellane-Marseille_Bouches_du_Rhone_Provence_Alpe.html
+73;Marseille;Mercure Marseille Canebière Vieux Port Hotel;4.0;44;https://www.tripadvisor.fr/Hotel_Review-g187253-d17424286-Reviews-Mercure_Marseille_Canebiere_Vieux_Port_Hotel-Marseille_Bouches_du_Rhone_Provence_Alpe.html
+74;Marseille;Best Western Hotel Du Mucem;4.0;353;https://www.tripadvisor.fr/Hotel_Review-g187253-d2439908-Reviews-Best_Western_Hotel_Du_Mucem-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+75;Marseille;hotelF1 Marseille Valentine;2.5;65;https://www.tripadvisor.fr/Hotel_Review-g187253-d293680-Reviews-HotelF1_Marseille_Valentine-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+76;Marseille;Mercure Marseille Centre Prado Hotel Velodrome;4.5;31;https://www.tripadvisor.fr/Hotel_Review-g187253-d222942-Reviews-Mercure_Marseille_Centre_Prado_Hotel_Velodrome-Marseille_Bouches_du_Rhone_Provence_Alpe.html
+77;Marseille;Hotel le Corbusier;3.5;347;https://www.tripadvisor.fr/Hotel_Review-g187253-d195833-Reviews-Hotel_le_Corbusier-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+78;Marseille;B&B Hôtel Marseille Prado Velodrome;4.0;170;https://www.tripadvisor.fr/Hotel_Review-g187253-d10282978-Reviews-B_B_HOTEL_Marseille_Prado_Velodrome-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_.html
+79;Marseille;Kyriad Marseille Blancarde - Timone;3.5;121;https://www.tripadvisor.fr/Hotel_Review-g187253-d10146412-Reviews-Kyriad_Marseille_Blancarde_Timone-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Az.html
+81;Marseille;Novotel Marseille Est;3.5;568;https://www.tripadvisor.fr/Hotel_Review-g187253-d197109-Reviews-Novotel_Marseille_Est-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+82;Marseille;Ibis Budget Marseille Est Saint Menet;3.5;228;https://www.tripadvisor.fr/Hotel_Review-g187253-d300902-Reviews-Ibis_Budget_Marseille_Est_Saint_Menet-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_.html
+83;Marseille;Massilia Hotel;4.0;65;https://www.tripadvisor.fr/Hotel_Review-g187253-d12007946-Reviews-Massilia_Hotel-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+84;Marseille;Hôtel Les Cigalons;3.5;10;https://www.tripadvisor.fr/Hotel_Review-g187253-d1054110-Reviews-Hotel_Les_Cigalons-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+85;Marseille;Ibis Marseille La Valentine;4.0;362;https://www.tripadvisor.fr/Hotel_Review-g187253-d197120-Reviews-Ibis_Marseille_La_Valentine-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+86;Marseille;B&B HOTEL Marseille La Valentine;3.0;95;https://www.tripadvisor.fr/Hotel_Review-g187253-d1236472-Reviews-B_B_HOTEL_Marseille_La_Valentine-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+87;Marseille;Ibis Marseille Centre Prado Vélodrome;3.5;556;https://www.tripadvisor.fr/Hotel_Review-g187253-d197117-Reviews-Ibis_Marseille_Centre_Prado_Velodrome-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_.html
+88;Marseille;Hôtel du Rocher;3.0;49;https://www.tripadvisor.fr/Hotel_Review-g187253-d6206610-Reviews-Hotel_du_Rocher-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+89;Marseille;Adonis Marseille Vieux Port;3.0;232;https://www.tripadvisor.fr/Hotel_Review-g187253-d472267-Reviews-Adonis_Marseille_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+90;Marseille;Hôtel Edmond Rostand;3.5;156;https://www.tripadvisor.fr/Hotel_Review-g187253-d236938-Reviews-Hotel_Edmond_Rostand-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+91;Marseille;Appart'hotel Estelle;3.5;30;https://www.tripadvisor.fr/Hotel_Review-g187253-d13117314-Reviews-Appart_hotel_Estelle-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+92;Marseille;Inter-Hôtel Parc des Expositions;3.5;191;https://www.tripadvisor.fr/Hotel_Review-g187253-d578750-Reviews-Inter_Hotel_Parc_des_Expositions-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+93;Marseille;Le Mistral;3.5;129;https://www.tripadvisor.fr/Hotel_Review-g187253-d1450006-Reviews-Le_Mistral-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+94;Marseille;L'Eau des Collines;3.5;82;https://www.tripadvisor.fr/Hotel_Review-g187253-d635493-Reviews-L_Eau_des_Collines-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+95;Marseille;Villa Valflor;4.5;80;https://www.tripadvisor.fr/Hotel_Review-g187253-d2519542-Reviews-Villa_Valflor-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+96;Marseille;Europe Hotel;4.0;130;https://www.tripadvisor.fr/Hotel_Review-g187253-d572344-Reviews-Europe_Hotel-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+97;Marseille;hotelF1 Marseille est Saint Menet;2.0;28;https://www.tripadvisor.fr/Hotel_Review-g187253-d1071169-Reviews-HotelF1_Marseille_est_Saint_Menet-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azu.html
+98;Marseille;Hotel du Sud;3.5;118;https://www.tripadvisor.fr/Hotel_Review-g187253-d238795-Reviews-Hotel_du_Sud-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+99;Marseille;Residence La Canebiere;4.0;19;https://www.tripadvisor.fr/Hotel_Review-g187253-d12558749-Reviews-Residence_La_Canebiere-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+100;Marseille;Le Rhul;3.5;211;https://www.tripadvisor.fr/Hotel_Review-g187253-d220191-Reviews-Le_Rhul-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+101;Marseille;Appart'Hôtel Odalys Marseille Canebière;3.0;105;https://www.tripadvisor.fr/Hotel_Review-g187253-d5598177-Reviews-Appart_Hotel_Odalys_Marseille_Canebiere-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote.html
+102;Marseille;Sylvabelle Hotel;2.5;284;https://www.tripadvisor.fr/Hotel_Review-g187253-d774906-Reviews-Sylvabelle_Hotel-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+104;Marseille;Hotel Manon;3.5;4;https://www.tripadvisor.fr/Hotel_Review-g187253-d1477443-Reviews-Hotel_Manon-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+105;Marseille;B&B HOTEL Marseille Estaque;3.0;52;https://www.tripadvisor.fr/Hotel_Review-g187253-d4178803-Reviews-B_B_HOTEL_Marseille_Estaque-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+106;Marseille;Hotel de l'Ariana;2.5;67;https://www.tripadvisor.fr/Hotel_Review-g187253-d1719794-Reviews-Hotel_de_l_Ariana-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+107;Marseille;New Hotel Le Quai;3.5;3;https://www.tripadvisor.fr/Hotel_Review-g187253-d207552-Reviews-New_Hotel_Le_Quai-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+108;Marseille;B&B HOTEL Marseille-Euromed;3.5;162;https://www.tripadvisor.fr/Hotel_Review-g187253-d6978256-Reviews-B_B_Hotel_Marseille_Euromed-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+109;Marseille;La Villa Blanche;4.5;49;https://www.tripadvisor.fr/Hotel_Review-g187253-d2075038-Reviews-La_Villa_Blanche-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+110;Marseille;Bed & Breakfast Un Mas en Ville;3.5;136;https://www.tripadvisor.fr/Hotel_Review-g187253-d1132999-Reviews-Bed_Breakfast_Un_Mas_en_Ville-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+111;Marseille;B&B HOTEL Marseille Les Ports;3.0;26;https://www.tripadvisor.fr/Hotel_Review-g187253-d10356799-Reviews-B_B_HOTEL_Marseille_Les_Ports-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+112;Marseille;La Maison du Petit Canard;4.0;37;https://www.tripadvisor.fr/Hotel_Review-g187253-d2268383-Reviews-La_Maison_du_Petit_Canard-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+113;Marseille;Hotel Beausejour;2.5;24;https://www.tripadvisor.fr/Hotel_Review-g187253-d10782904-Reviews-Hotel_Beausejour-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+114;Marseille;Apparteo Marseille;3.5;107;https://www.tripadvisor.fr/Hotel_Review-g187253-d9765675-Reviews-Apparteo_Marseille-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+115;Marseille;Casa Ammirati;5.0;4;https://www.tripadvisor.fr/Hotel_Review-g187253-d16917108-Reviews-Casa_Ammirati-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+116;Marseille;Pitchounette et Olives;4.0;14;https://www.tripadvisor.fr/Hotel_Review-g187253-d5009924-Reviews-Pitchounette_et_Olives-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+117;Marseille;Hotel Imperial;1.5;8;https://www.tripadvisor.fr/Hotel_Review-g187253-d1477643-Reviews-Hotel_Imperial-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+118;Marseille;Villa Monticelli;4.5;190;https://www.tripadvisor.fr/Hotel_Review-g187253-d1889028-Reviews-Villa_Monticelli-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+119;Marseille;Hotel Alexandre 1er;3.0;28;https://www.tripadvisor.fr/Hotel_Review-g187253-d1477648-Reviews-Hotel_Alexandre_1er-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+120;Marseille;Hotel Relax;3.5;76;https://www.tripadvisor.fr/Hotel_Review-g187253-d629668-Reviews-Hotel_Relax-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+121;Marseille;Larguez Les Ames Art;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d15154320-Reviews-Larguez_Les_Ames_Art-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+122;Marseille;Vertigo Hostel Saint-Charles;4.0;207;https://www.tripadvisor.fr/Hotel_Review-g187253-d1130311-Reviews-Vertigo_Hostel_Saint_Charles-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+123;Marseille;Decoh Rue Dragon;4.0;19;https://www.tripadvisor.fr/Hotel_Review-g187253-d3559302-Reviews-Decoh_Rue_Dragon-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+124;Marseille;Appartement Design Meuble Marseille Centre Lonchamp;1.0;1;https://www.tripadvisor.fr/Hotel_Review-g187253-d15688890-Reviews-Appartement_Design_Meuble_Marseille_Centre_Lonchamp-Marseille_Bouches_du_Rhone_Proven.html
+125;Marseille;Residence Suitetudes Le Major;3.0;2;https://www.tripadvisor.fr/Hotel_Review-g187253-d3160848-Reviews-Residence_Suitetudes_Le_Major-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+126;Marseille;Appart'Hotel Marseille Vieux-Port;3.5;15;https://www.tripadvisor.fr/Hotel_Review-g187253-d2554372-Reviews-Appart_Hotel_Marseille_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azu.html
+127;Marseille;Hôtel des Allées;1.5;29;https://www.tripadvisor.fr/Hotel_Review-g187253-d7117744-Reviews-Hotel_des_Allees-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+128;Marseille;Hotel Gambetta;2.5;32;https://www.tripadvisor.fr/Hotel_Review-g187253-d3393663-Reviews-Hotel_Gambetta-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+129;Marseille;Château Beaupin;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g187253-d15317585-Reviews-Chateau_Beaupin-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+130;Marseille;Chambre D'Hotes Fabilio;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d16795708-Reviews-Chambre_D_Hotes_Fabilio-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+131;Marseille;Safran de Marseille 1;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d13513851-Reviews-Safran_de_Marseille_1-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+132;Marseille;Chez Regine et Gregoire;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g187253-d12500810-Reviews-Chez_Regine_et_Gregoire-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+133;Marseille;Hotel Victory;2.5;61;https://www.tripadvisor.fr/Hotel_Review-g187253-d5483224-Reviews-Hotel_Victory-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+134;Marseille;Appartement Marseille 5/5;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d15655738-Reviews-Appartement_Marseille_5_5-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+135;Marseille;Les Z'apparts Urban Loft;4.5;3;https://www.tripadvisor.fr/Hotel_Review-g187253-d15738479-Reviews-Les_Z_apparts_Urban_Loft-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+136;Marseille;B&B Les Terrasses de L'etoile;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g187253-d15559494-Reviews-B_B_Les_Terrasses_de_L_etoile-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+137;Marseille;Les Patios du Vieux Port;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d16639910-Reviews-Les_Patios_du_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+138;Marseille;Marseillecity;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d16670923-Reviews-Marseillecity-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+139;Marseille;Studio St Charles;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d17464401-Reviews-Studio_St_Charles-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+140;Marseille;Residence Suiteasy Le 124;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d17351733-Reviews-Residence_Suiteasy_Le_124-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+141;Marseille;Résidence Carpe Diem;4.0;5;https://www.tripadvisor.fr/Hotel_Review-g187253-d10723338-Reviews-Residence_Carpe_Diem-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+142;Marseille;Le Malmousquin;4.5;5;https://www.tripadvisor.fr/Hotel_Review-g187253-d2272277-Reviews-Le_Malmousquin-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+143;Marseille;Le Couvent;5.0;14;https://www.tripadvisor.fr/Hotel_Review-g187253-d10494468-Reviews-Le_Couvent-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+144;Marseille;Le Village Club du Soleil Montgenevre;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d19366602-Reviews-Le_Village_Club_du_Soleil_Montgenevre-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_.html
+145;Marseille;Marseille Prado Velodrome;4.5;3;https://www.tripadvisor.fr/Hotel_Review-g187253-d9694756-Reviews-Marseille_Prado_Velodrome-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+146;Marseille;Appartements Design Marseille;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d19070756-Reviews-Appartements_Design_Marseille-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+147;Marseille;Home Marie;5.0;9;https://www.tripadvisor.fr/Hotel_Review-g187253-d10159863-Reviews-Home_Marie-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+148;Marseille;Ma Chambre En Ville;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d19901114-Reviews-Ma_Chambre_En_Ville-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+149;Marseille;Residence Chateau Gombert - Habitat Pluriel;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d6577607-Reviews-Residence_Chateau_Gombert_Habitat_Pluriel-Marseille_Bouches_du_Rhone_Provence_Alpes_Co.html
+150;Marseille;Bienvenus chez Michel;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d15096889-Reviews-Bienvenus_chez_Michel-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+151;Marseille;Hotel Alizé Marseille - Vieux Port;3.5;510;https://www.tripadvisor.fr/Hotel_Review-g187253-d220190-Reviews-Hotel_Alize_Marseille_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+152;Marseille;Residence Provence;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d19908563-Reviews-Residence_Provence-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+153;Marseille;The Welcomer - Appartement Vieux Port;3.5;2;https://www.tripadvisor.fr/Hotel_Review-g187253-d15675121-Reviews-The_Welcomer_Appartement_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_.html
+154;Marseille;Duc Hotel;2.5;3;https://www.tripadvisor.fr/Hotel_Review-g187253-d8260965-Reviews-Duc_Hotel-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+155;Marseille;Hôtel-Restaurant Le Mas des Grives;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d14196460-Reviews-Hotel_Restaurant_Le_Mas_des_Grives-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_A.html
+156;Marseille;Hotel Moderne;3.5;63;https://www.tripadvisor.fr/Hotel_Review-g187253-d2268810-Reviews-Hotel_Moderne-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+157;Marseille;Hotel de France;2.5;2;https://www.tripadvisor.fr/Hotel_Review-g187253-d10430245-Reviews-Hotel_de_France-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+158;Marseille;La Petite Maison;4.5;9;https://www.tripadvisor.fr/Hotel_Review-g187253-d6715639-Reviews-La_Petite_Maison-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+159;Marseille;Les volets bleus Vieux-Port;4.0;1;https://www.tripadvisor.fr/Hotel_Review-g187253-d15680986-Reviews-Les_volets_bleus_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+160;Marseille;App-Arte Marseille Vieux-Port;4.5;4;https://www.tripadvisor.fr/Hotel_Review-g187253-d6419739-Reviews-App_Arte_Marseille_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+161;Marseille;Hostel London Connection;2.0;33;https://www.tripadvisor.fr/Hotel_Review-g187253-d1625527-Reviews-Hostel_London_Connection-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+162;Marseille;Le Dessus Du Panier;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d15827896-Reviews-Le_Dessus_Du_Panier-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+163;Marseille;Hotel Paradis;3.5;104;https://www.tripadvisor.fr/Hotel_Review-g187253-d236937-Reviews-Hotel_Paradis-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+164;Marseille;les Lofts du Vieux Port;4.0;13;https://www.tripadvisor.fr/Hotel_Review-g187253-d2203443-Reviews-Les_Lofts_du_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+165;Marseille;Apparthotel Odalys Marseille Blancarde L Alhambra;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d17382781-Reviews-Apparthotel_Odalys_Marseille_Blancarde_L_Alhambra-Marseille_Bouches_du_Rhone_Provence.html
+166;Marseille;Le Royal;1.5;22;https://www.tripadvisor.fr/Hotel_Review-g187253-d8694003-Reviews-Le_Royal-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+167;Marseille;Les Cabanons de Fonfon;4.0;46;https://www.tripadvisor.fr/Hotel_Review-g187253-d5544514-Reviews-Les_Cabanons_de_Fonfon-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+168;Marseille;Campagne Saint Jean de Matha;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g187253-d15094283-Reviews-Campagne_Saint_Jean_de_Matha-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+169;Marseille;Appart. Centre Marseille;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d16854919-Reviews-Appart_Centre_Marseille-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+170;Marseille;Appartement Rue Paradis - Castellane;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d15681192-Reviews-Appartement_Rue_Paradis_Castellane-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_A.html
+171;Marseille;Private Rooms Luxury Villa City Center;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d16647852-Reviews-Private_Rooms_Luxury_Villa_City_Center-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote.html
+172;Marseille;Hotel Monte-Cristo;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d17586904-Reviews-Hotel_Monte_Cristo-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+173;Marseille;Les Chambres d'Hotes du Port de Marseille;3.5;20;https://www.tripadvisor.fr/Hotel_Review-g187253-d2471423-Reviews-Les_Chambres_d_Hotes_du_Port_de_Marseille-Marseille_Bouches_du_Rhone_Provence_Alpes_Co.html
+174;Marseille;Sainte Apartments;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d15671276-Reviews-Sainte_Apartments-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+175;Marseille;Music Hotel;4.0;239;https://www.tripadvisor.fr/Hotel_Review-g187253-d2445465-Reviews-Music_Hotel-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+176;Marseille;Hotel l'Oustau;4.0;12;https://www.tripadvisor.fr/Hotel_Review-g187253-d8040195-Reviews-Hotel_l_Oustau-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+177;Marseille;Marseille Hebergement Balaena;3.0;17;https://www.tripadvisor.fr/Hotel_Review-g187253-d1069997-Reviews-Marseille_Hebergement_Balaena-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+178;Marseille;MAAM - Bugeaud;4.0;6;https://www.tripadvisor.fr/Hotel_Review-g187253-d8729886-Reviews-MAAM_Bugeaud-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+179;Marseille;Coloka St Charles;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d3447299-Reviews-Coloka_St_Charles-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+180;Marseille;La Petite Calanque;4.5;176;https://www.tripadvisor.fr/Hotel_Review-g187253-d8260968-Reviews-La_Petite_Calanque-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+181;Marseille;L’hôtel du Fort Ganteaume;3.0;17;https://www.tripadvisor.fr/Hotel_Review-g187253-d12720978-Reviews-L_hotel_du_Fort_Ganteaume-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+182;Marseille;Hotel de la Vallee de l'Eyrieux;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d635369-Reviews-Hotel_de_la_Vallee_de_l_Eyrieux-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+183;Marseille;Adagio City Aparthotel;3.5;32;https://www.tripadvisor.fr/Hotel_Review-g187253-d1163129-Reviews-Adagio_City_Aparthotel-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+184;Marseille;La Halte Gourmande;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d1902030-Reviews-La_Halte_Gourmande-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+185;Marseille;Evasion Antillaise;3.5;22;https://www.tripadvisor.fr/Hotel_Review-g187253-d9610530-Reviews-Evasion_Antillaise-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+186;Marseille;Le Mas des Trois Ponts;4.0;18;https://www.tripadvisor.fr/Hotel_Review-g187253-d2485170-Reviews-Le_Mas_des_Trois_Ponts-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+187;Marseille;Maison Mauro;1.0;1;https://www.tripadvisor.fr/Hotel_Review-g187253-d8726587-Reviews-Maison_Mauro-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+188;Marseille;Le Petit Jardin;5.0;223;https://www.tripadvisor.fr/Hotel_Review-g187253-d1178091-Reviews-Le_Petit_Jardin-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+189;Marseille;Le Panier des Accoules;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d15744063-Reviews-Le_Panier_des_Accoules-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+190;Marseille;Hôtel Moderne;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d6614717-Reviews-Hotel_Moderne-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+191;Marseille;L'Auberge Espagnole;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g187253-d6849404-Reviews-L_Auberge_Espagnole-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+192;Marseille;Hotel Baille Castellane;2.0;4;https://www.tripadvisor.fr/Hotel_Review-g187253-d6476492-Reviews-Hotel_Baille_Castellane-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+193;Marseille;Lieutaud - Appart au Cours Julien;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d17540455-Reviews-Lieutaud_Appart_au_Cours_Julien-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+194;Marseille;BnB Marseille Provence;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d2106012-Reviews-BnB_Marseille_Provence-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+195;Marseille;Hotel Colbert;2.0;3;https://www.tripadvisor.fr/Hotel_Review-g187253-d12346310-Reviews-Hotel_Colbert-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+196;Marseille;Bastide des Escourches;4.5;40;https://www.tripadvisor.fr/Hotel_Review-g187253-d2054544-Reviews-Bastide_des_Escourches-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+197;Marseille;Auberge de Jeunesse Marseille-Bonneveine;3.0;40;https://www.tripadvisor.fr/Hotel_Review-g187253-d2234206-Reviews-Auberge_de_Jeunesse_Marseille_Bonneveine-Marseille_Bouches_du_Rhone_Provence_Alpes_Cot.html
+198;Marseille;Appartement Mucem Vue Mer;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d15693403-Reviews-Appartement_Mucem_Vue_Mer-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+199;Marseille;L'Alocasia;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d15881536-Reviews-L_Alocasia-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+200;Marseille;Hello Marseille Hostel;4.0;138;https://www.tripadvisor.fr/Hotel_Review-g187253-d1754785-Reviews-Hello_Marseille_Hostel-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+201;Marseille;Le 28 Castejon;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g187253-d19738416-Reviews-Le_28_Castejon-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+202;Marseille;Villa Marie Jeanne;4.5;27;https://www.tripadvisor.fr/Hotel_Review-g187253-d8260512-Reviews-Villa_Marie_Jeanne-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+203;Marseille;La Bastide du Roucas;5.0;49;https://www.tripadvisor.fr/Hotel_Review-g187253-d676887-Reviews-La_Bastide_du_Roucas-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+204;Marseille;Villa L'Etoile;4.0;1;https://www.tripadvisor.fr/Hotel_Review-g187253-d3170212-Reviews-Villa_L_Etoile-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+205;Marseille;L'azur des Accoules;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d12925563-Reviews-L_azur_des_Accoules-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+206;Marseille;Hôtel Dugommier, Marseille;2.5;4;https://www.tripadvisor.fr/Hotel_Review-g187253-d6614719-Reviews-Hotel_Dugommier_Marseille-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+207;Marseille;Hotel Nady;3.0;11;https://www.tripadvisor.fr/Hotel_Review-g187253-d265335-Reviews-Hotel_Nady-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+208;Marseille;Le Little Palace;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g187253-d238802-Reviews-Le_Little_Palace-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+209;Marseille;Hotel Val-Redon;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d238788-Reviews-Hotel_Val_Redon-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+210;Marseille;Chateau de la Panouse;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g187253-d238770-Reviews-Chateau_de_la_Panouse-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+211;Marseille;Villa Chateauneuf;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d6408055-Reviews-Villa_Chateauneuf-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+212;Marseille;Le Benidorm;3.5;21;https://www.tripadvisor.fr/Hotel_Review-g187253-d3451831-Reviews-Le_Benidorm-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+213;Marseille;Auberge de Jeunesse Marseille Bois-Luzy;3.0;56;https://www.tripadvisor.fr/Hotel_Review-g187253-d219497-Reviews-Auberge_de_Jeunesse_Marseille_Bois_Luzy-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_.html
+214;Marseille;Sweet-Paradis;5.0;46;https://www.tripadvisor.fr/Hotel_Review-g187253-d2294194-Reviews-Sweet_Paradis-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+215;Marseille;BnB Marseille Provence Chez Tiziano;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d1998067-Reviews-BnB_Marseille_Provence_Chez_Tiziano-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_A.html
+216;Marseille;B&B O Planier;3.5;5;https://www.tripadvisor.fr/Hotel_Review-g187253-d12717390-Reviews-B_B_O_Planier-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+217;Marseille;Hotel Massilia;4.0;3;https://www.tripadvisor.fr/Hotel_Review-g187253-d11046457-Reviews-Hotel_Massilia-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+218;Marseille;Hotel du Coq;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g187253-d236941-Reviews-Hotel_du_Coq-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+219;Marseille;Chez Pia Schaufelberger;5.0;5;https://www.tripadvisor.fr/Hotel_Review-g187253-d236940-Reviews-Chez_Pia_Schaufelberger-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+220;Marseille;Hotel Monthyon;2.0;1;https://www.tripadvisor.fr/Hotel_Review-g187253-d265332-Reviews-Hotel_Monthyon-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+221;Marseille;Casa Honore;4.5;25;https://www.tripadvisor.fr/Hotel_Review-g187253-d1456866-Reviews-Casa_Honore-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+222;Marseille;Hotel Residence Grillon;2.5;13;https://www.tripadvisor.fr/Hotel_Review-g187253-d672353-Reviews-Hotel_Residence_Grillon-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+223;Marseille;UCPA Iles du Frioul;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g187253-d10106446-Reviews-UCPA_Iles_du_Frioul-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+224;Marseille;UCPA Cap Croisette;4.5;3;https://www.tripadvisor.fr/Hotel_Review-g187253-d10106367-Reviews-UCPA_Cap_Croisette-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+225;Marseille;Terre de Sienne;4.5;25;https://www.tripadvisor.fr/Hotel_Review-g187253-d1828972-Reviews-Terre_de_Sienne-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+226;Marseille;Residhome Marseille;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d19925956-Reviews-Residhome_Marseille-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+227;Marseille;Appartements Rue Pisancon;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d15684172-Reviews-Appartements_Rue_Pisancon-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+228;Marseille;Le President;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d1635821-Reviews-Le_President-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+229;Marseille;Florence de Geuser;5.0;4;https://www.tripadvisor.fr/Hotel_Review-g187253-d3909949-Reviews-Florence_de_Geuser-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+230;Marseille;Windsor Hotel;2.0;2;https://www.tripadvisor.fr/Hotel_Review-g187253-d13163735-Reviews-Windsor_Hotel-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+231;Marseille;La Silencieuse A Marseille;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d10554442-Reviews-La_Silencieuse_A_Marseille-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+232;Marseille;Le Volet Bleu;3.5;5;https://www.tripadvisor.fr/Hotel_Review-g187253-d10670028-Reviews-Le_Volet_Bleu-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+233;Marseille;Hotel HM;2.5;19;https://www.tripadvisor.fr/Hotel_Review-g187253-d1222659-Reviews-Hotel_HM-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+234;Marseille;Residence Jane Vialle;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d1068382-Reviews-Residence_Jane_Vialle-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+235;Marseille;Auberges Pagnol;3.0;4;https://www.tripadvisor.fr/Hotel_Review-g187253-d2212273-Reviews-Auberges_Pagnol-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+236;Marseille;Marly Parc;3.0;6;https://www.tripadvisor.fr/Hotel_Review-g187253-d13336228-Reviews-Marly_Parc-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+237;Marseille;Auberge de Bonnevienne;4.5;9;https://www.tripadvisor.fr/Hotel_Review-g187253-d219498-Reviews-Auberge_de_Bonnevienne-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+238;Marseille;Rue des Joyeux;5.0;61;https://www.tripadvisor.fr/Hotel_Review-g187253-d1723034-Reviews-Rue_des_Joyeux-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+239;Marseille;Villa d'Orient;4.5;361;https://www.tripadvisor.fr/Hotel_Review-g187253-d1491638-Reviews-Villa_d_Orient-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+240;Marseille;La Bastide Marseillaise;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d10514431-Reviews-La_Bastide_Marseillaise-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+241;Marseille;Le Lunik;3.0;43;https://www.tripadvisor.fr/Hotel_Review-g187253-d3265198-Reviews-Le_Lunik-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+242;Marseille;La Maison de Milly;5.0;4;https://www.tripadvisor.fr/Hotel_Review-g187253-d1889758-Reviews-La_Maison_de_Milly-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+243;Marseille;B&B Marseille Saumaty Seon;3.0;21;https://www.tripadvisor.fr/Hotel_Review-g187253-d282560-Reviews-B_B_Marseille_Saumaty_Seon-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+244;Marseille;Appartement Design Marseille Timone & Vieux-Port;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d15308001-Reviews-Appartement_Design_Marseille_Timone_Vieux_Port-Marseille_Bouches_du_Rhone_Provence_Al.html
+245;Marseille;Villa Esteou;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187253-d629812-Reviews-Villa_Esteou-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+246;Marseille;Les Villages Clubs du Soleil Marseille - La Belle de Mai;4.0;191;https://www.tripadvisor.fr/Hotel_Review-g187253-d12107206-Reviews-Villages_Clubs_du_Soleil_Marseille-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_A.html
+247;Marseille;Petit Nice Passedat;4.0;504;https://www.tripadvisor.fr/Hotel_Review-g187253-d198259-Reviews-Petit_Nice_Passedat-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+248;Marseille;Grand Tonic Hotel Marseille;3.0;609;https://www.tripadvisor.fr/Hotel_Review-g187253-d232409-Reviews-Grand_Tonic_Hotel_Marseille-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+249;Marseille;MarseilleCity Chambres et Appartements d'hôtes;4.5;18;https://www.tripadvisor.fr/Hotel_Review-g187253-d12994995-Reviews-MarseilleCity_Chambres_et_Appartements_d_hotes-Marseille_Bouches_du_Rhone_Provence_Al.html
+250;Marseille;Ibis Budget Marseille l'Estaque;3.5;342;https://www.tripadvisor.fr/Hotel_Review-g187253-d2290422-Reviews-Ibis_Budget_Marseille_l_Estaque-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+251;Marseille;La Luna;5.0;85;https://www.tripadvisor.fr/Hotel_Review-g187253-d4004270-Reviews-La_Luna-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+255;Marseille;Domaine De La Maillane;3.5;55;https://www.tripadvisor.fr/Hotel_Review-g187253-d3250575-Reviews-Domaine_De_La_Maillane-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+264;Marseille;Château d'Eoures;4.5;8;https://www.tripadvisor.fr/Hotel_Review-g187253-d3467884-Reviews-Chateau_d_Eoures-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+273;Marseille;Le Clos du Jas;5.0;117;https://www.tripadvisor.fr/Hotel_Review-g187253-d3782416-Reviews-Le_Clos_du_Jas-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+274;Marseille;Maison Boa;5.0;12;https://www.tripadvisor.fr/Hotel_Review-g187253-d10498150-Reviews-Maison_Boa-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+276;Marseille;Best Western Marseille Bonneveine Prado;3.5;318;https://www.tripadvisor.fr/Hotel_Review-g187253-d505290-Reviews-Best_Western_Marseille_Bonneveine_Prado-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_.html
+281;Marseille;La Palmeraie;4.5;213;https://www.tripadvisor.fr/Hotel_Review-g187253-d1133872-Reviews-La_Palmeraie-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+282;Marseille;les chambres de jeannette;4.5;81;https://www.tripadvisor.fr/Hotel_Review-g187253-d3410243-Reviews-Les_Chambres_de_Jeannette-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+283;Marseille;Bastide de l'Etoile;4.5;104;https://www.tripadvisor.fr/Hotel_Review-g187253-d817534-Reviews-Bastide_de_l_Etoile-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+288;Marseille;Habitation Bougainville;4.5;54;https://www.tripadvisor.fr/Hotel_Review-g187253-d1587939-Reviews-Habitation_Bougainville-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html
+291;Marseille;Au Vieux Panier;4.5;71;https://www.tripadvisor.fr/Hotel_Review-g187253-d1793124-Reviews-Au_Vieux_Panier-Marseille_Bouches_du_Rhone_Provence_Alpes_Cote_d_Azur.html

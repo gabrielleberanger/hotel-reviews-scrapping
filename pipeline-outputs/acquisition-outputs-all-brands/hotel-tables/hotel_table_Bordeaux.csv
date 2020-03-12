@@ -1,0 +1,292 @@
+;city;hotel_name;hotel_rating;hotel_reviews;hotel_url
+0;Bordeaux;Hilton Garden Inn Bordeaux Centre;4.0;381;https://www.tripadvisor.fr/Hotel_Review-g187079-d14504725-Reviews-Hilton_Garden_Inn_Bordeaux_Centre-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+1;Bordeaux;Quality Hotel Bordeaux Centre;4.0;1414;https://www.tripadvisor.fr/Hotel_Review-g187079-d196932-Reviews-Quality_Hotel_Bordeaux_Centre-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+2;Bordeaux;Hôtel de Tourny;4.5;824;https://www.tripadvisor.fr/Hotel_Review-g187079-d2083214-Reviews-Hotel_de_Tourny-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+3;Bordeaux;Le Boutique Hotel;4.5;1175;https://www.tripadvisor.fr/Hotel_Review-g187079-d2217757-Reviews-Le_Boutique_Hotel-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+4;Bordeaux;Appart’hôtel Victoria Garden Bordeaux;3.5;336;https://www.tripadvisor.fr/Hotel_Review-g187079-d293385-Reviews-Appart_hotel_Victoria_Garden_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+5;Bordeaux;ResidHotel Galerie Tatry;3.5;1128;https://www.tripadvisor.fr/Hotel_Review-g187079-d1146549-Reviews-ResidHotel_Galerie_Tatry-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+6;Bordeaux;Ibis Bordeaux Centre Meriadeck;3.5;2474;https://www.tripadvisor.fr/Hotel_Review-g187079-d196937-Reviews-Ibis_Bordeaux_Centre_Meriadeck-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+7;Bordeaux;Radisson Blu Hôtel;4.5;174;https://www.tripadvisor.fr/Hotel_Review-g187079-d15080462-Reviews-Radisson_Blu_Hotel-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+8;Bordeaux;Mama Shelter Bordeaux;4.5;1433;https://www.tripadvisor.fr/Hotel_Review-g187079-d4763234-Reviews-Mama_Shelter_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+9;Bordeaux;Hotel de Seze;4.5;942;https://www.tripadvisor.fr/Hotel_Review-g187079-d219753-Reviews-Hotel_de_Seze-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+10;Bordeaux;Ibis Budget Bordeaux Mériadeck;3.0;1902;https://www.tripadvisor.fr/Hotel_Review-g187079-d669310-Reviews-Ibis_Budget_Bordeaux_Centre_Meriadeck-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+11;Bordeaux;Novotel Bordeaux Centre;3.5;1458;https://www.tripadvisor.fr/Hotel_Review-g187079-d196936-Reviews-Novotel_Bordeaux_Centre-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+12;Bordeaux;Premiere Classe Bordeaux Ouest - Mérignac Aéroport;4.0;385;https://www.tripadvisor.fr/Hotel_Review-g207338-d6950291-Reviews-Premiere_Classe_Bordeaux_Ouest_Merignac_Aeroport-Merignac_Bordeaux_Gironde_Nouvelle_Aq.html
+13;Bordeaux;Zenitude Hôtel-Résidences Bordeaux Aéroport;3.5;389;https://www.tripadvisor.fr/Hotel_Review-g207338-d10694750-Reviews-Zenitude_Hotel_Residences_Bordeaux_Aeroport-Merignac_Bordeaux_Gironde_Nouvelle_Aquita.html
+14;Bordeaux;Ibis Budget Bordeaux Aeroport;4.0;897;https://www.tripadvisor.fr/Hotel_Review-g207338-d1769746-Reviews-Ibis_Budget_Bordeaux_Aeroport-Merignac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+15;Bordeaux;Ibis Budget Bordeaux Gare Saint Jean;3.5;1035;https://www.tripadvisor.fr/Hotel_Review-g187079-d629163-Reviews-Ibis_Budget_Bordeaux_Gare_Saint_Jean-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+16;Bordeaux;Aparthotel Adagio;4.0;1232;https://www.tripadvisor.fr/Hotel_Review-g187079-d1109727-Reviews-Aparthotel_Adagio-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+17;Bordeaux;Hotel Le Palais Gallien;4.5;90;https://www.tripadvisor.fr/Hotel_Review-g187079-d15518068-Reviews-Hotel_Le_Palais_Gallien-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+18;Bordeaux;Hotel Burdigala;4.5;1008;https://www.tripadvisor.fr/Hotel_Review-g187079-d240243-Reviews-Hotel_Burdigala-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+19;Bordeaux;Hôtel Altica Bordeaux Floirac;4.5;156;https://www.tripadvisor.fr/Hotel_Review-g1939011-d1821935-Reviews-Hotel_Altica_Bordeaux_Floirac-Floirac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+20;Bordeaux;Kyriad Bordeaux Bègles;3.5;275;https://www.tripadvisor.fr/Hotel_Review-g226847-d229515-Reviews-Kyriad_Bordeaux_Begles-Begles_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+21;Bordeaux;YNDO hotel;5.0;576;https://www.tripadvisor.fr/Hotel_Review-g187079-d7132968-Reviews-Yndohotel-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+22;Bordeaux;Ibis Styles Bordeaux Aeroport;4.0;871;https://www.tripadvisor.fr/Hotel_Review-g207338-d233278-Reviews-Ibis_Styles_Bordeaux_Aeroport-Merignac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+23;Bordeaux;Ibis Bordeaux Centre Gare Saint Jean;4.0;874;https://www.tripadvisor.fr/Hotel_Review-g187079-d196940-Reviews-Ibis_Bordeaux_Centre_Gare_Saint_Jean-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+24;Bordeaux;Hôtel Pullman Bordeaux Lac;4.0;1246;https://www.tripadvisor.fr/Hotel_Review-g187079-d228736-Reviews-Hotel_Pullman_Bordeaux_Lac-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+25;Bordeaux;Hôtel Konti;4.0;76;https://www.tripadvisor.fr/Hotel_Review-g187079-d220403-Reviews-Hotel_Konti-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+26;Bordeaux;Hotel Le Chantry;4.0;849;https://www.tripadvisor.fr/Hotel_Review-g187079-d228746-Reviews-Hotel_Le_Chantry-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+27;Bordeaux;Hôtel Cardinal;5.0;128;https://www.tripadvisor.fr/Hotel_Review-g187079-d13223541-Reviews-Hotel_Cardinal_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+28;Bordeaux;Best Western Premier Hôtel Bayonne Etche-Ona;4.5;412;https://www.tripadvisor.fr/Hotel_Review-g187079-d219752-Reviews-Best_Western_Premier_Hotel_Bayonne_Etche_Ona-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+29;Bordeaux;Nemea Appart Hôtel;3.5;137;https://www.tripadvisor.fr/Hotel_Review-g207338-d12949642-Reviews-Nemea_Appart_Hotel_Residence_Stadium-Merignac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+30;Bordeaux;Hôtel Mercure Bordeaux;3.5;1464;https://www.tripadvisor.fr/Hotel_Review-g187079-d196933-Reviews-Mercure_Bordeaux_Centre_Ville-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+31;Bordeaux;Best Western Grand Hotel Francais;4.5;624;https://www.tripadvisor.fr/Hotel_Review-g187079-d198312-Reviews-Best_Western_Grand_Hotel_Francais-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+32;Bordeaux;Novotel Bordeaux Lac;4.0;1444;https://www.tripadvisor.fr/Hotel_Review-g187079-d196935-Reviews-Novotel_Bordeaux_Lac-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+33;Bordeaux;Seeko'o Hôtel;4.0;98;https://www.tripadvisor.fr/Hotel_Review-g187079-d678657-Reviews-Seeko_o_Hotel-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+34;Bordeaux;Ibis Budget Bordeaux Lormont;4.0;178;https://www.tripadvisor.fr/Hotel_Review-g644083-d13289937-Reviews-Ibis_Budget_Bordeaux_Lormont-Lormont_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+35;Bordeaux;Ibis Bordeaux Lac Hotel;4.0;1123;https://www.tripadvisor.fr/Hotel_Review-g187079-d196939-Reviews-Ibis_Bordeaux_Lac_Hotel-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+36;Bordeaux;La Grande Maison de Bernard Magrez;4.5;245;https://www.tripadvisor.fr/Hotel_Review-g187079-d7317258-Reviews-La_Grande_Maison_de_Bernard_Magrez-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+37;Bordeaux;Bordeaux Cosy B&B;5.0;465;https://www.tripadvisor.fr/Hotel_Review-g187079-d1217366-Reviews-Bordeaux_Cosy_B_B-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+38;Bordeaux;Arena Hotel;4.0;311;https://www.tripadvisor.fr/Hotel_Review-g207337-d1804592-Reviews-Arena_Hotel-Gradignan_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+39;Bordeaux;InterContinental Bordeaux Le Grand Hotel;4.5;1945;https://www.tripadvisor.fr/Hotel_Review-g187079-d651293-Reviews-InterContinental_Bordeaux_Le_Grand_Hotel-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+40;Bordeaux;Residhome Bordeaux;4.5;149;https://www.tripadvisor.fr/Hotel_Review-g187079-d12337670-Reviews-Residhome_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+41;Bordeaux;Campanile Bordeaux Ouest - Mérignac Aéroport;4.0;477;https://www.tripadvisor.fr/Hotel_Review-g207338-d6950278-Reviews-Campanile_Bordeaux_Ouest_Merignac_Aeroport-Merignac_Bordeaux_Gironde_Nouvelle_Aquitain.html
+42;Bordeaux;Mercure Bordeaux Cité Mondiale Centre Ville;4.0;1094;https://www.tripadvisor.fr/Hotel_Review-g187079-d228853-Reviews-Mercure_Bordeaux_Cite_Mondiale_Centre_Ville-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+43;Bordeaux;Ibis Budget Bordeaux Centre Bastide;3.5;850;https://www.tripadvisor.fr/Hotel_Review-g187079-d677969-Reviews-Ibis_Budget_Bordeaux_Centre_Bastide-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+44;Bordeaux;Ibis Styles Bordeaux Meriadeck;3.5;942;https://www.tripadvisor.fr/Hotel_Review-g187079-d227990-Reviews-Ibis_Styles_Bordeaux_Meriadeck-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+45;Bordeaux;Ibis Budget Bordeaux Sud Villenave d'Ornon;3.5;532;https://www.tripadvisor.fr/Hotel_Review-g1025628-d1391532-Reviews-Ibis_Budget_Bordeaux_Sud_Villenave_d_Ornon-Villenave_D_ornon_Bordeaux_Gironde_Nouvell.html
+46;Bordeaux;Quality Suites Bordeaux Aeroport;3.5;488;https://www.tripadvisor.fr/Hotel_Review-g207338-d291524-Reviews-Quality_Suites_Bordeaux_Aeroport-Merignac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+47;Bordeaux;Ibis Bordeaux Centre Bastide;4.0;1168;https://www.tripadvisor.fr/Hotel_Review-g187079-d647446-Reviews-Ibis_Bordeaux_Centre_Bastide-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+48;Bordeaux;Hotel Vatel;4.5;191;https://www.tripadvisor.fr/Hotel_Review-g187079-d9862911-Reviews-Hotel_Vatel-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+49;Bordeaux;Hotel Gambetta;3.5;389;https://www.tripadvisor.fr/Hotel_Review-g187079-d632518-Reviews-Hotel_Gambetta-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+50;Bordeaux;Kyriad Prestige Bordeaux Ouest - Mérignac;4.0;310;https://www.tripadvisor.fr/Hotel_Review-g207338-d233230-Reviews-Kyriad_Prestige_Bordeaux_Ouest_Merignac-Merignac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+51;Bordeaux;Acanthe Hotel;4.0;339;https://www.tripadvisor.fr/Hotel_Review-g187079-d293518-Reviews-Acanthe_Hotel-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+52;Bordeaux;Hôtel De La Presse;3.5;291;https://www.tripadvisor.fr/Hotel_Review-g187079-d229723-Reviews-Hotel_De_La_Presse-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+53;Bordeaux;Cœur de City Hotel Bordeaux Clemenceau by HappyCulture;3.5;998;https://www.tripadvisor.fr/Hotel_Review-g187079-d293524-Reviews-Coeur_de_City_Hotel_Bordeaux_Clemenceau_by_HappyCulture-Bordeaux_Gironde_Nouvelle_Aquit.html
+54;Bordeaux;Hôtel Gardenia Bordeaux ouest;4.5;38;https://www.tripadvisor.fr/Hotel_Review-g662282-d14780212-Reviews-Hotel_Gardenia_Bordeaux_ouest-Eysines_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+55;Bordeaux;BEST WESTERN Plus Hotel Gare Saint Jean;4.0;685;https://www.tripadvisor.fr/Hotel_Review-g187079-d228825-Reviews-Best_Western_Plus_Hotel_Gare_Saint_Jean-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+56;Bordeaux;All Suites Appart Hotel Pessac;4.0;231;https://www.tripadvisor.fr/Hotel_Review-g196515-d9698489-Reviews-All_Suites_Appart_Hotel_Pessac-Pessac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+57;Bordeaux;Golden Tulip Bordeaux - Euratlantique;4.0;147;https://www.tripadvisor.fr/Hotel_Review-g187079-d14122753-Reviews-Golden_Tulip_Bordeaux_Euratlantique-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+58;Bordeaux;Ibis Bordeaux Pessac;3.5;562;https://www.tripadvisor.fr/Hotel_Review-g196515-d197020-Reviews-Hotel_ibis_Bordeaux_Pessac_Route_des_Vins-Pessac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+59;Bordeaux;Campanile Bordeaux Sud - Gradignan - Talence;3.5;204;https://www.tripadvisor.fr/Hotel_Review-g207337-d287130-Reviews-Campanile_Bordeaux_Sud_Gradignan_Talence-Gradignan_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+60;Bordeaux;Mercure Bordeaux Aeroport;3.5;622;https://www.tripadvisor.fr/Hotel_Review-g207338-d233276-Reviews-Mercure_Bordeaux_Aeroport-Merignac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+61;Bordeaux;Qualys-Hôtel La Tour Intendance;3.5;382;https://www.tripadvisor.fr/Hotel_Review-g187079-d293396-Reviews-Qualys_Hotel_La_Tour_Intendance-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+62;Bordeaux;Ibis Styles Bordeaux Gare Saint-Jean;3.5;614;https://www.tripadvisor.fr/Hotel_Review-g187079-d482408-Reviews-Ibis_Styles_Bordeaux_Gare_Saint_Jean-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+63;Bordeaux;Premiere Classe Bordeaux Ouest - Eysines;2.5;256;https://www.tripadvisor.fr/Hotel_Review-g662282-d671745-Reviews-Premiere_Classe_Bordeaux_Ouest_Eysines-Eysines_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+64;Bordeaux;Hôtel du Théâtre;4.0;344;https://www.tripadvisor.fr/Hotel_Review-g187079-d654964-Reviews-Hotel_du_Theatre-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+65;Bordeaux;ibis Bordeaux Airport Hotel;3.5;161;https://www.tripadvisor.fr/Hotel_Review-g207338-d233274-Reviews-Ibis_Bordeaux_Airport_Hotel-Merignac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+66;Bordeaux;Première Classe Bordeaux Sud - Villenave D'Ornon;2.5;326;https://www.tripadvisor.fr/Hotel_Review-g1025628-d1050110-Reviews-Premiere_Classe_Bordeaux_Sud_Villenave_D_Ornon-Villenave_D_ornon_Bordeaux_Gironde_Nou.html
+67;Bordeaux;Hotel Formule Club;3.0;146;https://www.tripadvisor.fr/Hotel_Review-g1938977-d3489362-Reviews-Hotel_Formule_Club-Cenon_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+68;Bordeaux;La Maison Odeia;5.0;91;https://www.tripadvisor.fr/Hotel_Review-g187079-d12675829-Reviews-La_Maison_Odeia-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+69;Bordeaux;Holiday Inn Bordeaux Sud Pessac;4.0;282;https://www.tripadvisor.fr/Hotel_Review-g196515-d559395-Reviews-Holiday_Inn_Bordeaux_Sud_Pessac-Pessac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+70;Bordeaux;P'tit Dej-HOTEL Bordeaux Lac;4.0;268;https://www.tripadvisor.fr/Hotel_Review-g1180991-d2200139-Reviews-P_tit_Dej_HOTEL_Bordeaux_Lac-Bruges_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+71;Bordeaux;Novotel Bordeaux Airport Hotel;3.5;682;https://www.tripadvisor.fr/Hotel_Review-g207338-d233277-Reviews-Novotel_Bordeaux_Airport_Hotel-Merignac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+72;Bordeaux;Hotel Mercure Bordeaux Centre Gare Saint Jean;3.5;927;https://www.tripadvisor.fr/Hotel_Review-g187079-d227989-Reviews-Hotel_Mercure_Bordeaux_Centre_Gare_Saint_Jean-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+73;Bordeaux;All Suites Appart Hôtel Bordeaux Lac;2.5;454;https://www.tripadvisor.fr/Hotel_Review-g187079-d1735645-Reviews-All_Suites_Appart_Hotel_Bordeaux_Lac-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+74;Bordeaux;Hôtel Altica Bordeaux Villenave d'Ornon;4.5;119;https://www.tripadvisor.fr/Hotel_Review-g1025628-d1838775-Reviews-Hotel_Altica_Bordeaux_Villenave_d_Ornon-Villenave_D_ornon_Bordeaux_Gironde_Nouvelle_A.html
+75;Bordeaux;Comte d’Ornon Hôtel & Spa;4.0;154;https://www.tripadvisor.fr/Hotel_Review-g207337-d1057398-Reviews-Comte_d_Ornon_Hotel_Spa-Gradignan_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+76;Bordeaux;Mercure Bordeaux Chateau Chartrons Hotel;3.5;1042;https://www.tripadvisor.fr/Hotel_Review-g187079-d196934-Reviews-Mercure_Bordeaux_Chateau_Chartrons_Hotel-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+77;Bordeaux;All Suites Appart Hotel Bordeaux Merignac;2.5;273;https://www.tripadvisor.fr/Hotel_Review-g207338-d625518-Reviews-All_Suites_Appart_Hotel_Bordeaux_Merignac-Merignac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+78;Bordeaux;Comfort Hotel Bordeaux Pessac;4.0;181;https://www.tripadvisor.fr/Hotel_Review-g207337-d279783-Reviews-Comfort_Hotel_Bordeaux_Pessac-Gradignan_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+79;Bordeaux;Hotel Majestic;4.0;498;https://www.tripadvisor.fr/Hotel_Review-g187079-d219754-Reviews-Hotel_Majestic-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+80;Bordeaux;Hôtel BDX Gare Saint-Jean;4.0;82;https://www.tripadvisor.fr/Hotel_Review-g187079-d528656-Reviews-Hotel_BDX_Gare_Saint_Jean-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+81;Bordeaux;Campanile Bordeaux Nord - Le Lac;3.5;670;https://www.tripadvisor.fr/Hotel_Review-g187079-d482410-Reviews-Campanile_Bordeaux_Nord_Le_Lac-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+82;Bordeaux;Le Provençal;4.0;325;https://www.tripadvisor.fr/Hotel_Review-g187079-d483762-Reviews-Le_Provencal-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+83;Bordeaux;Hotel Notre-Dame;4.0;145;https://www.tripadvisor.fr/Hotel_Review-g187079-d290952-Reviews-Hotel_Notre_Dame-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+84;Bordeaux;Hotel de L'Opera;3.0;249;https://www.tripadvisor.fr/Hotel_Review-g187079-d293364-Reviews-Hotel_de_L_Opera-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+85;Bordeaux;Hôtel des Quinconces;4.5;83;https://www.tripadvisor.fr/Hotel_Review-g187079-d12243587-Reviews-Hotel_des_Quinconces-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+86;Bordeaux;Appart-Hotel Mer & Golf City Bordeaux Bassins à Flot;3.5;79;https://www.tripadvisor.fr/Hotel_Review-g187079-d12010722-Reviews-Appart_Hotel_Mer_Golf_City_Bordeaux_Bassins_a_Flot-Bordeaux_Gironde_Nouvelle_Aquitain.html
+87;Bordeaux;Hostel20;4.0;59;https://www.tripadvisor.fr/Hotel_Review-g187079-d10169341-Reviews-Hostel20-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+88;Bordeaux;Appart'City Bordeaux Chartrons;4.0;139;https://www.tripadvisor.fr/Hotel_Review-g187079-d10778403-Reviews-Appart_City_Bordeaux_Chartrons-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+89;Bordeaux;Ibis Budget Bordeaux Le Lac;3.5;691;https://www.tripadvisor.fr/Hotel_Review-g187079-d279503-Reviews-Ibis_Budget_Bordeaux_Le_Lac-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+90;Bordeaux;Quality Hotel Bordeaux Pessac;4.5;111;https://www.tripadvisor.fr/Hotel_Review-g207337-d6420578-Reviews-Quality_Hotel_Bordeaux_Pessac-Gradignan_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+91;Bordeaux;Hotel des 4 Soeurs;3.5;124;https://www.tripadvisor.fr/Hotel_Review-g187079-d581110-Reviews-Hotel_des_4_Soeurs-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+92;Bordeaux;Fasthotel;3.5;98;https://www.tripadvisor.fr/Hotel_Review-g661224-d1845536-Reviews-Fasthotel-Artigues_pres_Bordeaux_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+93;Bordeaux;Kyriad Hotel Les 4 Pavillons - Bordeaux Lormont;4.0;195;https://www.tripadvisor.fr/Hotel_Review-g644083-d597763-Reviews-Kyriad_Hotel_Les_4_Pavillons_Bordeaux_Lormont-Lormont_Bordeaux_Gironde_Nouvelle_Aquitai.html
+94;Bordeaux;Ibis Styles Bordeaux Saint Medard;4.0;459;https://www.tripadvisor.fr/Hotel_Review-g1833139-d3456425-Reviews-Ibis_Styles_Bordeaux_Saint_Medard-Saint_Medard_en_Jalles_Bordeaux_Gironde_Nouvelle_Aq.html
+95;Bordeaux;B&B Hotel Bordeaux Mérignac Aéroport;3.5;115;https://www.tripadvisor.fr/Hotel_Review-g207338-d662285-Reviews-B_B_Hotel_Bordeaux_Merignac_Airport-Merignac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+96;Bordeaux;Adagio Access Bordeaux Rodesse;3.0;443;https://www.tripadvisor.fr/Hotel_Review-g187079-d472299-Reviews-Adagio_Access_Bordeaux_Rodesse-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+97;Bordeaux;Hôtel Altica Bordeaux Mérignac;4.0;174;https://www.tripadvisor.fr/Hotel_Review-g207338-d1595935-Reviews-Hotel_Altica_Bordeaux_Merignac-Merignac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+98;Bordeaux;Sure Hotel by Best Western Bordeaux Aéroport;3.5;384;https://www.tripadvisor.fr/Hotel_Review-g207338-d2152325-Reviews-Sure_Hotel_by_Best_Western_Bordeaux_Aeroport-Merignac_Bordeaux_Gironde_Nouvelle_Aquita.html
+99;Bordeaux;Hôtel La Cour Carrée;4.0;493;https://www.tripadvisor.fr/Hotel_Review-g187079-d3160945-Reviews-Hotel_La_Cour_Carree-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+100;Bordeaux;Hôtel Stars Bordeaux Gare;2.0;379;https://www.tripadvisor.fr/Hotel_Review-g187079-d232374-Reviews-Hotel_Stars_Bordeaux_Gare-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+101;Bordeaux;Premiere Classe Bordeaux Est - Lormont;2.5;341;https://www.tripadvisor.fr/Hotel_Review-g644083-d644574-Reviews-Premiere_Classe_Bordeaux_Est_Lormont-Lormont_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+102;Bordeaux;Ibis Bordeaux Centre Gare Saint-Jean Euratlantique;3.5;484;https://www.tripadvisor.fr/Hotel_Review-g187079-d232369-Reviews-Ibis_Bordeaux_Centre_Gare_Saint_Jean_Euratlantique_Hotel-Bordeaux_Gironde_Nouvelle_Aqui.html
+103;Bordeaux;hotelF1 Bordeaux ville;2.5;33;https://www.tripadvisor.fr/Hotel_Review-g187079-d1165045-Reviews-HotelF1_Bordeaux_ville-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+104;Bordeaux;Inter Hotel du Phare;4.0;290;https://www.tripadvisor.fr/Hotel_Review-g207338-d233275-Reviews-Inter_Hotel_du_Phare-Merignac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+105;Bordeaux;Campanile Bordeaux Ouest - Le Bouscat;3.0;216;https://www.tripadvisor.fr/Hotel_Review-g661216-d488532-Reviews-Campanile_Bordeaux_Ouest_Le_Bouscat-Le_Bouscat_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+106;Bordeaux;Appart'City Bordeaux Centre;3.0;593;https://www.tripadvisor.fr/Hotel_Review-g187079-d676702-Reviews-Appart_City_Bordeaux_Centre-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+107;Bordeaux;Premiere Classe Bordeaux Nord - Lac;3.0;106;https://www.tripadvisor.fr/Hotel_Review-g187079-d482518-Reviews-Premiere_Classe_Bordeaux_Nord_Lac-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+108;Bordeaux;Hotel de France;3.5;226;https://www.tripadvisor.fr/Hotel_Review-g187079-d593336-Reviews-Hotel_de_France-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+109;Bordeaux;Best Hôtel Bordeaux Sud;2.0;68;https://www.tripadvisor.fr/Hotel_Review-g1025628-d234816-Reviews-Best_Hotel_Bordeaux_Sud-Villenave_D_ornon_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+110;Bordeaux;Hôtel La Maison du Lierre;4.0;318;https://www.tripadvisor.fr/Hotel_Review-g187079-d528653-Reviews-Maison_du_Lierre-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+111;Bordeaux;The Originals City, Hotel Apolonia, Bordeaux Lac;3.5;390;https://www.tripadvisor.fr/Hotel_Review-g187079-d535275-Reviews-The_Originals_City_Hotel_Apolonia_Bordeaux_Lac-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+112;Bordeaux;hotelF1 Bordeaux Sud Villenave d'Ornon;3.0;51;https://www.tripadvisor.fr/Hotel_Review-g1025628-d1071466-Reviews-HotelF1_Bordeaux_Sud_Villenave_d_Ornon-Villenave_D_ornon_Bordeaux_Gironde_Nouvelle_Aq.html
+113;Bordeaux;B&B HOTEL Bordeaux Centre Gare Saint-Jean;3.5;40;https://www.tripadvisor.fr/Hotel_Review-g187079-d14193232-Reviews-B_B_HOTEL_Bordeaux_Centre_Gare_Saint_Jean-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+114;Bordeaux;Hôtel Régina;3.5;107;https://www.tripadvisor.fr/Hotel_Review-g187079-d660140-Reviews-Hotel_Regina-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+115;Bordeaux;Les Criquets;4.0;138;https://www.tripadvisor.fr/Hotel_Review-g676155-d293370-Reviews-Les_Criquets-Blanquefort_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+116;Bordeaux;Hotel de Normandie;4.0;222;https://www.tripadvisor.fr/Hotel_Review-g187079-d219048-Reviews-Hotel_de_Normandie-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+117;Bordeaux;Hotel Bel-Air;3.0;81;https://www.tripadvisor.fr/Hotel_Review-g1939136-d2140046-Reviews-Hotel_Bel_Air-Le_Haillan_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+118;Bordeaux;Hotel The Originals Bordeaux Airport;3.5;276;https://www.tripadvisor.fr/Hotel_Review-g207338-d293407-Reviews-Hotel_The_Originals_Bordeaux_Airport-Merignac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+119;Bordeaux;Le Miroir aux Fees;4.5;48;https://www.tripadvisor.fr/Hotel_Review-g187079-d5316850-Reviews-Le_Miroir_aux_Fees-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+120;Bordeaux;Comfort Hotel Bordeaux Mérignac;3.0;108;https://www.tripadvisor.fr/Hotel_Review-g207338-d226988-Reviews-Comfort_Hotel_Bordeaux_Merignac-Merignac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+121;Bordeaux;B&B HOTEL Bordeaux Sud;3.0;53;https://www.tripadvisor.fr/Hotel_Review-g1025628-d1235947-Reviews-B_B_HOTEL_Bordeaux_Sud-Villenave_D_ornon_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+123;Bordeaux;Campanile Bordeaux Est - Artigues;3.0;220;https://www.tripadvisor.fr/Hotel_Review-g661224-d488530-Reviews-Campanile_Bordeaux_Est_Artigues-Artigues_pres_Bordeaux_Bordeaux_Gironde_Nouvelle_Aquita.html
+124;Bordeaux;3B Hotel de Bordeaux;3.5;42;https://www.tripadvisor.fr/Hotel_Review-g1914685-d3596248-Reviews-3B_Hotel_de_Bordeaux-Ambares_et_Lagrave_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+125;Bordeaux;B&B HOTEL Bordeaux Lormont;3.0;33;https://www.tripadvisor.fr/Hotel_Review-g644083-d1235944-Reviews-B_B_HOTEL_Bordeaux_Lormont-Lormont_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+130;Bordeaux;Château Pape Clément;5.0;89;https://www.tripadvisor.fr/Hotel_Review-g196515-d5247646-Reviews-Chateau_Pape_Clement-Pessac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+131;Bordeaux;Chambres à Bord'O;5.0;62;https://www.tripadvisor.fr/Hotel_Review-g187079-d7077127-Reviews-Chambres_a_Bord_O-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+132;Bordeaux;Les Séraphines - Bed N Business - Bordeaux;4.5;335;https://www.tripadvisor.fr/Hotel_Review-g187079-d1750656-Reviews-Les_Seraphines_Bed_N_Business_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+133;Bordeaux;Château Grattequina;4.5;318;https://www.tripadvisor.fr/Hotel_Review-g676155-d582683-Reviews-Chateau_Grattequina-Blanquefort_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+134;Bordeaux;La Course;5.0;126;https://www.tripadvisor.fr/Hotel_Review-g187079-d8433280-Reviews-La_Course-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+135;Bordeaux;L'Hotel Particulier;4.5;437;https://www.tripadvisor.fr/Hotel_Review-g187079-d2146110-Reviews-L_Hotel_Particulier-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+136;Bordeaux;Le Clos d'Emile;5.0;85;https://www.tripadvisor.fr/Hotel_Review-g187079-d8803403-Reviews-Le_Clos_d_Emile-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+137;Bordeaux;Au Coeur de Bordeaux - Chambres et Table d'hotes;4.5;355;https://www.tripadvisor.fr/Hotel_Review-g187079-d2519841-Reviews-Au_Coeur_de_Bordeaux_Chambres_et_Table_d_hotes-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+138;Bordeaux;Casa Blanca;5.0;68;https://www.tripadvisor.fr/Hotel_Review-g187079-d10761306-Reviews-Casa_Blanca-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+139;Bordeaux;La Halte Montaigne;5.0;602;https://www.tripadvisor.fr/Hotel_Review-g187079-d1739967-Reviews-La_Halte_Montaigne-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+140;Bordeaux;Villa Victor Louis;4.5;147;https://www.tripadvisor.fr/Hotel_Review-g187079-d10238168-Reviews-Villa_Victor_Louis-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+141;Bordeaux;Une Chambre Chez Dupont;5.0;301;https://www.tripadvisor.fr/Hotel_Review-g187079-d3546918-Reviews-Une_Chambre_Chez_Dupont-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+142;Bordeaux;L'Invitation Au Voyage;4.5;115;https://www.tripadvisor.fr/Hotel_Review-g187079-d3316526-Reviews-L_Invitation_Au_Voyage-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+143;Bordeaux;L'Echoppe des Bouilles;4.5;151;https://www.tripadvisor.fr/Hotel_Review-g187079-d2216568-Reviews-L_Echoppe_des_Bouilles-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+144;Bordeaux;Ecolodge des Chartrons;4.5;170;https://www.tripadvisor.fr/Hotel_Review-g187079-d1066696-Reviews-Ecolodge_des_Chartrons-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+145;Bordeaux;La Ferrade Chambres d'Hotes;5.0;229;https://www.tripadvisor.fr/Hotel_Review-g226847-d2289723-Reviews-La_Ferrade_Chambres_d_Hotes-Begles_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+146;Bordeaux;La Maison Cachee;5.0;153;https://www.tripadvisor.fr/Hotel_Review-g187079-d3338619-Reviews-La_Maison_Cachee-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+147;Bordeaux;B&B Cosy Corner Bordeaux;5.0;211;https://www.tripadvisor.fr/Hotel_Review-g187079-d1163647-Reviews-B_B_Cosy_Corner_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+148;Bordeaux;C'est une maison bleue;4.5;169;https://www.tripadvisor.fr/Hotel_Review-g187079-d1949142-Reviews-A_blue_lodge_in_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+149;Bordeaux;La Parenthese des Capucins;5.0;31;https://www.tripadvisor.fr/Hotel_Review-g187079-d17600476-Reviews-La_Parenthese_des_Capucins-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+150;Bordeaux;Appart-Hôtel Mer & Golf City Bordeaux Lac - Bruges;4.0;208;https://www.tripadvisor.fr/Hotel_Review-g1180991-d6577428-Reviews-Appart_Hotel_Mer_Golf_City_Bordeaux_Lac_Bruges-Bruges_Bordeaux_Gironde_Nouvelle_Aquit.html
+151;Bordeaux;Premiere Classe Bordeaux Sud - Pessac Becquerel;2.5;341;https://www.tripadvisor.fr/Hotel_Review-g196515-d650641-Reviews-Premiere_Classe_Bordeaux_Sud_Pessac_Becquerel-Pessac_Bordeaux_Gironde_Nouvelle_Aquitain.html
+152;Bordeaux;Premiere Classe Bordeaux Sud - Pessac Bersol;3.0;105;https://www.tripadvisor.fr/Hotel_Review-g196515-d293400-Reviews-Premiere_Classe_Bordeaux_Sud_Pessac_Bersol-Pessac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+153;Bordeaux;Campanile Bordeaux Sud Pessac;3.5;258;https://www.tripadvisor.fr/Hotel_Review-g196515-d287125-Reviews-Campanile_Bordeaux_Sud_Pessac-Pessac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+154;Bordeaux;Villa Segur;4.0;45;https://www.tripadvisor.fr/Hotel_Review-g187079-d15688263-Reviews-Villa_Segur-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+155;Bordeaux;Apparteo Bordeaux;3.5;113;https://www.tripadvisor.fr/Hotel_Review-g187079-d11867884-Reviews-Apparteo_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+158;Bordeaux;Teneo Apparthotel Bordeaux Merignac Aeroport;3.5;114;https://www.tripadvisor.fr/Hotel_Review-g207338-d2039835-Reviews-Teneo_Apparthotel_Bordeaux_Merignac_Aeroport-Merignac_Bordeaux_Gironde_Nouvelle_Aquita.html
+159;Bordeaux;Mercure Bordeaux Lac;3.5;614;https://www.tripadvisor.fr/Hotel_Review-g187079-d232377-Reviews-Mercure_Bordeaux_Lac-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+160;Bordeaux;Novalis;4.0;81;https://www.tripadvisor.fr/Hotel_Review-g207337-d614673-Reviews-Novalis-Gradignan_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+161;Bordeaux;Domaine de Raba;4.0;106;https://www.tripadvisor.fr/Hotel_Review-g1055933-d1021693-Reviews-Domaine_de_Raba-Talence_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+162;Bordeaux;Teneo Appathôtel Bordeaux;3.0;359;https://www.tripadvisor.fr/Hotel_Review-g187079-d662615-Reviews-Teneo_Appathotel_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+163;Bordeaux;All Suites Appart Hotel Bordeaux Marne;3.5;124;https://www.tripadvisor.fr/Hotel_Review-g187079-d12910623-Reviews-All_Suites_Appart_Hotel_Bordeaux_Marne-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+164;Bordeaux;Hôtel De La Boetie;4.0;62;https://www.tripadvisor.fr/Hotel_Review-g187079-d3311030-Reviews-Hotel_De_La_Boetie-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+165;Bordeaux;La Maison Fernand;5.0;27;https://www.tripadvisor.fr/Hotel_Review-g187079-d15179745-Reviews-La_Maison_Fernand-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+166;Bordeaux;Moulin de Monjous;4.5;14;https://www.tripadvisor.fr/Hotel_Review-g207337-d13444844-Reviews-Moulin_de_Monjous-Gradignan_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+167;Bordeaux;Eklo Bordeaux Centre Bastide;3.5;69;https://www.tripadvisor.fr/Hotel_Review-g187079-d17604000-Reviews-Eklo_Bordeaux_Centre_Bastide-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+169;Bordeaux;Ténéo Apparthotel Talence;3.0;129;https://www.tripadvisor.fr/Hotel_Review-g1055933-d662622-Reviews-Teneo_Apparthotel_Talence-Talence_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+170;Bordeaux;Bordeaux Traditions;4.5;11;https://www.tripadvisor.fr/Hotel_Review-g187079-d15274587-Reviews-Bordeaux_Traditions-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+171;Bordeaux;Hôtel Singulier Bordeaux;4.5;17;https://www.tripadvisor.fr/Hotel_Review-g187079-d17585657-Reviews-Hotel_Singulier_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+173;Bordeaux;La Maison de Sebea;4.0;25;https://www.tripadvisor.fr/Hotel_Review-g187079-d6888623-Reviews-La_Maison_de_Sebea-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+174;Bordeaux;Hotel Churchill Bordeaux Centre;4.0;41;https://www.tripadvisor.fr/Hotel_Review-g187079-d12258612-Reviews-Hotel_Churchill_Bordeaux_Centre-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+175;Bordeaux;La Maison Fredon;3.5;94;https://www.tripadvisor.fr/Hotel_Review-g187079-d2430719-Reviews-La_Maison_Fredon-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+176;Bordeaux;La Villa Desvaux de Marigny;4.5;30;https://www.tripadvisor.fr/Hotel_Review-g187079-d6897423-Reviews-La_Villa_Desvaux_de_Marigny-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+177;Bordeaux;Bordeaux Saint Michel;4.5;5;https://www.tripadvisor.fr/Hotel_Review-g187079-d15363965-Reviews-Bordeaux_Saint_Michel-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+178;Bordeaux;La Belle Endormie;5.0;14;https://www.tripadvisor.fr/Hotel_Review-g187079-d13964305-Reviews-La_Belle_Endormie-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+179;Bordeaux;Patio De L'Intendance;4.5;30;https://www.tripadvisor.fr/Hotel_Review-g187079-d3268779-Reviews-Patio_De_L_Intendance-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+180;Bordeaux;initial by balladins Bordeaux Eysines;2.5;27;https://www.tripadvisor.fr/Hotel_Review-g662282-d662283-Reviews-Initial_by_balladins_Bordeaux_Eysines-Eysines_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+181;Bordeaux;Study Hotel Bordeaux Lormont;4.5;36;https://www.tripadvisor.fr/Hotel_Review-g644083-d10437802-Reviews-Study_Hotel_Bordeaux_Lormont-Lormont_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+182;Bordeaux;Loft Zen;2.5;15;https://www.tripadvisor.fr/Hotel_Review-g187079-d8043195-Reviews-Loft_Zen-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+183;Bordeaux;Villa Reale;5.0;14;https://www.tripadvisor.fr/Hotel_Review-g187079-d12998223-Reviews-Villa_Reale-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+184;Bordeaux;Une Chambre en Ville;4.0;165;https://www.tripadvisor.fr/Hotel_Review-g187079-d614133-Reviews-Une_Chambre_en_Ville-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+185;Bordeaux;Hotel Nad;2.0;6;https://www.tripadvisor.fr/Hotel_Review-g187079-d10037206-Reviews-Hotel_Nad-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+186;Bordeaux;Les Bruyères;4.0;44;https://www.tripadvisor.fr/Hotel_Review-g1833139-d4221409-Reviews-Les_Bruyeres-Saint_Medard_en_Jalles_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+187;Bordeaux;La Maison Bastide;5.0;49;https://www.tripadvisor.fr/Hotel_Review-g187079-d4561437-Reviews-La_Maison_Bastide-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+188;Bordeaux;La Villa Bocage;5.0;4;https://www.tripadvisor.fr/Hotel_Review-g187079-d17424391-Reviews-La_Villa_Bocage-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+189;Bordeaux;Séjours & Affaires Yser;4.0;10;https://www.tripadvisor.fr/Hotel_Review-g187079-d14098117-Reviews-Sejours_Affaires_Yser-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+190;Bordeaux;Les Bonbonieres D'Andrea Gavinies Pellegrin;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d15680642-Reviews-Les_Bonbonieres_D_Andrea_Gavinies_Pellegrin-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+191;Bordeaux;L’Appartement Bordelais;4.5;6;https://www.tripadvisor.fr/Hotel_Review-g187079-d15274576-Reviews-L_Appartement_Bordelais-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+192;Bordeaux;Studios In The Historic Center;1.0;1;https://www.tripadvisor.fr/Hotel_Review-g187079-d15511512-Reviews-Studios_In_The_Historic_Center-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+193;Bordeaux;Villa Erizio, Bordeaux Centre;5.0;20;https://www.tripadvisor.fr/Hotel_Review-g187079-d15618668-Reviews-Villa_Erizio_Bordeaux_Centre-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+194;Bordeaux;Le Clos des Carmes;5.0;4;https://www.tripadvisor.fr/Hotel_Review-g187079-d6439048-Reviews-Le_Clos_des_Carmes-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+195;Bordeaux;Bioethnique;5.0;2;https://www.tripadvisor.fr/Hotel_Review-g187079-d12968319-Reviews-Bioethnique-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+196;Bordeaux;Les Chambres d'Art;4.5;24;https://www.tripadvisor.fr/Hotel_Review-g187079-d6600415-Reviews-Les_Chambres_d_Art-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+197;Bordeaux;Friendly Appartements Bordeaux Saint-Seurin;4.5;2;https://www.tripadvisor.fr/Hotel_Review-g187079-d15081099-Reviews-Friendly_Appartements_Bordeaux_Saint_Seurin-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+198;Bordeaux;Villa Sequoia Garden;4.5;34;https://www.tripadvisor.fr/Hotel_Review-g187079-d2525604-Reviews-Villa_Sequoia_Garden-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+199;Bordeaux;Les Chambres De Saint-Nicolas;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d15243226-Reviews-Les_Chambres_De_Saint_Nicolas-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+200;Bordeaux;Appartement de Charme Bordeaux Centre;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d15268664-Reviews-Appartement_de_Charme_Bordeaux_Centre-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+201;Bordeaux;L'Appart De La Course;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d15641010-Reviews-L_Appart_De_La_Course-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+202;Bordeaux;L'Escapade Bordelaise - Cote Jardin;4.0;8;https://www.tripadvisor.fr/Hotel_Review-g187079-d13533081-Reviews-L_Escapade_Bordelaise_Cote_Jardin-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+203;Bordeaux;Love Loft;5.0;86;https://www.tripadvisor.fr/Hotel_Review-g187079-d6395243-Reviews-Love_Loft-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+204;Bordeaux;Maison De L'artiste;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d15216082-Reviews-Maison_De_L_artiste-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+205;Bordeaux;Les Nuits Bordelaises;4.5;3;https://www.tripadvisor.fr/Hotel_Review-g187079-d15710116-Reviews-Les_Nuits_Bordelaises-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+206;Bordeaux;Les Suites Du Palais Gallien;4.0;1;https://www.tripadvisor.fr/Hotel_Review-g187079-d15511421-Reviews-Les_Suites_Du_Palais_Gallien-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+207;Bordeaux;L'Escapade Bordelaise;3.5;15;https://www.tripadvisor.fr/Hotel_Review-g187079-d12447743-Reviews-L_Escapade_Bordelaise-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+208;Bordeaux;Les Chambres De Gambetta;1.0;1;https://www.tripadvisor.fr/Hotel_Review-g187079-d6411294-Reviews-Les_Chambres_De_Gambetta-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+209;Bordeaux;Immoservice33 - Bordeaux - Jardin Public;4.0;1;https://www.tripadvisor.fr/Hotel_Review-g187079-d15264426-Reviews-Immoservice33_Bordeaux_Jardin_Public-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+210;Bordeaux;Otellia;3.5;26;https://www.tripadvisor.fr/Hotel_Review-g676155-d4492578-Reviews-Otellia-Blanquefort_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+211;Bordeaux;Le Chateau la Cheze;4.0;94;https://www.tripadvisor.fr/Hotel_Review-g1939011-d2637609-Reviews-Le_Chateau_la_Cheze-Floirac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+212;Bordeaux;Fasthotel Bordeaux Eysines;2.5;3;https://www.tripadvisor.fr/Hotel_Review-g662282-d15512485-Reviews-Fasthotel_Bordeaux_Eysines-Eysines_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+213;Bordeaux;Home Sweet Bordeaux;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d19750727-Reviews-Home_Sweet_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+214;Bordeaux;Lescapade Bordelaise - Cote Hotel de Ville;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d19120908-Reviews-Lescapade_Bordelaise_Cote_Hotel_de_Ville-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+215;Bordeaux;Quick Palace;3.0;54;https://www.tripadvisor.fr/Hotel_Review-g661224-d2232778-Reviews-Quick_Palace-Artigues_pres_Bordeaux_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+216;Bordeaux;L'Esprit des Chartrons;4.5;109;https://www.tripadvisor.fr/Hotel_Review-g187079-d1876771-Reviews-L_Esprit_des_Chartrons-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+217;Bordeaux;Le Domaine De Saint-Jean;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d15688571-Reviews-Le_Domaine_De_Saint_Jean-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+218;Bordeaux;Le Clos Beaufleury;1.0;1;https://www.tripadvisor.fr/Hotel_Review-g187079-d16665315-Reviews-Le_Clos_Beaufleury-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+219;Bordeaux;Domitys Le Millesime;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d16665240-Reviews-Domitys_Le_Millesime-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+220;Bordeaux;L'Arène Bordeaux;4.5;91;https://www.tripadvisor.fr/Hotel_Review-g187079-d3297893-Reviews-L_Arene_Bordeaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+221;Bordeaux;Studio Purple & Green;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d17757447-Reviews-Studio_Purple_Green-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+222;Bordeaux;La Grenadine;4.5;50;https://www.tripadvisor.fr/Hotel_Review-g187079-d6395241-Reviews-La_Grenadine-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+223;Bordeaux;Hotel Wood Inn Bordeaux Aeroport;4.0;3;https://www.tripadvisor.fr/Hotel_Review-g207338-d13646442-Reviews-Hotel_Wood_Inn_Bordeaux_Aeroport-Merignac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+224;Bordeaux;Residence Amal;2.5;18;https://www.tripadvisor.fr/Hotel_Review-g1055933-d2699404-Reviews-Residence_Amal-Talence_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+225;Bordeaux;Amicalement Hote;4.5;22;https://www.tripadvisor.fr/Hotel_Review-g187079-d5969866-Reviews-Amicalement_Hote-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+226;Bordeaux;Hôtel de Guyenne;4.5;76;https://www.tripadvisor.fr/Hotel_Review-g1055933-d2327726-Reviews-Hotel_de_Guyenne-Talence_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+227;Bordeaux;Chantafred Hotel;3.5;53;https://www.tripadvisor.fr/Hotel_Review-g196515-d1215115-Reviews-Chantafred_Hotel-Pessac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+228;Bordeaux;My Clean House;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d16766008-Reviews-My_Clean_House-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+229;Bordeaux;Violette;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g196515-d16666169-Reviews-Violette-Pessac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+230;Bordeaux;Cocoloba;4.0;32;https://www.tripadvisor.fr/Hotel_Review-g662282-d2631039-Reviews-Cocoloba-Eysines_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+231;Bordeaux;Inter-Hotel Bordeaux Meriadeck Alton;2.0;1;https://www.tripadvisor.fr/Hotel_Review-g187079-d17202176-Reviews-Inter_Hotel_Bordeaux_Meriadeck_Alton-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+232;Bordeaux;L'Hotel Privé;5.0;47;https://www.tripadvisor.fr/Hotel_Review-g187079-d10505683-Reviews-L_Hotel_Prive-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+233;Bordeaux;Aquitain Hotel;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d17844622-Reviews-Aquitain_Hotel-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+234;Bordeaux;Gare Saint Jean (2mn) Appartements;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d15684763-Reviews-Gare_Saint_Jean_2mn_Appartements-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+235;Bordeaux;Le clos des bambous;4.5;84;https://www.tripadvisor.fr/Hotel_Review-g226847-d2167696-Reviews-Le_clos_des_bambous-Begles_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+236;Bordeaux;Villa Saigon;1.0;1;https://www.tripadvisor.fr/Hotel_Review-g187079-d19141561-Reviews-Villa_Saigon-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+237;Bordeaux;Student Factory Bordeaux Armagnac;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d17458535-Reviews-Student_Factory_Bordeaux_Armagnac-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+238;Bordeaux;24 Rue Gaspard Philippe;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d16871439-Reviews-24_Rue_Gaspard_Philippe-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+239;Bordeaux;S'cool Hostel;3.0;7;https://www.tripadvisor.fr/Hotel_Review-g187079-d12393381-Reviews-S_cool_Hostel-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+240;Bordeaux;Villa Lecocq;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d16748158-Reviews-Villa_Lecocq-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+241;Bordeaux;Villa les Marronniers;4.5;3;https://www.tripadvisor.fr/Hotel_Review-g187079-d7378292-Reviews-Villa_les_Marronniers-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+242;Bordeaux;Le Clos des Queyries;4.5;3;https://www.tripadvisor.fr/Hotel_Review-g187079-d19087211-Reviews-Le_Clos_des_Queyries-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+243;Bordeaux;La Villa Verte;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d15681138-Reviews-La_Villa_Verte-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+244;Bordeaux;Aux Terrasses;5.0;2;https://www.tripadvisor.fr/Hotel_Review-g187079-d15565135-Reviews-Aux_Terrasses-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+245;Bordeaux;L'Echoppe & Les Toiles;4.5;10;https://www.tripadvisor.fr/Hotel_Review-g1580929-d10315871-Reviews-L_Echoppe_Les_Toiles-Carbon_Blanc_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+246;Bordeaux;Le Juliano;3.0;10;https://www.tripadvisor.fr/Hotel_Review-g1580929-d1726243-Reviews-Le_Juliano-Carbon_Blanc_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+247;Bordeaux;La Table de Cana Hotel;3.5;33;https://www.tripadvisor.fr/Hotel_Review-g207337-d4739429-Reviews-La_Table_de_Cana_Hotel-Gradignan_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+248;Bordeaux;Château de Moulerens;4.0;4;https://www.tripadvisor.fr/Hotel_Review-g207337-d12727055-Reviews-Chateau_de_Moulerens-Gradignan_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+249;Bordeaux;The Originals City, Amphitryon Cottage, Southern Bordeaux;3.5;99;https://www.tripadvisor.fr/Hotel_Review-g207337-d229724-Reviews-The_Originals_City_Amphitryon_Cottage_Southern_Bordeaux-Gradignan_Bordeaux_Gironde_Nouv.html
+250;Bordeaux;L'Escadrille;3.5;127;https://www.tripadvisor.fr/Hotel_Review-g207338-d3383210-Reviews-L_Escadrille-Merignac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+251;Bordeaux;Chambres de Standing Parc Bourran;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g207338-d15278281-Reviews-Chambres_de_Standing_Parc_Bourran-Merignac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+252;Bordeaux;Chambre Chez L'Habitant Avec Cuisine SDB A Partager;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g207338-d17673212-Reviews-Chambre_Chez_L_Habitant_Avec_Cuisine_SDB_A_Partager-Merignac_Bordeaux_Gironde_Nouvell.html
+253;Bordeaux;Shandita;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g207338-d19619106-Reviews-Shandita-Merignac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+254;Bordeaux;La Villa Blanche;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g1055933-d15364053-Reviews-La_Villa_Blanche-Talence_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+255;Bordeaux;Prestappart;3.0;1;https://www.tripadvisor.fr/Hotel_Review-g196515-d12830080-Reviews-Prestappart-Pessac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+256;Bordeaux;Crisalys Chambres d'Hotes;5.0;23;https://www.tripadvisor.fr/Hotel_Review-g196515-d11834091-Reviews-Crisalys_Chambres_d_Hotes-Pessac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+257;Bordeaux;Chambres d'hôtes du Parc d'Espagne;4.5;19;https://www.tripadvisor.fr/Hotel_Review-g196515-d1732809-Reviews-Chambres_d_hotes_du_parc_d_Espagne-Pessac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+258;Bordeaux;Villa Bordeaux-Pessac Haut-Leveque;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g196515-d16671416-Reviews-Villa_Bordeaux_Pessac_Haut_Leveque-Pessac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+259;Bordeaux;Villa Caramac;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g661216-d16691789-Reviews-Villa_Caramac-Le_Bouscat_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+260;Bordeaux;Chambre Dans Bel Appartement Avec Piscine;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g676155-d15293144-Reviews-Chambre_Dans_Bel_Appartement_Avec_Piscine-Blanquefort_Bordeaux_Gironde_Nouvelle_Aquit.html
+261;Bordeaux;Clos Saint Medard;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g1833139-d15684120-Reviews-Clos_Saint_Medard-Saint_Medard_en_Jalles_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+262;Bordeaux;CheZ L - Chambre Avec Petit Dejeuner;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g1833139-d17596934-Reviews-CheZ_L_Chambre_Avec_Petit_Dejeuner-Saint_Medard_en_Jalles_Bordeaux_Gironde_Nouvelle_.html
+263;Bordeaux;Résidence Abitel Bordeaux;4.5;2;https://www.tripadvisor.fr/Hotel_Review-g1025628-d7905240-Reviews-Residence_Abitel_Bordeaux-Villenave_D_ornon_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+264;Bordeaux;La Demeure Du Passage;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g1939011-d17573489-Reviews-La_Demeure_Du_Passage-Floirac_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+265;Bordeaux;Chateau Le Lout;5.0;6;https://www.tripadvisor.fr/Hotel_Review-g1939141-d8855759-Reviews-Chateau_Le_Lout-Le_Taillan_Medoc_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+266;Bordeaux;Gites Les Courreges;1.0;1;https://www.tripadvisor.fr/Hotel_Review-g1939218-d15292927-Reviews-Gites_Les_Courreges-Parempuyre_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+267;Bordeaux;Château Peyronnet;5.0;14;https://www.tripadvisor.fr/Hotel_Review-g1939316-d6954040-Reviews-Chateau_Peyronnet-Saint_Louis_De_Montferrand_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+268;Bordeaux;Chambres d'hotes Belcier;5.0;5;https://www.tripadvisor.fr/Hotel_Review-g226847-d12159846-Reviews-Chambres_d_hotes_Belcier-Begles_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+269;Bordeaux;Auberge de Jeunesse;3.5;127;https://www.tripadvisor.fr/Hotel_Review-g187079-d2272512-Reviews-Auberge_de_Jeunesse-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+270;Bordeaux;La Maison de la Sabliere;5.0;105;https://www.tripadvisor.fr/Hotel_Review-g1833139-d1833141-Reviews-La_Maison_de_la_Sabliere-Saint_Medard_en_Jalles_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+271;Bordeaux;Complexe Hotelier Le Montaigne;1.0;1;https://www.tripadvisor.fr/Hotel_Review-g187079-d636183-Reviews-Complexe_Hotelier_Le_Montaigne-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+272;Bordeaux;Travel'Inn Bordeaux Aeroport;3.5;4;https://www.tripadvisor.fr/Hotel_Review-g187079-d1227227-Reviews-Travel_Inn_Bordeaux_Aeroport-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+273;Bordeaux;Donjon Saint Genes;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d5969859-Reviews-Donjon_Saint_Genes-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+274;Bordeaux;Atlantic Hotel;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g187079-d1213685-Reviews-Atlantic_Hotel-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+275;Bordeaux;Hotel De La Cite;3.0;1;https://www.tripadvisor.fr/Hotel_Review-g187079-d1213684-Reviews-Hotel_De_La_Cite-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+276;Bordeaux;Hotel-Bar Saint Martin;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d1213683-Reviews-Hotel_Bar_Saint_Martin-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+277;Bordeaux;Hotel Restaurant Les Cardinaux;4.0;24;https://www.tripadvisor.fr/Hotel_Review-g187079-d1213680-Reviews-Hotel_Restaurant_Les_Cardinaux-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+278;Bordeaux;Hotel L'etape Gasconne;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d1213678-Reviews-Hotel_L_etape_Gasconne-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+279;Bordeaux;Hotel Balzac;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d1213677-Reviews-Hotel_Balzac-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+280;Bordeaux;83 rue de Patay;4.5;6;https://www.tripadvisor.fr/Hotel_Review-g187079-d1946069-Reviews-83_rue_de_Patay-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+281;Bordeaux;Hôtel Mercure Bordeaux Cité Mondiale;4.5;3;https://www.tripadvisor.fr/Hotel_Review-g187079-d19091555-Reviews-Hotel_Mercure_Bordeaux_Cite_Mondiale-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+282;Bordeaux;Bordeaux Libre;4.0;39;https://www.tripadvisor.fr/Hotel_Review-g187079-d2086660-Reviews-Bordeaux_Libre-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+283;Bordeaux;Relais Akena Bordeaux West;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d261478-Reviews-Relais_Akena_Bordeaux_West-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+284;Bordeaux;Chez Flo;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d13320026-Reviews-Chez_Flo-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+285;Bordeaux;Moulin de Canteloup;4.0;1;https://www.tripadvisor.fr/Hotel_Review-g187079-d12805848-Reviews-Moulin_de_Canteloup-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+286;Bordeaux;Soretel Bordeaux Saint Jean;2.0;1;https://www.tripadvisor.fr/Hotel_Review-g187079-d505280-Reviews-Soretel_Bordeaux_Saint_Jean-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+287;Bordeaux;Libertel Hotel Claret;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d505271-Reviews-Libertel_Hotel_Claret-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+288;Bordeaux;Hotel Le Pavillon;4.0;24;https://www.tripadvisor.fr/Hotel_Review-g187079-d1739031-Reviews-Hotel_Le_Pavillon-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+289;Bordeaux;C'Yusha;4.5;7;https://www.tripadvisor.fr/Hotel_Review-g187079-d1687425-Reviews-C_Yusha-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+290;Bordeaux;Sejourneur - Gambetta 2 - T3;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187079-d15709451-Reviews-Sejourneur_Gambetta_2_T3-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+291;Bordeaux;Hotel Choiseul;3.5;39;https://www.tripadvisor.fr/Hotel_Review-g187079-d528654-Reviews-Hotel_Choiseul-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+292;Bordeaux;La Zenitude;4.5;3;https://www.tripadvisor.fr/Hotel_Review-g187079-d3150639-Reviews-La_Zenitude-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+293;Bordeaux;Auberge Quebecoise;4.0;9;https://www.tripadvisor.fr/Hotel_Review-g187079-d5001308-Reviews-Auberge_Quebecoise-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+294;Bordeaux;Le Trianon;3.0;1;https://www.tripadvisor.fr/Hotel_Review-g187079-d284101-Reviews-Le_Trianon-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+295;Bordeaux;Residence Yser;3.5;30;https://www.tripadvisor.fr/Hotel_Review-g187079-d617902-Reviews-Residence_Yser-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+296;Bordeaux;La Maison Danjou;1.0;1;https://www.tripadvisor.fr/Hotel_Review-g187079-d2699970-Reviews-La_Maison_Danjou-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+297;Bordeaux;Willkomen;4.5;2;https://www.tripadvisor.fr/Hotel_Review-g187079-d12403859-Reviews-Willkomen-Bordeaux_Gironde_Nouvelle_Aquitaine.html
+298;Bordeaux;Beausoleil Hotel;4.0;4;https://www.tripadvisor.fr/Hotel_Review-g207337-d1215117-Reviews-Beausoleil_Hotel-Gradignan_Bordeaux_Gironde_Nouvelle_Aquitaine.html
+299;Bordeaux;Résidence le Stadium;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g207338-d13130282-Reviews-Residence_le_Stadium-Merignac_Bordeaux_Gironde_Nouvelle_Aquitaine.html

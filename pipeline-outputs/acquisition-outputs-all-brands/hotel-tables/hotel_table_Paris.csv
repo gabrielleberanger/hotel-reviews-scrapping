@@ -1,0 +1,290 @@
+;city;hotel_name;hotel_rating;hotel_reviews;hotel_url
+0;Paris;Novotel Paris Les Halles;4.0;5363;https://www.tripadvisor.fr/Hotel_Review-g187147-d197424-Reviews-Novotel_Paris_Les_Halles-Paris_Ile_de_France.html
+1;Paris;CitizenM Paris Gare de Lyon;4.5;2109;https://www.tripadvisor.fr/Hotel_Review-g187147-d12455412-Reviews-CitizenM_Paris_Gare_de_Lyon-Paris_Ile_de_France.html
+2;Paris;Hôtel Eiffel Blomet;4.5;899;https://www.tripadvisor.fr/Hotel_Review-g187147-d6395273-Reviews-Hotel_Eiffel_Blomet-Paris_Ile_de_France.html
+3;Paris;Hôtel La Manufacture;4.5;2242;https://www.tripadvisor.fr/Hotel_Review-g187147-d197563-Reviews-Hotel_La_Manufacture-Paris_Ile_de_France.html
+4;Paris;Pullman Paris Tour Eiffel;4.0;3258;https://www.tripadvisor.fr/Hotel_Review-g187147-d197985-Reviews-Pullman_Paris_Tour_Eiffel-Paris_Ile_de_France.html
+5;Paris;Hyatt Regency Paris Étoile;4.0;1127;https://www.tripadvisor.fr/Hotel_Review-g187147-d595754-Reviews-Hyatt_Regency_Paris_Etoile-Paris_Ile_de_France.html
+6;Paris;Novotel Paris Centre Gare Montparnasse;4.0;2448;https://www.tripadvisor.fr/Hotel_Review-g187147-d597573-Reviews-Novotel_Paris_Centre_Gare_Montparnasse-Paris_Ile_de_France.html
+7;Paris;Hôtel Signature Saint Germain des Près;5.0;1596;https://www.tripadvisor.fr/Hotel_Review-g187147-d220000-Reviews-Hotel_Signature_St_Germain_des_Pres-Paris_Ile_de_France.html
+8;Paris;Mercure Paris Centre Eiffel Tower Hotel;4.0;5548;https://www.tripadvisor.fr/Hotel_Review-g187147-d197656-Reviews-Mercure_Paris_Centre_Eiffel_Tower_Hotel-Paris_Ile_de_France.html
+9;Paris;Hotel Europe Saint Severin;4.5;2179;https://www.tripadvisor.fr/Hotel_Review-g187147-d250927-Reviews-Hotel_Europe_Saint_Severin-Paris_Ile_de_France.html
+10;Paris;Hotel Saint Petersbourg;4.5;1396;https://www.tripadvisor.fr/Hotel_Review-g187147-d228833-Reviews-Hotel_Saint_Petersbourg-Paris_Ile_de_France.html
+11;Paris;Hôtel Malte - Astotel;5.0;1095;https://www.tripadvisor.fr/Hotel_Review-g187147-d228694-Reviews-Hotel_Malte_Astotel-Paris_Ile_de_France.html
+12;Paris;Hôtel R de Paris;5.0;1096;https://www.tripadvisor.fr/Hotel_Review-g187147-d233583-Reviews-Hotel_R_de_Paris-Paris_Ile_de_France.html
+13;Paris;Pullman Paris Centre - Bercy;4.5;3574;https://www.tripadvisor.fr/Hotel_Review-g187147-d207838-Reviews-Pullman_Paris_Centre_Bercy-Paris_Ile_de_France.html
+14;Paris;Le Mareuil;4.5;1090;https://www.tripadvisor.fr/Hotel_Review-g187147-d264828-Reviews-Le_Mareuil-Paris_Ile_de_France.html
+15;Paris;Citadines Saint-Germain-des-Pres Paris;4.5;2422;https://www.tripadvisor.fr/Hotel_Review-g187147-d208096-Reviews-Citadines_Saint_Germain_des_Pres_Paris-Paris_Ile_de_France.html
+16;Paris;Hôtel Molière;5.0;650;https://www.tripadvisor.fr/Hotel_Review-g187147-d232545-Reviews-Hotel_Moliere-Paris_Ile_de_France.html
+17;Paris;The Hoxton;4.5;827;https://www.tripadvisor.fr/Hotel_Review-g187147-d12537470-Reviews-The_Hoxton-Paris_Ile_de_France.html
+18;Paris;25hours Hotel Terminus Nord;4.5;322;https://www.tripadvisor.fr/Hotel_Review-g187147-d653824-Reviews-25hours_Hotel_Terminus_Nord-Paris_Ile_de_France.html
+19;Paris;Hotel Fabric;5.0;1565;https://www.tripadvisor.fr/Hotel_Review-g187147-d4340356-Reviews-Hotel_Fabric-Paris_Ile_de_France.html
+20;Paris;Hotel la Nouvelle Republique;5.0;399;https://www.tripadvisor.fr/Hotel_Review-g187147-d12829774-Reviews-Hotel_la_Nouvelle_Republique-Paris_Ile_de_France.html
+21;Paris;Hotel Relais Bosquet Paris;4.5;2711;https://www.tripadvisor.fr/Hotel_Review-g187147-d229602-Reviews-Hotel_Relais_Bosquet_Paris-Paris_Ile_de_France.html
+22;Paris;Hôtel Mademoiselle;4.5;1707;https://www.tripadvisor.fr/Hotel_Review-g187147-d233514-Reviews-Hotel_Mademoiselle-Paris_Ile_de_France.html
+23;Paris;Mercure Paris Montmartre Sacre Coeur;4.0;3082;https://www.tripadvisor.fr/Hotel_Review-g187147-d197567-Reviews-Mercure_Paris_Montmartre_Sacre_Coeur-Paris_Ile_de_France.html
+24;Paris;MARAIS HÔme Hotel;4.5;857;https://www.tripadvisor.fr/Hotel_Review-g187147-d269104-Reviews-Hotel_Marais_Home-Paris_Ile_de_France.html
+25;Paris;Hotel Marais Bastille;4.5;1040;https://www.tripadvisor.fr/Hotel_Review-g187147-d231053-Reviews-Hotel_Marais_Bastille-Paris_Ile_de_France.html
+26;Paris;Hidden Hotel;4.5;1472;https://www.tripadvisor.fr/Hotel_Review-g187147-d1396456-Reviews-Hidden_Hotel-Paris_Ile_de_France.html
+27;Paris;Hôtel Balmoral;4.5;1608;https://www.tripadvisor.fr/Hotel_Review-g187147-d233573-Reviews-Hotel_Balmoral-Paris_Ile_de_France.html
+28;Paris;Hôtel Augustin - Astotel;4.5;1362;https://www.tripadvisor.fr/Hotel_Review-g187147-d197551-Reviews-Hotel_Augustin_Astotel-Paris_Ile_de_France.html
+29;Paris;Hôtel 34B - Astotel;5.0;2474;https://www.tripadvisor.fr/Hotel_Review-g187147-d9566832-Reviews-Hotel_34B_Astotel-Paris_Ile_de_France.html
+30;Paris;Four Seasons Hotel George V;5.0;3031;https://www.tripadvisor.fr/Hotel_Review-g187147-d188975-Reviews-Four_Seasons_Hotel_George_V-Paris_Ile_de_France.html
+31;Paris;Shangri-La Hotel Paris;4.5;1708;https://www.tripadvisor.fr/Hotel_Review-g187147-d1959562-Reviews-Shangri_La_Hotel_Paris-Paris_Ile_de_France.html
+32;Paris;Hilton Paris Opera;4.0;2701;https://www.tripadvisor.fr/Hotel_Review-g187147-d207718-Reviews-Hilton_Paris_Opera-Paris_Ile_de_France.html
+33;Paris;Hotel Marignan Champs-Elysées;4.5;862;https://www.tripadvisor.fr/Hotel_Review-g187147-d228779-Reviews-Hotel_Marignan_Champs_Elysees-Paris_Ile_de_France.html
+34;Paris;Grand Hotel du Palais Royal;5.0;1124;https://www.tripadvisor.fr/Hotel_Review-g187147-d617625-Reviews-Grand_Hotel_du_Palais_Royal-Paris_Ile_de_France.html
+35;Paris;9HOTEL MONTPARNASSE;4.0;851;https://www.tripadvisor.fr/Hotel_Review-g187147-d197618-Reviews-9HOTEL_MONTPARNASSE-Paris_Ile_de_France.html
+36;Paris;Maison Souquet;5.0;956;https://www.tripadvisor.fr/Hotel_Review-g187147-d7182695-Reviews-Maison_Souquet-Paris_Ile_de_France.html
+37;Paris;Kyriad Hotel Paris Bercy Village;4.0;1518;https://www.tripadvisor.fr/Hotel_Review-g187147-d233766-Reviews-Kyriad_Hotel_Paris_Bercy_Village-Paris_Ile_de_France.html
+38;Paris;Novotel Paris Centre Bercy;4.0;1807;https://www.tripadvisor.fr/Hotel_Review-g187147-d197487-Reviews-Novotel_Paris_Centre_Bercy-Paris_Ile_de_France.html
+39;Paris;Relais Christine;4.5;1195;https://www.tripadvisor.fr/Hotel_Review-g187147-d219977-Reviews-Relais_Christine-Paris_Ile_de_France.html
+40;Paris;Auberge de Jeunesse MIJE  Fourcy;4.0;938;https://www.tripadvisor.fr/Hotel_Review-g187147-d239650-Reviews-Auberge_de_Jeunesse_MIJE_Fourcy-Paris_Ile_de_France.html
+41;Paris;Terrass'' Hotel by MH;4.5;1231;https://www.tripadvisor.fr/Hotel_Review-g187147-d198085-Reviews-Terrass_Hotel_by_MH-Paris_Ile_de_France.html
+42;Paris;Novotel Paris Gare de Lyon;4.0;3597;https://www.tripadvisor.fr/Hotel_Review-g187147-d197486-Reviews-Novotel_Paris_Gare_de_Lyon-Paris_Ile_de_France.html
+43;Paris;Hotel Da Vinci & Spa;5.0;1110;https://www.tripadvisor.fr/Hotel_Review-g187147-d6675948-Reviews-Hotel_Da_Vinci_Spa-Paris_Ile_de_France.html
+44;Paris;Hotel Brighton - Esprit de France;4.5;2281;https://www.tripadvisor.fr/Hotel_Review-g187147-d233725-Reviews-Hotel_Brighton_Esprit_de_France-Paris_Ile_de_France.html
+45;Paris;Hôtel Astoria - Astotel;4.5;1562;https://www.tripadvisor.fr/Hotel_Review-g187147-d230431-Reviews-Hotel_Astoria_Astotel-Paris_Ile_de_France.html
+46;Paris;Hôtel Lorette - Astotel;4.5;1702;https://www.tripadvisor.fr/Hotel_Review-g187147-d228848-Reviews-Hotel_Lorette_Astotel-Paris_Ile_de_France.html
+47;Paris;Hotel Residence Foch;4.5;2648;https://www.tripadvisor.fr/Hotel_Review-g187147-d234633-Reviews-Hotel_Residence_Foch-Paris_Ile_de_France.html
+48;Paris;Hotel Mistral;4.5;1354;https://www.tripadvisor.fr/Hotel_Review-g187147-d608193-Reviews-Hotel_Mistral-Paris_Ile_de_France.html
+49;Paris;Hotel Terminus Lyon;4.0;1537;https://www.tripadvisor.fr/Hotel_Review-g187147-d282205-Reviews-Hotel_Terminus_Lyon-Paris_Ile_de_France.html
+50;Paris;Le Parisis Paris Tour Eiffel;4.5;504;https://www.tripadvisor.fr/Hotel_Review-g187147-d207682-Reviews-Le_Parisis_Paris_Tour_Eiffel-Paris_Ile_de_France.html
+51;Paris;Hotel Alfred Sommier;4.5;170;https://www.tripadvisor.fr/Hotel_Review-g187147-d14061298-Reviews-Hotel_Alfred_Sommier-Paris_Ile_de_France.html
+52;Paris;Hotel France Albion;4.5;1456;https://www.tripadvisor.fr/Hotel_Review-g187147-d282185-Reviews-Hotel_France_Albion-Paris_Ile_de_France.html
+53;Paris;Hotel Helussi;5.0;982;https://www.tripadvisor.fr/Hotel_Review-g187147-d6707434-Reviews-Hotel_Helussi-Paris_Ile_de_France.html
+54;Paris;Hotel de Londres Eiffel;4.5;1765;https://www.tripadvisor.fr/Hotel_Review-g187147-d265476-Reviews-Hotel_de_Londres_Eiffel-Paris_Ile_de_France.html
+55;Paris;Hotel de l'Empereur;4.5;1195;https://www.tripadvisor.fr/Hotel_Review-g187147-d219992-Reviews-Hotel_de_l_Empereur-Paris_Ile_de_France.html
+56;Paris;Cler Hotel;5.0;782;https://www.tripadvisor.fr/Hotel_Review-g187147-d266280-Reviews-Cler_Hotel-Paris_Ile_de_France.html
+57;Paris;Hôtel Muguet;4.5;1862;https://www.tripadvisor.fr/Hotel_Review-g187147-d271839-Reviews-Hotel_Muguet-Paris_Ile_de_France.html
+58;Paris;Le Bristol Paris;5.0;2044;https://www.tripadvisor.fr/Hotel_Review-g187147-d188729-Reviews-Le_Bristol_Paris-Paris_Ile_de_France.html
+59;Paris;Hôtel Bradford Elysées - Astotel;4.5;1933;https://www.tripadvisor.fr/Hotel_Review-g187147-d197946-Reviews-Hotel_Bradford_Elysees_Astotel-Paris_Ile_de_France.html
+60;Paris;Grand Hotel Leveque;4.0;812;https://www.tripadvisor.fr/Hotel_Review-g187147-d220006-Reviews-Grand_Hotel_Leveque-Paris_Ile_de_France.html
+61;Paris;Maison Albar Hotels - Le Diamond;4.5;1305;https://www.tripadvisor.fr/Hotel_Review-g187147-d1488818-Reviews-Maison_Albar_Hotels_Le_Diamond-Paris_Ile_de_France.html
+62;Paris;Hotel Armoni;4.5;828;https://www.tripadvisor.fr/Hotel_Review-g187147-d197512-Reviews-Hotel_Armoni-Paris_Ile_de_France.html
+63;Paris;Villa Royale;4.0;1049;https://www.tripadvisor.fr/Hotel_Review-g187147-d240923-Reviews-Villa_Royale-Paris_Ile_de_France.html
+64;Paris;Hôtel Cécilia Paris;4.5;1310;https://www.tripadvisor.fr/Hotel_Review-g187147-d230460-Reviews-Hotel_Cecilia_Paris-Paris_Ile_de_France.html
+65;Paris;The Westin Paris - Vendôme;4.0;4335;https://www.tripadvisor.fr/Hotel_Review-g187147-d587294-Reviews-The_Westin_Paris_Vendome-Paris_Ile_de_France.html
+66;Paris;Hôtel Grand Powers;5.0;186;https://www.tripadvisor.fr/Hotel_Review-g187147-d228837-Reviews-Hotel_Grand_Powers-Paris_Ile_de_France.html
+67;Paris;Le Relais Montmartre;4.5;1283;https://www.tripadvisor.fr/Hotel_Review-g187147-d596305-Reviews-Le_Relais_Montmartre-Paris_Ile_de_France.html
+68;Paris;Madison Hotel;4.5;1182;https://www.tripadvisor.fr/Hotel_Review-g187147-d228699-Reviews-Madison_Hotel-Paris_Ile_de_France.html
+69;Paris;Courtyard by Marriott Paris Gare de Lyon;4.0;214;https://www.tripadvisor.fr/Hotel_Review-g187147-d15243992-Reviews-Courtyard_by_Marriott_Paris_Gare_de_Lyon-Paris_Ile_de_France.html
+70;Paris;La Chambre du Marais;5.0;467;https://www.tripadvisor.fr/Hotel_Review-g187147-d10319445-Reviews-La_Chambre_du_Marais-Paris_Ile_de_France.html
+71;Paris;Hôtel de JoBo;5.0;459;https://www.tripadvisor.fr/Hotel_Review-g187147-d10386434-Reviews-Hotel_de_JoBo-Paris_Ile_de_France.html
+72;Paris;Hôtel Joke - Astotel;5.0;1511;https://www.tripadvisor.fr/Hotel_Review-g187147-d287896-Reviews-Hotel_Joke_Astotel-Paris_Ile_de_France.html
+73;Paris;Les Jardins de Mademoiselle;5.0;157;https://www.tripadvisor.fr/Hotel_Review-g187147-d14195735-Reviews-Les_Jardins_de_Mademoiselle-Paris_Ile_de_France.html
+74;Paris;Hôtel La Comtesse;4.5;537;https://www.tripadvisor.fr/Hotel_Review-g187147-d10159593-Reviews-Hotel_La_Comtesse-Paris_Ile_de_France.html
+75;Paris;Libertel Gare de l'Est Français;4.0;974;https://www.tripadvisor.fr/Hotel_Review-g187147-d497164-Reviews-Libertel_Gare_de_l_Est_Francais-Paris_Ile_de_France.html
+76;Paris;Hotel de Lutece;4.5;579;https://www.tripadvisor.fr/Hotel_Review-g187147-d219994-Reviews-Hotel_de_Lutece-Paris_Ile_de_France.html
+77;Paris;K+K Hôtel Cayré;4.5;3035;https://www.tripadvisor.fr/Hotel_Review-g187147-d207663-Reviews-K_K_Hotel_Cayre-Paris_Ile_de_France.html
+78;Paris;Grand Hôtel des Balcons;4.5;863;https://www.tripadvisor.fr/Hotel_Review-g187147-d236439-Reviews-Grand_Hotel_des_Balcons-Paris_Ile_de_France.html
+79;Paris;Hotel Félicien by Elegancia;4.5;1055;https://www.tripadvisor.fr/Hotel_Review-g187147-d4107097-Reviews-Hotel_Felicien_by_Elegancia-Paris_Ile_de_France.html
+80;Paris;Le General Hotel;4.5;811;https://www.tripadvisor.fr/Hotel_Review-g187147-d197444-Reviews-Le_General_Hotel-Paris_Ile_de_France.html
+81;Paris;Hôtel Square Louvois;5.0;451;https://www.tripadvisor.fr/Hotel_Review-g187147-d10350792-Reviews-Hotel_Square_Louvois-Paris_Ile_de_France.html
+82;Paris;Les Tournelles;4.5;514;https://www.tripadvisor.fr/Hotel_Review-g187147-d219989-Reviews-Les_Tournelles-Paris_Ile_de_France.html
+83;Paris;Maison Albar Hotels Le Pont-Neuf;4.5;563;https://www.tripadvisor.fr/Hotel_Review-g187147-d11869269-Reviews-Maison_Albar_Hotels_Le_Pont_Neuf-Paris_Ile_de_France.html
+84;Paris;Hotel Passy Eiffel;4.5;911;https://www.tripadvisor.fr/Hotel_Review-g187147-d315160-Reviews-Passy_Eiffel_Hotel-Paris_Ile_de_France.html
+85;Paris;Le Grand Hotel de Normandie;4.0;612;https://www.tripadvisor.fr/Hotel_Review-g187147-d253114-Reviews-Le_Grand_Hotel_de_Normandie-Paris_Ile_de_France.html
+86;Paris;Hotel De Buci;4.5;1083;https://www.tripadvisor.fr/Hotel_Review-g187147-d233582-Reviews-Hotel_De_Buci-Paris_Ile_de_France.html
+87;Paris;Hotel B55;4.5;166;https://www.tripadvisor.fr/Hotel_Review-g187147-d15106280-Reviews-Hotel_B55-Paris_Ile_de_France.html
+88;Paris;Hôtel Régina Louvre;4.5;1385;https://www.tripadvisor.fr/Hotel_Review-g187147-d207792-Reviews-Hotel_Regina_Louvre-Paris_Ile_de_France.html
+89;Paris;ibis Paris Bercy Village 12ème;4.0;1947;https://www.tripadvisor.fr/Hotel_Review-g187147-d197496-Reviews-Ibis_Paris_Bercy_Village_12eme-Paris_Ile_de_France.html
+90;Paris;Hotel Les Jardins du Marais;4.0;2901;https://www.tripadvisor.fr/Hotel_Review-g187147-d197438-Reviews-Hotel_Les_Jardins_du_Marais-Paris_Ile_de_France.html
+91;Paris;Le Lapin Blanc;4.5;760;https://www.tripadvisor.fr/Hotel_Review-g187147-d197635-Reviews-Le_Lapin_Blanc-Paris_Ile_de_France.html
+92;Paris;Hotel Le Clement;4.5;724;https://www.tripadvisor.fr/Hotel_Review-g187147-d197436-Reviews-Hotel_Le_Clement-Paris_Ile_de_France.html
+93;Paris;Timhôtel Paris Berthier;3.5;1551;https://www.tripadvisor.fr/Hotel_Review-g187147-d231058-Reviews-Timhotel_Paris_Berthier-Paris_Ile_de_France.html
+94;Paris;Hôtel Villa Beaumarchais;4.0;1243;https://www.tripadvisor.fr/Hotel_Review-g187147-d207854-Reviews-Villa_Beaumarchais-Paris_Ile_de_France.html
+95;Paris;Libertel Canal Saint-Martin;4.0;1241;https://www.tripadvisor.fr/Hotel_Review-g187147-d593277-Reviews-Libertel_Canal_Saint_Martin-Paris_Ile_de_France.html
+96;Paris;Best Western Premier Opéra Faubourg;4.0;833;https://www.tripadvisor.fr/Hotel_Review-g187147-d228697-Reviews-Best_Western_Premier_Opera_Faubourg-Paris_Ile_de_France.html
+97;Paris;Fauchon L'hôtel;5.0;201;https://www.tripadvisor.fr/Hotel_Review-g187147-d14024290-Reviews-Fauchon_L_Hotel_Paris-Paris_Ile_de_France.html
+98;Paris;Hôtel Le 123 Sébastopol - Astotel;5.0;2078;https://www.tripadvisor.fr/Hotel_Review-g187147-d4800782-Reviews-Hotel_Le_123_Sebastopol_Astotel-Paris_Ile_de_France.html
+99;Paris;Sofitel Paris Le Faubourg;4.5;1094;https://www.tripadvisor.fr/Hotel_Review-g187147-d197531-Reviews-Sofitel_Paris_Le_Faubourg-Paris_Ile_de_France.html
+100;Paris;Hôtel Le Chat Noir;4.5;382;https://www.tripadvisor.fr/Hotel_Review-g187147-d233584-Reviews-Hotel_le_Chat_Noir-Paris_Ile_de_France.html
+101;Paris;Hôtel Albe Saint Michel;4.5;1502;https://www.tripadvisor.fr/Hotel_Review-g187147-d208082-Reviews-Hotel_Albe_Saint_Michel-Paris_Ile_de_France.html
+102;Paris;Atlantic Hôtel;4.5;825;https://www.tripadvisor.fr/Hotel_Review-g187147-d197968-Reviews-Atlantic_Hotel-Paris_Ile_de_France.html
+103;Paris;Hôtel de la Bretonnerie;4.5;765;https://www.tripadvisor.fr/Hotel_Review-g187147-d235552-Reviews-Hotel_de_la_Bretonnerie-Paris_Ile_de_France.html
+104;Paris;Les Piaules;4.5;422;https://www.tripadvisor.fr/Hotel_Review-g187147-d8874618-Reviews-Les_Piaules-Paris_Ile_de_France.html
+105;Paris;Hôtel George - Astotel;4.5;1244;https://www.tripadvisor.fr/Hotel_Review-g187147-d234640-Reviews-Hotel_George_Astotel-Paris_Ile_de_France.html
+106;Paris;Park Hyatt Paris - Vendôme;4.5;2934;https://www.tripadvisor.fr/Hotel_Review-g187147-d250928-Reviews-Park_Hyatt_Paris_Vendome-Paris_Ile_de_France.html
+107;Paris;Hôtel du Prince Eugene;4.5;1551;https://www.tripadvisor.fr/Hotel_Review-g187147-d567407-Reviews-Hotel_du_Prince_Eugene-Paris_Ile_de_France.html
+108;Paris;Grand Hotel Dechampaigne;4.0;915;https://www.tripadvisor.fr/Hotel_Review-g187147-d198176-Reviews-Grand_Hotel_Dechampaigne-Paris_Ile_de_France.html
+109;Paris;Libertel Gare du Nord Suède;4.0;931;https://www.tripadvisor.fr/Hotel_Review-g187147-d229595-Reviews-Libertel_Gare_du_Nord_Suede-Paris_Ile_de_France.html
+110;Paris;Artus Hotel;4.5;1273;https://www.tripadvisor.fr/Hotel_Review-g187147-d194278-Reviews-Artus_Hotel-Paris_Ile_de_France.html
+111;Paris;Hotel La Bourdonnais;4.5;955;https://www.tripadvisor.fr/Hotel_Review-g187147-d233462-Reviews-Hotel_La_Bourdonnais-Paris_Ile_de_France.html
+112;Paris;Hôtel Design Secret de Paris;5.0;1906;https://www.tripadvisor.fr/Hotel_Review-g187147-d1633522-Reviews-Hotel_Design_Secret_de_Paris-Paris_Ile_de_France.html
+113;Paris;Hôtel Basile;4.5;248;https://www.tripadvisor.fr/Hotel_Review-g187147-d274680-Reviews-Le_Basile_Hotel-Paris_Ile_de_France.html
+114;Paris;Hôtel  Académie;4.5;501;https://www.tripadvisor.fr/Hotel_Review-g187147-d303005-Reviews-Hotel_Academie-Paris_Ile_de_France.html
+115;Paris;Campanile Paris 19 - La Villette;4.0;1716;https://www.tripadvisor.fr/Hotel_Review-g187147-d233767-Reviews-Campanile_Paris_19_La_Villette-Paris_Ile_de_France.html
+116;Paris;Le Narcisse Blanc Hotel & Spa;5.0;576;https://www.tripadvisor.fr/Hotel_Review-g187147-d9452312-Reviews-Le_Narcisse_Blanc_Hotel_Spa-Paris_Ile_de_France.html
+117;Paris;Home MODERNE;4.5;1261;https://www.tripadvisor.fr/Hotel_Review-g187147-d1639825-Reviews-Home_MODERNE-Paris_Ile_de_France.html
+118;Paris;Hotel du Ministere;4.5;809;https://www.tripadvisor.fr/Hotel_Review-g187147-d219984-Reviews-Hotel_du_Ministere-Paris_Ile_de_France.html
+119;Paris;Ritz Paris;4.5;797;https://www.tripadvisor.fr/Hotel_Review-g187147-d188728-Reviews-Ritz_Paris-Paris_Ile_de_France.html
+120;Paris;Hôtel Pas de Calais;4.5;710;https://www.tripadvisor.fr/Hotel_Review-g187147-d219982-Reviews-Hotel_Pas_de_Calais-Paris_Ile_de_France.html
+121;Paris;Hotel Villa d'Estrees;4.5;532;https://www.tripadvisor.fr/Hotel_Review-g187147-d267998-Reviews-Hotel_Villa_d_Estrees-Paris_Ile_de_France.html
+122;Paris;Maison FL;4.5;527;https://www.tripadvisor.fr/Hotel_Review-g187147-d229601-Reviews-Maison_FL-Paris_Ile_de_France.html
+123;Paris;La Maison Favart;5.0;1828;https://www.tripadvisor.fr/Hotel_Review-g187147-d232552-Reviews-La_Maison_Favart-Paris_Ile_de_France.html
+124;Paris;Hôtel de Venise;4.0;575;https://www.tripadvisor.fr/Hotel_Review-g187147-d650194-Reviews-Venise_Hotel-Paris_Ile_de_France.html
+125;Paris;Hotel Eiffel Turenne;4.5;936;https://www.tripadvisor.fr/Hotel_Review-g187147-d194232-Reviews-Hotel_Eiffel_Turenne-Paris_Ile_de_France.html
+126;Paris;Hôtel Louison;4.5;1414;https://www.tripadvisor.fr/Hotel_Review-g187147-d197428-Reviews-Louison_Hotel-Paris_Ile_de_France.html
+127;Paris;Ibis Styles Paris 16 Boulogne;4.5;192;https://www.tripadvisor.fr/Hotel_Review-g187147-d12570950-Reviews-Ibis_Styles_Paris_16_Boulogne-Paris_Ile_de_France.html
+128;Paris;Holiday Inn Express Paris-Canal de la Villette;4.0;1397;https://www.tripadvisor.fr/Hotel_Review-g187147-d940178-Reviews-Holiday_Inn_Express_Paris_Canal_de_la_Villette-Paris_Ile_de_France.html
+129;Paris;Hotel Saint Paul Rive Gauche;4.5;1004;https://www.tripadvisor.fr/Hotel_Review-g187147-d197432-Reviews-Hotel_Saint_Paul_Rive_Gauche-Paris_Ile_de_France.html
+130;Paris;Saint James Paris;5.0;1495;https://www.tripadvisor.fr/Hotel_Review-g187147-d222913-Reviews-Saint_James_Paris-Paris_Ile_de_France.html
+131;Paris;Hotel Edouard 7;4.5;1315;https://www.tripadvisor.fr/Hotel_Review-g187147-d228790-Reviews-Hotel_Edouard_7-Paris_Ile_de_France.html
+132;Paris;Hotel du Rond-Point des Champs-Elysees - Esprit de France;5.0;216;https://www.tripadvisor.fr/Hotel_Review-g187147-d236567-Reviews-Hotel_du_Rond_Point_des_Champs_Elysees_Esprit_de_France-Paris_Ile_de_France.html
+133;Paris;Hôtel Magda Champs Elysées;4.5;2068;https://www.tripadvisor.fr/Hotel_Review-g187147-d228809-Reviews-Hotel_Magda_Champs_Elysees-Paris_Ile_de_France.html
+134;Paris;Mama Shelter Paris East;4.0;2254;https://www.tripadvisor.fr/Hotel_Review-g187147-d1149494-Reviews-Mama_Shelter_Paris_East-Paris_Ile_de_France.html
+135;Paris;Hotel du Levant;4.5;1433;https://www.tripadvisor.fr/Hotel_Review-g187147-d319955-Reviews-Hotel_du_Levant-Paris_Ile_de_France.html
+136;Paris;Best Western Plus La Demeure;4.0;739;https://www.tripadvisor.fr/Hotel_Review-g187147-d276923-Reviews-Best_Western_Plus_La_Demeure-Paris_Ile_de_France.html
+137;Paris;Hôtel Vendôme Saint-Germain;4.5;307;https://www.tripadvisor.fr/Hotel_Review-g187147-d233569-Reviews-Hotel_Vendome_Saint_Germain-Paris_Ile_de_France.html
+138;Paris;Hotel Elysees Union;4.0;1403;https://www.tripadvisor.fr/Hotel_Review-g187147-d229535-Reviews-Hotel_Elysees_Union-Paris_Ile_de_France.html
+139;Paris;Hotel de France Invalides;4.0;571;https://www.tripadvisor.fr/Hotel_Review-g187147-d292872-Reviews-Hotel_de_France_Invalides-Paris_Ile_de_France.html
+140;Paris;Hôtel Saint-Marc;5.0;618;https://www.tripadvisor.fr/Hotel_Review-g187147-d9865705-Reviews-Hotel_Saint_Marc-Paris_Ile_de_France.html
+141;Paris;Hôtel Whistler;4.5;520;https://www.tripadvisor.fr/Hotel_Review-g187147-d321391-Reviews-Hotel_Whistler-Paris_Ile_de_France.html
+142;Paris;Hotel Odeon Saint-Germain;4.5;1467;https://www.tripadvisor.fr/Hotel_Review-g187147-d230480-Reviews-Hotel_Odeon_Saint_Germain-Paris_Ile_de_France.html
+143;Paris;Timhotel Montmartre;4.0;1423;https://www.tripadvisor.fr/Hotel_Review-g187147-d229623-Reviews-Timhotel_Montmartre-Paris_Ile_de_France.html
+144;Paris;Le Tsuba Hotel;4.5;502;https://www.tripadvisor.fr/Hotel_Review-g187147-d10521834-Reviews-Le_Tsuba_Hotel-Paris_Ile_de_France.html
+145;Paris;Hôtel Excelsior Latin;4.0;1334;https://www.tripadvisor.fr/Hotel_Review-g187147-d230465-Reviews-Hotel_Excelsior_Latin-Paris_Ile_de_France.html
+146;Paris;Hôtel L'interlude;4.0;601;https://www.tripadvisor.fr/Hotel_Review-g187147-d236589-Reviews-Hotel_L_interlude-Paris_Ile_de_France.html
+147;Paris;Monsieur Cadet Hôtel & Spa;4.5;935;https://www.tripadvisor.fr/Hotel_Review-g187147-d313066-Reviews-Monsieur_Cadet_Hotel_Spa-Paris_Ile_de_France.html
+148;Paris;Hotel d'Aubusson;4.5;1262;https://www.tripadvisor.fr/Hotel_Review-g187147-d194308-Reviews-Hotel_d_Aubusson-Paris_Ile_de_France.html
+149;Paris;Best Western Premier Marais Grands Boulevards;4.5;518;https://www.tripadvisor.fr/Hotel_Review-g187147-d254711-Reviews-Hotel_Marais_Grands_Boulevards-Paris_Ile_de_France.html
+150;Paris;Best Western Plus 61 Paris Nation Hôtel;4.0;677;https://www.tripadvisor.fr/Hotel_Review-g187147-d254597-Reviews-Best_Western_Plus_61_Paris_Nation_Hotel-Paris_Ile_de_France.html
+151;Paris;Hotel Louvre Marsollier Opera;4.0;671;https://www.tripadvisor.fr/Hotel_Review-g187147-d233464-Reviews-Hotel_Louvre_Marsollier_Opera-Paris_Ile_de_France.html
+152;Paris;Hotel du Collectionneur;4.0;3637;https://www.tripadvisor.fr/Hotel_Review-g187147-d291544-Reviews-Hotel_du_Collectionneur-Paris_Ile_de_France.html
+153;Paris;Maison Breguet;4.5;332;https://www.tripadvisor.fr/Hotel_Review-g187147-d13196702-Reviews-Maison_Breguet-Paris_Ile_de_France.html
+154;Paris;Hotel Jeanne D'Arc;4.5;860;https://www.tripadvisor.fr/Hotel_Review-g187147-d189228-Reviews-Hotel_Jeanne_D_Arc-Paris_Ile_de_France.html
+155;Paris;Motel One Paris-Porte Doree;4.5;221;https://www.tripadvisor.fr/Hotel_Review-g187147-d13996012-Reviews-Motel_One_Paris_Porte_Doree-Paris_Ile_de_France.html
+156;Paris;Hôtel Madeleine Plaza;4.5;901;https://www.tripadvisor.fr/Hotel_Review-g187147-d228835-Reviews-Hotel_Madeleine_Plaza-Paris_Ile_de_France.html
+157;Paris;Fred Hotel;4.5;953;https://www.tripadvisor.fr/Hotel_Review-g187147-d529916-Reviews-Fred_Hotel-Paris_Ile_de_France.html
+158;Paris;Maison Athénée;4.5;646;https://www.tripadvisor.fr/Hotel_Review-g187147-d240919-Reviews-Hotel_Maison_Athenee-Paris_Ile_de_France.html
+159;Paris;Le Derby Alma;4.5;954;https://www.tripadvisor.fr/Hotel_Review-g187147-d240927-Reviews-Le_Derby_Alma-Paris_Ile_de_France.html
+160;Paris;InterContinental Paris Le Grand;4.5;3412;https://www.tripadvisor.fr/Hotel_Review-g187147-d207742-Reviews-InterContinental_Paris_Le_Grand-Paris_Ile_de_France.html
+161;Paris;Hôtel Les Jardins de la Villa;4.5;1768;https://www.tripadvisor.fr/Hotel_Review-g187147-d649881-Reviews-Hotel_Les_Jardins_de_la_Villa-Paris_Ile_de_France.html
+162;Paris;Hôtel Bel Ami;4.5;1696;https://www.tripadvisor.fr/Hotel_Review-g187147-d233593-Reviews-Bel_Ami_Hotel-Paris_Ile_de_France.html
+163;Paris;Hotel des Comédies ;4.5;768;https://www.tripadvisor.fr/Hotel_Review-g187147-d197641-Reviews-Hotel_des_Comedies-Paris_Ile_de_France.html
+164;Paris;Hotel Etoile Saint-Honore;4.0;1553;https://www.tripadvisor.fr/Hotel_Review-g187147-d197538-Reviews-Hotel_Etoile_Saint_Honore-Paris_Ile_de_France.html
+165;Paris;Hotel Oceania Paris Porte de Versailles;4.0;2418;https://www.tripadvisor.fr/Hotel_Review-g187147-d599275-Reviews-Hotel_Oceania_Paris_Porte_de_Versailles-Paris_Ile_de_France.html
+166;Paris;Hotel Villa Saxe Eiffel;4.5;966;https://www.tripadvisor.fr/Hotel_Review-g187147-d228791-Reviews-Hotel_Villa_Saxe_Eiffel-Paris_Ile_de_France.html
+167;Paris;Hôtel Jardin Le Bréa;4.5;989;https://www.tripadvisor.fr/Hotel_Review-g187147-d194283-Reviews-Hotel_Jardin_Le_Brea-Paris_Ile_de_France.html
+168;Paris;Hôtel des Arts - Montmartre;4.5;3192;https://www.tripadvisor.fr/Hotel_Review-g187147-d506900-Reviews-Hotel_des_Arts_Montmartre-Paris_Ile_de_France.html
+169;Paris;Hotel du Champ de Mars;4.5;1304;https://www.tripadvisor.fr/Hotel_Review-g187147-d570544-Reviews-Hotel_du_Champ_de_Mars-Paris_Ile_de_France.html
+170;Paris;Hotel Saint Germain;4.5;1051;https://www.tripadvisor.fr/Hotel_Review-g187147-d239626-Reviews-Hotel_Saint_Germain-Paris_Ile_de_France.html
+171;Paris;Hotel de la Porte Doree;4.5;953;https://www.tripadvisor.fr/Hotel_Review-g187147-d472021-Reviews-Hotel_de_la_Porte_Doree-Paris_Ile_de_France.html
+172;Paris;Hôtel Odessa Montparnasse;4.0;487;https://www.tripadvisor.fr/Hotel_Review-g187147-d233780-Reviews-Hotel_Odessa_Montparnasse-Paris_Ile_de_France.html
+173;Paris;Citadines Les Halles Paris;4.0;1383;https://www.tripadvisor.fr/Hotel_Review-g187147-d197426-Reviews-Citadines_Les_Halles_Paris-Paris_Ile_de_France.html
+174;Paris;Hôtel Gaston;4.5;614;https://www.tripadvisor.fr/Hotel_Review-g187147-d230455-Reviews-Hotel_Gaston-Paris_Ile_de_France.html
+175;Paris;Sofitel Le Scribe Paris Opera;4.5;2444;https://www.tripadvisor.fr/Hotel_Review-g187147-d197577-Reviews-Sofitel_Le_Scribe_Paris_Opera-Paris_Ile_de_France.html
+176;Paris;Hôtel Galileo;4.5;1544;https://www.tripadvisor.fr/Hotel_Review-g187147-d197576-Reviews-Hotel_Galileo-Paris_Ile_de_France.html
+177;Paris;Hotel de la Paix Tour Eiffel;4.5;465;https://www.tripadvisor.fr/Hotel_Review-g187147-d268017-Reviews-Hotel_de_la_Paix_Tour_Eiffel-Paris_Ile_de_France.html
+178;Paris;Hôtel le A;4.5;919;https://www.tripadvisor.fr/Hotel_Review-g187147-d274677-Reviews-Hotel_Le_A-Paris_Ile_de_France.html
+179;Paris;The Peninsula Paris;5.0;1086;https://www.tripadvisor.fr/Hotel_Review-g187147-d6678144-Reviews-The_Peninsula_Paris-Paris_Ile_de_France.html
+180;Paris;Le Royal Monceau-Raffles Paris;5.0;1556;https://www.tripadvisor.fr/Hotel_Review-g187147-d197528-Reviews-Le_Royal_Monceau_Raffles_Paris-Paris_Ile_de_France.html
+181;Paris;Kube Hotel;4.0;1216;https://www.tripadvisor.fr/Hotel_Review-g187147-d582530-Reviews-Kube_Hotel-Paris_Ile_de_France.html
+182;Paris;Mercure Paris Gare Montparnasse;4.0;1711;https://www.tripadvisor.fr/Hotel_Review-g187147-d269058-Reviews-Mercure_Paris_Gare_Montparnasse-Paris_Ile_de_France.html
+183;Paris;Okko Hotels Paris Porte de Versailles;4.5;344;https://www.tripadvisor.fr/Hotel_Review-g187147-d12297633-Reviews-Okko_Hotels_Paris_Porte_de_Versailles-Paris_Ile_de_France.html
+184;Paris;Hotel Esprit Saint Germain;4.5;471;https://www.tripadvisor.fr/Hotel_Review-g187147-d483519-Reviews-Hotel_Esprit_Saint_Germain-Paris_Ile_de_France.html
+185;Paris;MERCURE PARIS OPERA GARNIER HÔTEL & SPA;4.0;1447;https://www.tripadvisor.fr/Hotel_Review-g187147-d256389-Reviews-MERCURE_PARIS_OPERA_GARNIER_HOTEL_SPA-Paris_Ile_de_France.html
+186;Paris;Le Regent Montmartre by HipHopHostels;4.0;1175;https://www.tripadvisor.fr/Hotel_Review-g187147-d313072-Reviews-Le_Regent_Montmartre_by_HipHopHostels-Paris_Ile_de_France.html
+187;Paris;Hotel L'Echiquier Opéra Paris MGallery by Sofitel;4.5;1002;https://www.tripadvisor.fr/Hotel_Review-g187147-d207686-Reviews-Hotel_L_Echiquier_Opera_Paris_MGallery-Paris_Ile_de_France.html
+188;Paris;Best Western Premier Opéra Liege;4.5;410;https://www.tripadvisor.fr/Hotel_Review-g187147-d8663974-Reviews-Best_Western_Premier_Opera_Liege-Paris_Ile_de_France.html
+189;Paris;Ibis Styles Paris Massena Olympiades;4.0;592;https://www.tripadvisor.fr/Hotel_Review-g187147-d197566-Reviews-Ibis_Styles_Paris_Massena_Olympiades-Paris_Ile_de_France.html
+190;Paris;Hôtel Le M Saint Germain;4.5;171;https://www.tripadvisor.fr/Hotel_Review-g187147-d197634-Reviews-Hotel_Le_M_Saint_Germain-Paris_Ile_de_France.html
+191;Paris;Libertel Montmartre Opéra;4.0;786;https://www.tripadvisor.fr/Hotel_Review-g187147-d228773-Reviews-Libertel_Montmartre_Opera-Paris_Ile_de_France.html
+192;Paris;Libertel Austerlitz Jardin des Plantes;3.5;744;https://www.tripadvisor.fr/Hotel_Review-g187147-d229587-Reviews-Libertel_Austerlitz_Jardin_des_Plantes-Paris_Ile_de_France.html
+193;Paris;Hôtel Adèle & Jules;4.5;527;https://www.tripadvisor.fr/Hotel_Review-g187147-d280085-Reviews-Hotel_Adele_Jules-Paris_Ile_de_France.html
+194;Paris;Hôtel Le Six;5.0;2240;https://www.tripadvisor.fr/Hotel_Review-g187147-d777347-Reviews-Hotel_Le_Six-Paris_Ile_de_France.html
+195;Paris;Hotel Beauchamps;4.0;524;https://www.tripadvisor.fr/Hotel_Review-g187147-d228858-Reviews-Hotel_Beauchamps-Paris_Ile_de_France.html
+196;Paris;Odéon Hôtel;4.0;990;https://www.tripadvisor.fr/Hotel_Review-g187147-d219979-Reviews-Odeon_Hotel-Paris_Ile_de_France.html
+197;Paris;Hotel d'Angleterre, Saint Germain des Pres;4.5;395;https://www.tripadvisor.fr/Hotel_Review-g187147-d194277-Reviews-Hotel_d_Angleterre_Saint_Germain_des_Pres-Paris_Ile_de_France.html
+198;Paris;Hotel des Grands Boulevards;4.5;202;https://www.tripadvisor.fr/Hotel_Review-g187147-d12995518-Reviews-Hotel_des_Grands_Boulevards-Paris_Ile_de_France.html
+199;Paris;Le Relais des Halles;5.0;774;https://www.tripadvisor.fr/Hotel_Review-g187147-d650135-Reviews-Le_Relais_des_Halles-Paris_Ile_de_France.html
+200;Paris;Holiday Inn Paris Gare de Lyon Bastille;4.0;1379;https://www.tripadvisor.fr/Hotel_Review-g187147-d207683-Reviews-Holiday_Inn_Paris_Gare_de_Lyon_Bastille-Paris_Ile_de_France.html
+201;Paris;Hôtel des Deux Continents;4.0;446;https://www.tripadvisor.fr/Hotel_Review-g187147-d222918-Reviews-Hotel_des_Deux_Continents-Paris_Ile_de_France.html
+202;Paris;Art Hotel Eiffel;4.0;663;https://www.tripadvisor.fr/Hotel_Review-g187147-d4079389-Reviews-Art_Hotel_Eiffel-Paris_Ile_de_France.html
+203;Paris;Hotel Eiffel Seine;4.5;2470;https://www.tripadvisor.fr/Hotel_Review-g187147-d572984-Reviews-Hotel_Eiffel_Seine-Paris_Ile_de_France.html
+204;Paris;Hôtel Splendid Étoile;4.5;1607;https://www.tripadvisor.fr/Hotel_Review-g187147-d229621-Reviews-Hotel_Splendid_Etoile-Paris_Ile_de_France.html
+205;Paris;Hôtel Ducs de Bourgogne;4.5;246;https://www.tripadvisor.fr/Hotel_Review-g187147-d197557-Reviews-Ducs_de_Bourgogne_Hotel-Paris_Ile_de_France.html
+206;Paris;Le 10 Bis Hôtel;5.0;683;https://www.tripadvisor.fr/Hotel_Review-g187147-d10296011-Reviews-Le_10_Bis_Hotel-Paris_Ile_de_France.html
+207;Paris;Mandarin Oriental, Paris;5.0;2239;https://www.tripadvisor.fr/Hotel_Review-g187147-d2041918-Reviews-Mandarin_Oriental_Paris-Paris_Ile_de_France.html
+208;Paris;Hôtel Louvre Saint Honore;4.0;336;https://www.tripadvisor.fr/Hotel_Review-g187147-d207751-Reviews-Louvre_Saint_Honore_Hotel-Paris_Ile_de_France.html
+209;Paris;Le Robinet d'Or;4.5;1152;https://www.tripadvisor.fr/Hotel_Review-g187147-d3161186-Reviews-Le_Robinet_d_Or-Paris_Ile_de_France.html
+210;Paris;Hôtel Apollon Montparnasse;4.5;1175;https://www.tripadvisor.fr/Hotel_Review-g187147-d265343-Reviews-Hotel_Apollon_Montparnasse-Paris_Ile_de_France.html
+214;Paris;Best Western Premier Faubourg 88;4.0;511;https://www.tripadvisor.fr/Hotel_Review-g187147-d1576551-Reviews-Best_Western_Premier_Faubourg_88-Paris_Ile_de_France.html
+216;Paris;Hotel Donjon Vincennes;4.5;494;https://www.tripadvisor.fr/Hotel_Review-g790302-d673425-Reviews-Hotel_Donjon_Vincennes-Vincennes_Val_de_Marne_Ile_de_France.html
+217;Paris;Hotel Jardins d'Eiffel;4.0;1027;https://www.tripadvisor.fr/Hotel_Review-g187147-d242960-Reviews-Hotel_Jardins_d_Eiffel-Paris_Ile_de_France.html
+218;Paris;Hotel des Nations St-Germain;4.5;515;https://www.tripadvisor.fr/Hotel_Review-g187147-d229560-Reviews-Hotel_des_Nations_St_Germain-Paris_Ile_de_France.html
+220;Paris;Au Manoir Saint Germain Des Pres;4.5;543;https://www.tripadvisor.fr/Hotel_Review-g187147-d207574-Reviews-Au_Manoir_Saint_Germain_Des_Pres-Paris_Ile_de_France.html
+221;Paris;Hotel Odyssey by Elegancia;4.5;739;https://www.tripadvisor.fr/Hotel_Review-g187147-d228813-Reviews-Hotel_Odyssey_by_Elegancia-Paris_Ile_de_France.html
+224;Paris;XO Hotel;5.0;367;https://www.tripadvisor.fr/Hotel_Review-g187147-d226967-Reviews-XO_Hotel-Paris_Ile_de_France.html
+225;Paris;Le Relais Saint-Honore;4.5;567;https://www.tripadvisor.fr/Hotel_Review-g187147-d307955-Reviews-Le_Relais_Saint_Honore-Paris_Ile_de_France.html
+226;Paris;Hotel de Banville;4.5;734;https://www.tripadvisor.fr/Hotel_Review-g187147-d233745-Reviews-Hotel_de_Banville-Paris_Ile_de_France.html
+227;Paris;Ibis Paris Brancion Expo 15eme;4.0;581;https://www.tripadvisor.fr/Hotel_Review-g187147-d197678-Reviews-Ibis_Paris_Brancion_Expo_15eme-Paris_Ile_de_France.html
+228;Paris;Hôtel Barrière Le Fouquet's Paris;4.5;923;https://www.tripadvisor.fr/Hotel_Review-g187147-d188742-Reviews-Hotel_Barriere_Le_Fouquet_s_Paris-Paris_Ile_de_France.html
+229;Paris;Hôtel Observatoire Luxembourg;4.5;1256;https://www.tripadvisor.fr/Hotel_Review-g187147-d325717-Reviews-Hotel_Observatoire_Luxembourg-Paris_Ile_de_France.html
+230;Paris;Hotel Mogador;4.5;236;https://www.tripadvisor.fr/Hotel_Review-g187147-d487409-Reviews-Hotel_Mogador-Paris_Ile_de_France.html
+231;Paris;Hôtel Henriette;4.5;1080;https://www.tripadvisor.fr/Hotel_Review-g187147-d235611-Reviews-Hotel_Henriette-Paris_Ile_de_France.html
+232;Paris;Hôtel de Latour Maubourg;4.5;879;https://www.tripadvisor.fr/Hotel_Review-g187147-d235571-Reviews-Hotel_Spa_de_Latour_Maubourg-Paris_Ile_de_France.html
+233;Paris;Raspail Montparnasse Hotel;4.0;287;https://www.tripadvisor.fr/Hotel_Review-g187147-d228756-Reviews-Raspail_Montparnasse_Hotel-Paris_Ile_de_France.html
+234;Paris;Hôtel Saint-Louis en l'Isle;4.5;649;https://www.tripadvisor.fr/Hotel_Review-g187147-d219996-Reviews-Hotel_Saint_Louis_en_l_Isle-Paris_Ile_de_France.html
+235;Paris;Hotel les Dames du Panthéon;4.5;892;https://www.tripadvisor.fr/Hotel_Review-g187147-d233747-Reviews-Hotel_les_Dames_du_Pantheon-Paris_Ile_de_France.html
+236;Paris;Melia Paris Notre-Dame;4.0;1169;https://www.tripadvisor.fr/Hotel_Review-g187147-d228850-Reviews-Melia_Paris_Notre_Dame-Paris_Ile_de_France.html
+237;Paris;Prince de Galles, a Luxury Collection Hotel;4.5;1091;https://www.tripadvisor.fr/Hotel_Review-g187147-d188492-Reviews-Prince_de_Galles_a_Luxury_Collection_Hotel_Paris-Paris_Ile_de_France.html
+238;Paris;Le Belleval;4.5;153;https://www.tripadvisor.fr/Hotel_Review-g187147-d13568674-Reviews-Le_Belleval-Paris_Ile_de_France.html
+240;Paris;Hotel R. Kipling by HappyCulture;4.0;725;https://www.tripadvisor.fr/Hotel_Review-g187147-d242964-Reviews-Hotel_R_Kipling_by_HappyCulture-Paris_Ile_de_France.html
+241;Paris;Hôtel de Seine;4.5;808;https://www.tripadvisor.fr/Hotel_Review-g187147-d236539-Reviews-Hotel_de_Seine-Paris_Ile_de_France.html
+242;Paris;Hôtel Palm - Astotel;4.5;1500;https://www.tripadvisor.fr/Hotel_Review-g187147-d232480-Reviews-Hotel_Palm_Astotel-Paris_Ile_de_France.html
+243;Paris;Hotel Atmospheres;4.5;2071;https://www.tripadvisor.fr/Hotel_Review-g187147-d3477124-Reviews-Hotel_Atmospheres-Paris_Ile_de_France.html
+244;Paris;Hotel La Perle;4.5;888;https://www.tripadvisor.fr/Hotel_Review-g187147-d236459-Reviews-Hotel_La_Perle-Paris_Ile_de_France.html
+245;Paris;Hotel Basss;4.0;942;https://www.tripadvisor.fr/Hotel_Review-g187147-d197574-Reviews-Hotel_Basss-Paris_Ile_de_France.html
+246;Paris;Campanile Paris 14 - Maine Montparnasse;4.0;697;https://www.tripadvisor.fr/Hotel_Review-g187147-d264552-Reviews-Campanile_Paris_14_Maine_Montparnasse-Paris_Ile_de_France.html
+247;Paris;Hôtel d'Orsay - Esprit de France;4.5;1291;https://www.tripadvisor.fr/Hotel_Review-g187147-d235593-Reviews-Hotel_d_Orsay_Esprit_de_France-Paris_Ile_de_France.html
+248;Paris;Le Petit Chomel;4.5;499;https://www.tripadvisor.fr/Hotel_Review-g187147-d228831-Reviews-Le_Petit_Chomel-Paris_Ile_de_France.html
+249;Paris;Villa Pantheon;4.0;1344;https://www.tripadvisor.fr/Hotel_Review-g187147-d229577-Reviews-Villa_Pantheon-Paris_Ile_de_France.html
+250;Paris;Hotel Lodge du Centre;4.0;629;https://www.tripadvisor.fr/Hotel_Review-g187147-d197588-Reviews-Hotel_Lodge_du_Centre-Paris_Ile_de_France.html
+251;Paris;Hôtel Le 123 Elysées - Astotel;4.5;1871;https://www.tripadvisor.fr/Hotel_Review-g187147-d228783-Reviews-Hotel_Le_123_Elysees_Astotel-Paris_Ile_de_France.html
+252;Paris;Hôtel Rochester Champs Elysées;4.5;1203;https://www.tripadvisor.fr/Hotel_Review-g187147-d197539-Reviews-Rochester_Champs_Elysees_Hotel-Paris_Ile_de_France.html
+253;Paris;Paris France Hotel;4.5;1065;https://www.tripadvisor.fr/Hotel_Review-g187147-d290407-Reviews-Paris_France_Hotel-Paris_Ile_de_France.html
+254;Paris;Hôtel Scarlett;4.5;412;https://www.tripadvisor.fr/Hotel_Review-g187147-d10062231-Reviews-Hotel_Scarlett-Paris_Ile_de_France.html
+255;Paris;Hôtel Princesse Caroline;4.5;450;https://www.tripadvisor.fr/Hotel_Review-g187147-d446849-Reviews-Hotel_Princesse_Caroline-Paris_Ile_de_France.html
+256;Paris;Hotel Westminster;4.0;1268;https://www.tripadvisor.fr/Hotel_Review-g187147-d197477-Reviews-Hotel_Westminster-Paris_Ile_de_France.html
+257;Paris;Hôtel Le Marianne;4.5;536;https://www.tripadvisor.fr/Hotel_Review-g187147-d7156343-Reviews-Le_Marianne_Hotel-Paris_Ile_de_France.html
+258;Paris;Grand Hotel Francais;4.5;2279;https://www.tripadvisor.fr/Hotel_Review-g187147-d197447-Reviews-Grand_Hotel_Francais-Paris_Ile_de_France.html
+259;Paris;Hôtel de Crillon, A Rosewood Hotel;4.5;443;https://www.tripadvisor.fr/Hotel_Review-g187147-d207722-Reviews-Hotel_de_Crillon_A_Rosewood_Hotel-Paris_Ile_de_France.html
+260;Paris;Hotel du College de France;4.5;1167;https://www.tripadvisor.fr/Hotel_Review-g187147-d271939-Reviews-Hotel_du_College_de_France-Paris_Ile_de_France.html
+261;Paris;Hotel du Jeu de Paume;4.5;665;https://www.tripadvisor.fr/Hotel_Review-g187147-d194304-Reviews-Hotel_du_Jeu_de_Paume-Paris_Ile_de_France.html
+262;Paris;Hôtel Hor Europe;4.5;751;https://www.tripadvisor.fr/Hotel_Review-g187147-d3315563-Reviews-Hotel_Hor_Europe-Paris_Ile_de_France.html
+263;Paris;Hôtel Tourisme Avenue ;4.5;1309;https://www.tripadvisor.fr/Hotel_Review-g187147-d558849-Reviews-Hotel_Tourisme_Avenue-Paris_Ile_de_France.html
+264;Paris;Legend Hotel by Elegancia;4.5;1389;https://www.tripadvisor.fr/Hotel_Review-g187147-d3217278-Reviews-Legend_Hotel_by_Elegancia-Paris_Ile_de_France.html
+265;Paris;Hotel Dauphine Saint Germain;4.5;1170;https://www.tripadvisor.fr/Hotel_Review-g187147-d194276-Reviews-Hotel_Dauphine_Saint_Germain-Paris_Ile_de_France.html
+266;Paris;Hotel A La Villa Des Artistes;4.0;735;https://www.tripadvisor.fr/Hotel_Review-g187147-d535056-Reviews-Hotel_A_La_Villa_Des_Artistes-Paris_Ile_de_France.html
+267;Paris;Hotel Le Walt;4.5;1028;https://www.tripadvisor.fr/Hotel_Review-g187147-d290385-Reviews-Hotel_Le_Walt-Paris_Ile_de_France.html
+268;Paris;Hotel Therese;4.5;786;https://www.tripadvisor.fr/Hotel_Review-g187147-d269333-Reviews-Hotel_Therese-Paris_Ile_de_France.html
+269;Paris;Hôtel Opéra Richepanse;4.5;794;https://www.tripadvisor.fr/Hotel_Review-g187147-d197423-Reviews-Hotel_Opera_Richepanse-Paris_Ile_de_France.html
+270;Paris;9Confidentiel;4.5;120;https://www.tripadvisor.fr/Hotel_Review-g187147-d14924522-Reviews-9Confidentiel-Paris_Ile_de_France.html
+271;Paris;Hôtel Les Bulles de Paris;4.0;583;https://www.tripadvisor.fr/Hotel_Review-g187147-d238380-Reviews-Hotel_Les_Bulles_De_Paris-Paris_Ile_de_France.html
+273;Paris;Hôtel Left Bank Saint Germain;4.5;1015;https://www.tripadvisor.fr/Hotel_Review-g187147-d207573-Reviews-Hotel_Left_Bank_Saint_Germain-Paris_Ile_de_France.html
+274;Paris;Hôtel Madeleine Haussmann;4.0;442;https://www.tripadvisor.fr/Hotel_Review-g187147-d233508-Reviews-Madeleine_Haussmann_Hotel-Paris_Ile_de_France.html
+275;Paris;Hotel Waldorf Montparnasse;4.0;491;https://www.tripadvisor.fr/Hotel_Review-g187147-d197616-Reviews-Hotel_Waldorf_Montparnasse-Paris_Ile_de_France.html
+276;Paris;Hotel Astrid;4.0;602;https://www.tripadvisor.fr/Hotel_Review-g187147-d233592-Reviews-Hotel_Astrid-Paris_Ile_de_France.html
+277;Paris;Hotel Absolute;4.0;304;https://www.tripadvisor.fr/Hotel_Review-g187147-d535057-Reviews-Absolute_Hotel_Paris-Paris_Ile_de_France.html
+278;Paris;Hotel Pont Royal;4.5;1120;https://www.tripadvisor.fr/Hotel_Review-g187147-d230489-Reviews-Hotel_Pont_Royal-Paris_Ile_de_France.html
+279;Paris;Hôtel Floride Etoile;4.0;653;https://www.tripadvisor.fr/Hotel_Review-g187147-d228829-Reviews-Floride_Etoile_Hotel-Paris_Ile_de_France.html
+280;Paris;Hôtel Montmartre Mon Amour;4.5;1106;https://www.tripadvisor.fr/Hotel_Review-g187147-d555838-Reviews-Montmartre_Mon_Amour-Paris_Ile_de_France.html
+281;Paris;Hôtel Le M Paris;4.0;1073;https://www.tripadvisor.fr/Hotel_Review-g187147-d648105-Reviews-Hotel_Le_M_Paris-Paris_Ile_de_France.html
+282;Paris;Hôtel Parc Saint Séverin - Esprit de France;4.5;1028;https://www.tripadvisor.fr/Hotel_Review-g187147-d194197-Reviews-Hotel_Parc_St_Severin_Esprit_de_France-Paris_Ile_de_France.html
+283;Paris;Le Pavillon de la Reine;4.5;1035;https://www.tripadvisor.fr/Hotel_Review-g187147-d188738-Reviews-Le_Pavillon_de_la_Reine-Paris_Ile_de_France.html
+284;Paris;Sofitel Paris Arc de Triomphe;4.5;1345;https://www.tripadvisor.fr/Hotel_Review-g187147-d197532-Reviews-Sofitel_Paris_Arc_de_Triomphe-Paris_Ile_de_France.html
+285;Paris;Duminy Vendome;4.0;861;https://www.tripadvisor.fr/Hotel_Review-g187147-d229532-Reviews-Duminy_Vendome-Paris_Ile_de_France.html
+286;Paris;Hotel Villa La Parisienne;4.0;300;https://www.tripadvisor.fr/Hotel_Review-g187147-d1382492-Reviews-Hotel_Villa_La_Parisienne-Paris_Ile_de_France.html
+289;Paris;Relais Hotel du Vieux Paris;4.5;535;https://www.tripadvisor.fr/Hotel_Review-g187147-d242962-Reviews-Relais_Hotel_du_Vieux_Paris-Paris_Ile_de_France.html
+290;Paris;LAZ’ Hotel Spa Urbain;4.5;280;https://www.tripadvisor.fr/Hotel_Review-g187147-d12828434-Reviews-LAZ_Hotel_Spa_Urbain-Paris_Ile_de_France.html
+291;Paris;Hotel Design Sorbonne;4.5;1507;https://www.tripadvisor.fr/Hotel_Review-g187147-d302989-Reviews-Hotel_Design_Sorbonne-Paris_Ile_de_France.html
+292;Paris;Hotel le Petit Paris;4.5;1328;https://www.tripadvisor.fr/Hotel_Review-g187147-d1462146-Reviews-Hotel_le_Petit_Paris-Paris_Ile_de_France.html
+293;Paris;Hôtel Palais de Chaillot;4.5;493;https://www.tripadvisor.fr/Hotel_Review-g187147-d220008-Reviews-Hotel_Palais_de_Chaillot-Paris_Ile_de_France.html
+294;Paris;Hôtel Lancaster Paris Champs-Élysées;4.5;826;https://www.tripadvisor.fr/Hotel_Review-g187147-d188735-Reviews-Hotel_Lancaster_Paris_Champs_Elysees-Paris_Ile_de_France.html
+295;Paris;Hotel D'Espagne;4.0;618;https://www.tripadvisor.fr/Hotel_Review-g187147-d228724-Reviews-Hotel_D_Espagne-Paris_Ile_de_France.html
+296;Paris;Hôtel Dress Code & Spa;5.0;233;https://www.tripadvisor.fr/Hotel_Review-g187147-d13009010-Reviews-Hotel_Dress_Code_Spa-Paris_Ile_de_France.html
+297;Paris;Hotel Britannique;4.5;1752;https://www.tripadvisor.fr/Hotel_Review-g187147-d198174-Reviews-Hotel_Britannique-Paris_Ile_de_France.html
+298;Paris;Hôtel Plaza Athénée;4.5;928;https://www.tripadvisor.fr/Hotel_Review-g187147-d188730-Reviews-Hotel_Plaza_Athenee-Paris_Ile_de_France.html
+299;Paris;First Hotel;4.0;1514;https://www.tripadvisor.fr/Hotel_Review-g187147-d649965-Reviews-First_Hotel-Paris_Ile_de_France.html

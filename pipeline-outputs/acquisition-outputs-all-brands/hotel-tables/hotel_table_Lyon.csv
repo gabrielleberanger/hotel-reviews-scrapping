@@ -1,0 +1,260 @@
+;city;hotel_name;hotel_rating;hotel_reviews;hotel_url
+0;Lyon;Hotel Crowne Plaza Lyon - Cité Internationale;4.5;1651;https://www.tripadvisor.fr/Hotel_Review-g187265-d621359-Reviews-Hotel_Crowne_Plaza_Lyon_Cite_Internationale-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+1;Lyon;Staycity Aparthotels Rue Garibaldi;4.5;899;https://www.tripadvisor.fr/Hotel_Review-g187265-d12136060-Reviews-Staycity_Aparthotels_Rue_Garibaldi-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+2;Lyon;Fourviere Hotel;4.5;963;https://www.tripadvisor.fr/Hotel_Review-g187265-d8820474-Reviews-Fourviere_Hotel-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+3;Lyon;Hotel Carlton Lyon - MGallery Collection;4.5;1859;https://www.tripadvisor.fr/Hotel_Review-g187265-d232355-Reviews-Hotel_Carlton_Lyon_MGallery_Collection-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+4;Lyon;Ibis Budget Aeroport Lyon Saint Exupery;4.0;1414;https://www.tripadvisor.fr/Hotel_Review-g187265-d3716594-Reviews-Ibis_Budget_Aeroport_Lyon_Saint_Exupery-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+5;Lyon;Grand Hotel des Terreaux;4.0;927;https://www.tripadvisor.fr/Hotel_Review-g187265-d265523-Reviews-Grand_Hotel_des_Terreaux-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+6;Lyon;Hôtel Vaubecour;4.5;604;https://www.tripadvisor.fr/Hotel_Review-g187265-d1058931-Reviews-Hotel_Vaubecour-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+7;Lyon;Mercure Lyon Centre Beaux Arts;4.5;1395;https://www.tripadvisor.fr/Hotel_Review-g187265-d219782-Reviews-Mercure_Lyon_Centre_Beaux_Arts-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+8;Lyon;MiHotel;4.5;412;https://www.tripadvisor.fr/Hotel_Review-g187265-d3974197-Reviews-MiHotel-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+10;Lyon;Campanile Lyon Centre - Gare Part Dieu;4.0;1234;https://www.tripadvisor.fr/Hotel_Review-g187265-d253267-Reviews-Campanile_Lyon_Centre_Gare_Part_Dieu-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+11;Lyon;Premiere Classe Lyon Centre - Gare Part Dieu;3.5;761;https://www.tripadvisor.fr/Hotel_Review-g187265-d481681-Reviews-Premiere_Classe_Lyon_Centre_Gare_Part_Dieu-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+12;Lyon;Okko Hotels Lyon Pont Lafayette;4.5;1426;https://www.tripadvisor.fr/Hotel_Review-g187265-d7274489-Reviews-OKKO_Hotels_Lyon_Pont_Lafayette-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+13;Lyon;Hotel des Celestins;4.5;1256;https://www.tripadvisor.fr/Hotel_Review-g187265-d801677-Reviews-Hotel_des_Celestins-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+14;Lyon;Novotel Lyon Confluence Hotel;4.0;1716;https://www.tripadvisor.fr/Hotel_Review-g187265-d2410921-Reviews-Novotel_Lyon_Confluence_Hotel-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+15;Lyon;Mob Hotel Lyon Confluence;4.0;353;https://www.tripadvisor.fr/Hotel_Review-g187265-d12778498-Reviews-Mob_Hotel_Lyon_Confluence-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+16;Lyon;Villa Florentine;4.5;1088;https://www.tripadvisor.fr/Hotel_Review-g187265-d551461-Reviews-Villa_Florentine-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+17;Lyon;Hotel Le Royal Lyon - MGallery Collection;4.0;1729;https://www.tripadvisor.fr/Hotel_Review-g187265-d232352-Reviews-Hotel_Le_Royal_Lyon_MGallery_Collection-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+18;Lyon;Globe et Cecil;4.0;738;https://www.tripadvisor.fr/Hotel_Review-g187265-d195625-Reviews-Globe_et_Cecil-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+19;Lyon;Novotel Lyon Gerland Musée des Confluences;4.0;1171;https://www.tripadvisor.fr/Hotel_Review-g187265-d197061-Reviews-Novotel_Lyon_Gerland_Musee_des_Confluences-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+20;Lyon;Hotel des Artistes;4.0;720;https://www.tripadvisor.fr/Hotel_Review-g187265-d195627-Reviews-Hotel_des_Artistes-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+21;Lyon;ResidHotel Lyon Part-Dieu;3.5;630;https://www.tripadvisor.fr/Hotel_Review-g187265-d265603-Reviews-ResidHotel_Lyon_Part_Dieu-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+22;Lyon;Ibis Budget Lyon Confluence;3.5;357;https://www.tripadvisor.fr/Hotel_Review-g187265-d7365860-Reviews-Ibis_Budget_Lyon_Centre_Confluence-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+23;Lyon;Hotel ibis Lyon Gerland Musée des Confluences;4.0;580;https://www.tripadvisor.fr/Hotel_Review-g187265-d197075-Reviews-Hotel_ibis_Lyon_Gerland_Musee_des_Confluences-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+24;Lyon;Ibis Lyon Part Dieu Les Halles;3.5;1956;https://www.tripadvisor.fr/Hotel_Review-g187265-d197074-Reviews-Ibis_Lyon_Part_Dieu_Les_Halles-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+25;Lyon;Radisson Blu Hotel, Lyon;4.0;1167;https://www.tripadvisor.fr/Hotel_Review-g187265-d472240-Reviews-Radisson_Blu_Hotel_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+26;Lyon;Hotel Lyon Metropole;4.0;1818;https://www.tripadvisor.fr/Hotel_Review-g187265-d232351-Reviews-Hotel_Lyon_Metropole-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+27;Lyon;Ibis Budget Lyon Centre - Gare Part Dieu;4.0;996;https://www.tripadvisor.fr/Hotel_Review-g187265-d2346264-Reviews-Ibis_Budget_Lyon_Centre_Gare_Part_Dieu-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+28;Lyon;Mercure Lyon Centre - Gare Part Dieu;4.5;1769;https://www.tripadvisor.fr/Hotel_Review-g187265-d2337062-Reviews-Mercure_Lyon_Centre_Gare_Part_Dieu-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+29;Lyon;Mama Shelter Lyon;4.5;1560;https://www.tripadvisor.fr/Hotel_Review-g187265-d3987293-Reviews-Mama_Shelter_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+30;Lyon;Apart'Hôtel Lyon Lumière;4.0;631;https://www.tripadvisor.fr/Hotel_Review-g187265-d2665655-Reviews-Apart_Hotel_Lagrange_Vacances_Lyon_Lumiere-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+32;Lyon;Cour des Loges;4.5;1616;https://www.tripadvisor.fr/Hotel_Review-g187265-d195623-Reviews-Cour_des_Loges-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+33;Lyon;Sofitel Lyon Bellecour;4.0;2456;https://www.tripadvisor.fr/Hotel_Review-g187265-d197060-Reviews-Sofitel_Lyon_Bellecour-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+34;Lyon;Quality Suites Lyon Confluence;4.0;536;https://www.tripadvisor.fr/Hotel_Review-g187265-d3527170-Reviews-Quality_Suites_Lyon_Confluence-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+35;Lyon;Away Hostel;4.0;223;https://www.tripadvisor.fr/Hotel_Review-g187265-d10430023-Reviews-Away_Hostel-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+36;Lyon;SLO Living Hostel;4.5;378;https://www.tripadvisor.fr/Hotel_Review-g187265-d6701455-Reviews-SLO_Living_Hostel-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+37;Lyon;Mercure Lyon Centre Château Perrache;4.0;1406;https://www.tripadvisor.fr/Hotel_Review-g187265-d197066-Reviews-Mercure_Lyon_Centre_Chateau_Perrache-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+38;Lyon;Ibis Lyon Centre Perrache;4.0;1283;https://www.tripadvisor.fr/Hotel_Review-g187265-d232348-Reviews-Ibis_Lyon_Centre_Perrache-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+39;Lyon;Mercure Lyon Centre Saxe Lafayette;4.0;1702;https://www.tripadvisor.fr/Hotel_Review-g187265-d197059-Reviews-Mercure_Lyon_Centre_Saxe_Lafayette-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+41;Lyon;Hôtel Lyon Croix-Rousse Hénon;3.5;502;https://www.tripadvisor.fr/Hotel_Review-g187265-d275313-Reviews-Hotel_Lyon_Croix_Rousse_Henon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+42;Lyon;Ho36 Hostel;4.0;236;https://www.tripadvisor.fr/Hotel_Review-g187265-d293643-Reviews-Ho36_Hostel-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+43;Lyon;Montempo Lyon Cite Internationale;3.5;298;https://www.tripadvisor.fr/Hotel_Review-g187265-d2252433-Reviews-Montempo_Lyon_Cite_Internationale-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+44;Lyon;Citadines Part-Dieu Lyon;3.5;323;https://www.tripadvisor.fr/Hotel_Review-g187265-d197071-Reviews-Citadines_Part_Dieu_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+45;Lyon;Elysee Hotel;4.0;273;https://www.tripadvisor.fr/Hotel_Review-g187265-d195624-Reviews-Elysee_Hotel-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+46;Lyon;Mercure Lyon Centre Plaza Republique;4.0;561;https://www.tripadvisor.fr/Hotel_Review-g187265-d197063-Reviews-Mercure_Lyon_Centre_Plaza_Republique-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+47;Lyon;Hotel du Simplon;4.0;495;https://www.tripadvisor.fr/Hotel_Review-g187265-d259393-Reviews-Hotel_du_Simplon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+48;Lyon;Hôtel des Remparts;3.5;445;https://www.tripadvisor.fr/Hotel_Review-g187265-d244251-Reviews-Hotel_des_Remparts-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+49;Lyon;Campanile Lyon Centre - Gare Perrache - Confluence;3.5;392;https://www.tripadvisor.fr/Hotel_Review-g187265-d259392-Reviews-Campanile_Lyon_Centre_Gare_Perrache_Confluence-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+50;Lyon;Hotel Alexandra;4.0;1133;https://www.tripadvisor.fr/Hotel_Review-g187265-d293645-Reviews-Hotel_Alexandra-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+51;Lyon;Ibis Lyon Gare La Part Dieu;4.0;1017;https://www.tripadvisor.fr/Hotel_Review-g187265-d197072-Reviews-Ibis_Lyon_Gare_La_Part_Dieu-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+52;Lyon;Ibis Lyon Part Dieu Les Halles;3.5;1955;https://www.tripadvisor.fr/Hotel_Review-g187265-d197074-Reviews-Ibis_Lyon_Part_Dieu_Les_Halles-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+53;Lyon;College Hotel;3.5;632;https://www.tripadvisor.fr/Hotel_Review-g187265-d553319-Reviews-College_Hotel-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+54;Lyon;Campanile Lyon Centre - Berges du Rhône;3.5;590;https://www.tripadvisor.fr/Hotel_Review-g187265-d232353-Reviews-Campanile_Lyon_Centre_Berges_Du_Rhone-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+55;Lyon;Citadines Presqu'île Lyon;4.0;765;https://www.tripadvisor.fr/Hotel_Review-g187265-d197068-Reviews-Citadines_Presqu_ile_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+56;Lyon;Hôtel La Résidence;4.0;664;https://www.tripadvisor.fr/Hotel_Review-g187265-d239223-Reviews-Hotel_La_Residence-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+57;Lyon;Best Western Hotel Du Pont Wilson;4.0;780;https://www.tripadvisor.fr/Hotel_Review-g187265-d234833-Reviews-Best_Western_Hotel_Du_Pont_Wilson-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+58;Lyon;Hôtel ParkSaône;4.5;265;https://www.tripadvisor.fr/Hotel_Review-g187265-d12188472-Reviews-Hotel_ParkSaone-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+59;Lyon;Lyon Marriott Hotel Cité Internationale;4.0;503;https://www.tripadvisor.fr/Hotel_Review-g187265-d197891-Reviews-Lyon_Marriott_Hotel_Cite_Internationale-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+60;Lyon;B&B HOTEL Lyon Centre Part-Dieu Gambetta;3.5;463;https://www.tripadvisor.fr/Hotel_Review-g187265-d1235966-Reviews-B_B_Hotel_Lyon_Centre_Part_Dieu_Gambetta-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+61;Lyon;Hotelo;4.5;598;https://www.tripadvisor.fr/Hotel_Review-g187265-d1377912-Reviews-Hotelo-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+63;Lyon;Warwick Reine Astrid -  Lyon;4.0;845;https://www.tripadvisor.fr/Hotel_Review-g187265-d228802-Reviews-Warwick_Reine_Astrid_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+64;Lyon;Boscolo Lyon;4.5;66;https://www.tripadvisor.fr/Hotel_Review-g187265-d15111966-Reviews-Boscolo_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+65;Lyon;Dock Ouest;4.0;319;https://www.tripadvisor.fr/Hotel_Review-g187265-d2179928-Reviews-Dock_Ouest-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+66;Lyon;Appart'City Confort Lyon Gerland;3.0;257;https://www.tripadvisor.fr/Hotel_Review-g187265-d305857-Reviews-Appart_City_Confort_Lyon_Gerland-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+67;Lyon;InterContinental Lyon-Hotel Dieu;4.5;132;https://www.tripadvisor.fr/Hotel_Review-g187265-d15216091-Reviews-InterContinental_Lyon_Hotel_Dieu-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+68;Lyon;Appart'Hôtel Odalys Bioparc;4.0;322;https://www.tripadvisor.fr/Hotel_Review-g187265-d1185392-Reviews-Appart_Hotel_Odalys_Bioparc-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+69;Lyon;Le Phénix Hotel;4.0;523;https://www.tripadvisor.fr/Hotel_Review-g187265-d228692-Reviews-Le_Phenix_Hotel-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+70;Lyon;Hotel Kyriad Lyon Centre - Perrache;3.5;426;https://www.tripadvisor.fr/Hotel_Review-g187265-d7341085-Reviews-Hotel_Kyriad_Lyon_Centre_Perrache-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+71;Lyon;Hotel du Theatre;4.0;286;https://www.tripadvisor.fr/Hotel_Review-g187265-d235940-Reviews-Hotel_du_Theatre-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+72;Lyon;Ibis Styles Lyon Confluence;4.0;495;https://www.tripadvisor.fr/Hotel_Review-g187265-d232356-Reviews-Ibis_Styles_Lyon_Centre_Confluence-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+73;Lyon;Hotel Victoria;4.0;79;https://www.tripadvisor.fr/Hotel_Review-g187265-d293648-Reviews-Hotel_Victoria-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+74;Lyon;Hotel Du Parc;3.0;330;https://www.tripadvisor.fr/Hotel_Review-g187265-d504618-Reviews-Hotel_Du_Parc-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+75;Lyon;Hotel Ibis Lyon Centre;4.0;294;https://www.tripadvisor.fr/Hotel_Review-g187265-d197073-Reviews-Hotel_Ibis_Lyon_Centre-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+76;Lyon;Hotel Axotel Lyon Perrache;4.0;535;https://www.tripadvisor.fr/Hotel_Review-g187265-d229774-Reviews-Hotel_Axotel_Lyon_Perrache-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+77;Lyon;Hôtel des Savoies Lyon;3.5;688;https://www.tripadvisor.fr/Hotel_Review-g187265-d248544-Reviews-Hotel_des_Savoies_Lyon_Perrache-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+78;Lyon;Best Western Crequi Lyon Part Dieu;3.5;405;https://www.tripadvisor.fr/Hotel_Review-g187265-d275307-Reviews-Best_Western_Crequi_Lyon_Part_Dieu-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+79;Lyon;Nemea Appart'Hôtel Lyon So Cloud;3.5;55;https://www.tripadvisor.fr/Hotel_Review-g187265-d17374263-Reviews-Nemea_Appart_Hotel_Lyon_So_Cloud-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+80;Lyon;Hotel Lyon-ouest;4.5;581;https://www.tripadvisor.fr/Hotel_Review-g187265-d3266027-Reviews-Hotel_Lyon_ouest-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+81;Lyon;Hotel Le Roosevelt;4.0;642;https://www.tripadvisor.fr/Hotel_Review-g187265-d530032-Reviews-Hotel_Le_Roosevelt-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+82;Lyon;Apparteo Lyon 7 Jean Jaures;3.5;577;https://www.tripadvisor.fr/Hotel_Review-g187265-d3564900-Reviews-Apparteo_Lyon_7_Jean_Jaures-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+83;Lyon;B&B HOTEL Lyon Centre Monplaisir;3.5;177;https://www.tripadvisor.fr/Hotel_Review-g187265-d1236556-Reviews-B_B_HOTEL_Lyon_Centre_Monplaisir-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+84;Lyon;Hôtel Edmond W;4.0;36;https://www.tripadvisor.fr/Hotel_Review-g187265-d280210-Reviews-Hotel_Edmond_W_Lyon_Part_Dieu-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+85;Lyon;Best Western Saint Antoine;4.0;241;https://www.tripadvisor.fr/Hotel_Review-g187265-d564485-Reviews-Best_Western_Saint_Antoine-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+86;Lyon;Mercure Lyon Centre Brotteaux;4.0;437;https://www.tripadvisor.fr/Hotel_Review-g187265-d228015-Reviews-Mercure_Lyon_Centre_Brotteaux-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+87;Lyon;Ibis Budget Lyon Gerland;3.0;836;https://www.tripadvisor.fr/Hotel_Review-g187265-d300912-Reviews-Ibis_Budget_Lyon_Gerland-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+88;Lyon;Villa Maïa;4.5;109;https://www.tripadvisor.fr/Hotel_Review-g187265-d12214391-Reviews-Villa_Maia-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+89;Lyon;Hôtel du Helder;2.5;328;https://www.tripadvisor.fr/Hotel_Review-g187265-d232354-Reviews-Hotel_Du_Helder-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+90;Lyon;Hôtel De Normandie;3.0;218;https://www.tripadvisor.fr/Hotel_Review-g187265-d293655-Reviews-Hotel_De_Normandie-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+91;Lyon;Hôtel Tête d'or ;4.0;326;https://www.tripadvisor.fr/Hotel_Review-g187265-d620899-Reviews-Hotel_Tete_d_or-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+92;Lyon;BEST WESTERN Hôtel De Verdun;4.0;174;https://www.tripadvisor.fr/Hotel_Review-g187265-d241848-Reviews-Best_Western_Hotel_De_Verdun-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+93;Lyon;Appart’Hôtel Odalys Confluence;3.5;286;https://www.tripadvisor.fr/Hotel_Review-g187265-d5527580-Reviews-Appart_Hotel_Odalys_Confluence-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+94;Lyon;Hôtel Mercure Lyon Centre Lumière;4.0;487;https://www.tripadvisor.fr/Hotel_Review-g187265-d197067-Reviews-Hotel_Mercure_Lyon_Centre_Lumiere-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+95;Lyon;HOTEL DU DAUPHIN;3.5;149;https://www.tripadvisor.fr/Hotel_Review-g187265-d617623-Reviews-HOTEL_DU_DAUPHIN-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+96;Lyon;Appart'City Lyon Part-Dieu Villette;2.5;261;https://www.tripadvisor.fr/Hotel_Review-g187265-d530455-Reviews-Appart_City_Lyon_Part_Dieu_Villette-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+97;Lyon;Au Patio Morand;4.0;122;https://www.tripadvisor.fr/Hotel_Review-g187265-d293656-Reviews-Au_Patio_Morand-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+98;Lyon;Hotel Saint Vincent;4.0;150;https://www.tripadvisor.fr/Hotel_Review-g187265-d1225296-Reviews-Hotel_Saint_Vincent-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+99;Lyon;Hotel Saint Paul;3.5;219;https://www.tripadvisor.fr/Hotel_Review-g187265-d530035-Reviews-Hotel_Saint_Paul-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+100;Lyon;Hotel Charlemagne;4.0;549;https://www.tripadvisor.fr/Hotel_Review-g187265-d197897-Reviews-Hotel_Charlemagne-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+101;Lyon;Hôtel Taggât;3.5;105;https://www.tripadvisor.fr/Hotel_Review-g187265-d1224988-Reviews-Hotel_Taggat-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+102;Lyon;Maison Nô;3.5;143;https://www.tripadvisor.fr/Hotel_Review-g187265-d13485256-Reviews-Maison_No-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+103;Lyon;Républik Hôtel;3.5;294;https://www.tripadvisor.fr/Hotel_Review-g187265-d219780-Reviews-Republik_Hotel-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+104;Lyon;Appart-Hôtel Q7 Lodge;3.5;429;https://www.tripadvisor.fr/Hotel_Review-g187265-d4435014-Reviews-Appart_Hotel_Q7_Lodge-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+105;Lyon;Hotel-Restaurant Chez Nous;3.5;67;https://www.tripadvisor.fr/Hotel_Review-g187265-d636390-Reviews-Hotel_Restaurant_Chez_Nous-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+106;Lyon;Hotel de la Marne;3.5;181;https://www.tripadvisor.fr/Hotel_Review-g187265-d2181208-Reviews-Hotel_de_la_Marne-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+107;Lyon;Hotel Bayard Bellecour;4.0;395;https://www.tripadvisor.fr/Hotel_Review-g187265-d219781-Reviews-Hotel_Bayard_Bellecour-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+108;Lyon;Apparthôtel Privilodges Lyon Lumière;4.0;125;https://www.tripadvisor.fr/Hotel_Review-g187265-d632628-Reviews-Apparthotel_Privilodges_Lyon_Lumiere-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+109;Lyon;Hotel de la Croix Rousse;3.0;409;https://www.tripadvisor.fr/Hotel_Review-g187265-d280212-Reviews-Hotel_de_la_Croix_Rousse-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+110;Lyon;Belambra Clubs - Villemanzy;3.5;130;https://www.tripadvisor.fr/Hotel_Review-g187265-d2106010-Reviews-Belambra_City_Villemanzy-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+111;Lyon;Hotel Le Lumiere;3.0;82;https://www.tripadvisor.fr/Hotel_Review-g187265-d1643963-Reviews-Hotel_Le_Lumiere-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+112;Lyon;Appart'City Confort Lyon Vaise;3.0;104;https://www.tripadvisor.fr/Hotel_Review-g187265-d596933-Reviews-Appart_City_Confort_Lyon_Vaise-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+113;Lyon;Le Jardin de Beauvoir;5.0;111;https://www.tripadvisor.fr/Hotel_Review-g187265-d4351928-Reviews-Le_Jardin_de_Beauvoir-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+114;Lyon;Hotel De Paris;3.5;157;https://www.tripadvisor.fr/Hotel_Review-g187265-d1474960-Reviews-Hotel_De_Paris-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+115;Lyon;Felix Dort;4.0;51;https://www.tripadvisor.fr/Hotel_Review-g187265-d7319673-Reviews-Felix_Dort-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+116;Lyon;Ibis Lyon Gerland Rue Merieux;3.5;417;https://www.tripadvisor.fr/Hotel_Review-g187265-d197076-Reviews-Ibis_Lyon_Gerland_Rue_Merieux-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+117;Lyon;Hôtel des Facultés;3.0;81;https://www.tripadvisor.fr/Hotel_Review-g187265-d1060945-Reviews-Hotel_des_Facultes-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+118;Lyon;Appart'City Confort Lyon Part-Dieu;2.5;656;https://www.tripadvisor.fr/Hotel_Review-g187265-d530476-Reviews-Appart_City_Confort_Lyon_Part_Dieu-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+119;Lyon;Appart'City Lyon Vaise Saint Cyr;2.5;144;https://www.tripadvisor.fr/Hotel_Review-g187265-d1378983-Reviews-Appart_City_Lyon_Vaise_Saint_Cyr-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+120;Lyon;Hotel Berlioz;3.5;182;https://www.tripadvisor.fr/Hotel_Review-g187265-d280215-Reviews-Hotel_Berlioz-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+121;Lyon;Le Flâneur Guesthouse;4.5;90;https://www.tripadvisor.fr/Hotel_Review-g187265-d8778985-Reviews-Le_Flaneur_Guesthouse-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+122;Lyon;Hotel De La Loire;3.5;136;https://www.tripadvisor.fr/Hotel_Review-g187265-d229773-Reviews-Hotel_De_La_Loire-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+123;Lyon;B&B HOTEL Lyon Centre Perrache Berthelot;3.5;85;https://www.tripadvisor.fr/Hotel_Review-g187265-d13010763-Reviews-B_B_Hotel_Lyon_Centre_Perrache_Berthelot-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+124;Lyon;Residence Sejours et Affaires Lyon Park Avenue;3.0;102;https://www.tripadvisor.fr/Hotel_Review-g187265-d665179-Reviews-Residence_Sejours_et_Affaires_Lyon_Park_Avenue-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+125;Lyon;Le Boulevardier;4.0;148;https://www.tripadvisor.fr/Hotel_Review-g187265-d195622-Reviews-Le_Boulevardier-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+126;Lyon;Hotel de Bretagne;2.5;170;https://www.tripadvisor.fr/Hotel_Review-g187265-d484401-Reviews-Hotel_de_Bretagne-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+127;Lyon;Clos Feuillat;4.5;10;https://www.tripadvisor.fr/Hotel_Review-g187265-d11805186-Reviews-Clos_Feuillat-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+128;Lyon;Hôtel de l'Abbaye;4.5;24;https://www.tripadvisor.fr/Hotel_Review-g187265-d17781405-Reviews-Hotel_de_l_Abbaye-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+129;Lyon;Hotel Laennec;4.5;44;https://www.tripadvisor.fr/Hotel_Review-g187265-d482994-Reviews-Hotel_Laennec-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+130;Lyon;Hotel Moderne;3.0;78;https://www.tripadvisor.fr/Hotel_Review-g187265-d564967-Reviews-Hotel_Moderne-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+131;Lyon;Best Western Richelieu Lyon Part-Dieu;3.0;242;https://www.tripadvisor.fr/Hotel_Review-g187265-d307789-Reviews-Best_Western_Richelieu_Lyon_Part_Dieu-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+132;Lyon;Sejours & Affaires Apparthotel  Lyon Park Lane;3.0;136;https://www.tripadvisor.fr/Hotel_Review-g187265-d627150-Reviews-Sejours_Affaires_Apparthotel_Lyon_Park_Lane-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+133;Lyon;La loge du Vieux Lyon;4.5;25;https://www.tripadvisor.fr/Hotel_Review-g187265-d13748027-Reviews-La_loge_du_Vieux_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+134;Lyon;Comfort Suites Rive Gauche Lyon Centre;3.5;96;https://www.tripadvisor.fr/Hotel_Review-g187265-d6582961-Reviews-Comfort_Suites_Rive_Gauche_Lyon_Centre-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+135;Lyon;Hotel d'Ainay;3.0;44;https://www.tripadvisor.fr/Hotel_Review-g187265-d2204978-Reviews-Hotel_d_Ainay-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+136;Lyon;Auberge de la Brevenne;2.0;28;https://www.tripadvisor.fr/Hotel_Review-g187265-d296373-Reviews-Auberge_de_la_Brevenne-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+137;Lyon;Studios Peniche Lyon Centre Vieux Lyon Confluence;3.0;3;https://www.tripadvisor.fr/Hotel_Review-g187265-d15844548-Reviews-Studios_Peniche_Lyon_Centre_Vieux_Lyon_Confluence-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+138;Lyon;Une Nuit Au Second;4.5;32;https://www.tripadvisor.fr/Hotel_Review-g187265-d4154469-Reviews-Une_Nuit_Au_Second-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+139;Lyon;Hotel Foch;3.5;123;https://www.tripadvisor.fr/Hotel_Review-g187265-d293635-Reviews-Hotel_Foch-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+140;Lyon;Hotel d'Azur;3.5;96;https://www.tripadvisor.fr/Hotel_Review-g187265-d553320-Reviews-Hotel_d_Azur-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+141;Lyon;Artelit;4.0;48;https://www.tripadvisor.fr/Hotel_Review-g187265-d1127850-Reviews-Artelit-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+142;Lyon;Le Relais de Grange Blanche;4.5;46;https://www.tripadvisor.fr/Hotel_Review-g187265-d7180865-Reviews-Le_Relais_de_Grange_Blanche-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+143;Lyon;Hotel du Dauphine;3.0;103;https://www.tripadvisor.fr/Hotel_Review-g187265-d1225294-Reviews-Hotel_du_Dauphine-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+144;Lyon;Villa 216;5.0;3;https://www.tripadvisor.fr/Hotel_Review-g187265-d19102280-Reviews-Villa_216-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+145;Lyon;Alter'hostel;4.5;13;https://www.tripadvisor.fr/Hotel_Review-g187265-d12718164-Reviews-Alter_hostel-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+146;Lyon;MEININGER Hotel Lyon Centre Berthelot;5.0;4;https://www.tripadvisor.fr/Hotel_Review-g187265-d19102216-Reviews-MEININGER_Hotel_Lyon_Centre_Berthelot-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+147;Lyon;Best Western Saphir Lyon;3.5;467;https://www.tripadvisor.fr/Hotel_Review-g187265-d197065-Reviews-Best_Western_Saphir_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+148;Lyon;Residence Hoteliere Temporim Part Dieu;3.5;293;https://www.tripadvisor.fr/Hotel_Review-g187265-d2160555-Reviews-Residence_Hoteliere_Temporim_Part_Dieu-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+149;Lyon;Hotel De Noailles;4.0;60;https://www.tripadvisor.fr/Hotel_Review-g187265-d603802-Reviews-Hotel_De_Noailles-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+150;Lyon;Résidence Otelia;3.5;146;https://www.tripadvisor.fr/Hotel_Review-g187265-d1736188-Reviews-Residence_Otelia-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+151;Lyon;Appart'City Lyon Part-Dieu Garibaldi;2.0;353;https://www.tripadvisor.fr/Hotel_Review-g187265-d530539-Reviews-Appart_City_Lyon_Part_Dieu_Garibaldi-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+152;Lyon;Les Loges du Théâtre;5.0;209;https://www.tripadvisor.fr/Hotel_Review-g187265-d4742057-Reviews-Les_Loges_du_Theatre-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+153;Lyon;LE GOURGUILLON;4.0;412;https://www.tripadvisor.fr/Hotel_Review-g187265-d1372922-Reviews-LE_GOURGUILLON-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+154;Lyon;Hôtel le Lacassagne;4.0;50;https://www.tripadvisor.fr/Hotel_Review-g187265-d231035-Reviews-Hotel_le_Lacassagne-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+155;Lyon;Centre Jean Bosco;4.0;46;https://www.tripadvisor.fr/Hotel_Review-g187265-d7721500-Reviews-Centre_Jean_Bosco-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+156;Lyon;LE CHATARD;3.5;101;https://www.tripadvisor.fr/Hotel_Review-g187265-d636311-Reviews-HOTEL_Le_Chatard_Hotel-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+157;Lyon;MHL - Maison Hotel Lyon;5.0;41;https://www.tripadvisor.fr/Hotel_Review-g187265-d6210716-Reviews-MHL_Maison_Hotel_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+158;Lyon;Sejours & Affaires Lyon Saxe-Gambetta;2.0;35;https://www.tripadvisor.fr/Hotel_Review-g187265-d305860-Reviews-Sejours_Affaires_Lyon_Saxe_Gambetta-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+159;Lyon;Lyon Mon Amour;4.0;11;https://www.tripadvisor.fr/Hotel_Review-g187265-d13867256-Reviews-Lyon_Mon_Amour-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+160;Lyon;Like Home - Bellecour;2.5;8;https://www.tripadvisor.fr/Hotel_Review-g187265-d16665694-Reviews-Like_Home_Bellecour-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+161;Lyon;Loge De L'Opera;4.5;4;https://www.tripadvisor.fr/Hotel_Review-g187265-d17454098-Reviews-Loge_De_L_Opera-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+162;Lyon;Like Home Terreaux;2.5;4;https://www.tripadvisor.fr/Hotel_Review-g187265-d17757652-Reviews-Like_Home_Terreaux-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+163;Lyon;La Chambre d'Hugo;5.0;208;https://www.tripadvisor.fr/Hotel_Review-g187265-d2055784-Reviews-La_Chambre_d_Hugo-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+164;Lyon;Celect'in Lyon;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d15680006-Reviews-Celect_in_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+165;Lyon;Demeure des Monts d'Or;5.0;26;https://www.tripadvisor.fr/Hotel_Review-g187265-d14122938-Reviews-Demeure_des_Monts_d_Or-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+166;Lyon;Le Saint Georges By Mon Hotel Particulier;4.0;15;https://www.tripadvisor.fr/Hotel_Review-g187265-d7179970-Reviews-Le_Saint_Georges_By_Mon_Hotel_Particulier-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+167;Lyon;Le Berliet-Monplaisir;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d16913896-Reviews-Le_Berliet_Monplaisir-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+168;Lyon;Sofitel Lyon Aeroport;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d14137594-Reviews-Sofitel_Lyon_Aeroport-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+169;Lyon;La Closerie de Fourviere;3.5;7;https://www.tripadvisor.fr/Hotel_Review-g187265-d6363793-Reviews-La_Closerie_de_Fourviere-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+170;Lyon;QuadraVerde;2.5;5;https://www.tripadvisor.fr/Hotel_Review-g187265-d13981022-Reviews-QuadraVerde-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+171;Lyon;Comme a la Maison;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d13494212-Reviews-Comme_a_la_Maison-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+172;Lyon;Loges Vieux Lyon;4.5;70;https://www.tripadvisor.fr/Hotel_Review-g187265-d2282352-Reviews-Loges_Vieux_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+173;Lyon;La Laurentine;4.5;3;https://www.tripadvisor.fr/Hotel_Review-g187265-d12538699-Reviews-La_Laurentine-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+174;Lyon;Appartement De La Gare;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d15828546-Reviews-Appartement_De_La_Gare-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+175;Lyon;Cosy Home Lyon;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d17757476-Reviews-Cosy_Home_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+176;Lyon;La Suite Des Gones;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d16841604-Reviews-La_Suite_Des_Gones-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+177;Lyon;Hyper centre : Appartement Deco Atelier Ou Studio Mezzanine;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d16854173-Reviews-Hyper_centre_Appartement_Deco_Atelier_Ou_Studio_Mezzanine-Lyon_Rhone_Auvergne_Rhone_A.html
+178;Lyon;Appartements Cordeliers;2.0;2;https://www.tripadvisor.fr/Hotel_Review-g187265-d16913549-Reviews-Appartements_Cordeliers-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+179;Lyon;Les Cocons Emeraude Et Fleuri;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d17636672-Reviews-Les_Cocons_Emeraude_Et_Fleuri-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+180;Lyon;Hotelo;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d19329653-Reviews-Hotelo-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+181;Lyon;Maison Mouillard;4.5;8;https://www.tripadvisor.fr/Hotel_Review-g187265-d15586212-Reviews-Maison_Mouillard-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+182;Lyon;Bizrot Hotel;3.5;43;https://www.tripadvisor.fr/Hotel_Review-g187265-d2644569-Reviews-Bizrot_Hotel-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+183;Lyon;Villa Des Canuts;4.5;44;https://www.tripadvisor.fr/Hotel_Review-g187265-d3619663-Reviews-Villa_Des_Canuts-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+184;Lyon;La Maison Debourg;4.5;13;https://www.tripadvisor.fr/Hotel_Review-g187265-d8768317-Reviews-La_Maison_Debourg-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+185;Lyon;Les Soyeuses;3.5;10;https://www.tripadvisor.fr/Hotel_Review-g187265-d4557827-Reviews-Les_Soyeuses-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+186;Lyon;Le Patio des traboules;2.0;14;https://www.tripadvisor.fr/Hotel_Review-g187265-d6678481-Reviews-Le_Patio_des_traboules-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+187;Lyon;City Work;2.5;3;https://www.tripadvisor.fr/Hotel_Review-g187265-d10804289-Reviews-City_Work-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+188;Lyon;B&B Edelweiss Et Mandarine;2.0;1;https://www.tripadvisor.fr/Hotel_Review-g187265-d9737324-Reviews-B_B_Edelweiss_Et_Mandarine-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+189;Lyon;Bed In City;3.0;6;https://www.tripadvisor.fr/Hotel_Review-g187265-d3613417-Reviews-Bed_In_City-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+190;Lyon;Le Carre Merciere;4.0;7;https://www.tripadvisor.fr/Hotel_Review-g187265-d2533446-Reviews-Le_Carre_Merciere-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+191;Lyon;Come in Lyon;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d15700939-Reviews-Come_in_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+192;Lyon;L'imprimerie;4.0;17;https://www.tripadvisor.fr/Hotel_Review-g187265-d10837180-Reviews-L_imprimerie-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+193;Lyon;B&B Les Galets;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g187265-d17692996-Reviews-B_B_Les_Galets-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+194;Lyon;MiHotel Sala;3.0;2;https://www.tripadvisor.fr/Hotel_Review-g187265-d17673316-Reviews-MiHotel_Sala-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+195;Lyon;Dify Merveilleux - Jean Mace;2.0;1;https://www.tripadvisor.fr/Hotel_Review-g187265-d16894888-Reviews-Dify_Merveilleux_Jean_Mace-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+196;Lyon;Le Lit des Gones;1.0;1;https://www.tripadvisor.fr/Hotel_Review-g187265-d12524787-Reviews-Le_Lit_des_Gones-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+197;Lyon;Cote Palais;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d15686600-Reviews-Cote_Palais-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+198;Lyon;Home Sweet Home;3.5;13;https://www.tripadvisor.fr/Hotel_Review-g187265-d2666382-Reviews-Home_Sweet_Home-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+199;Lyon;Seven Lodge;4.0;1;https://www.tripadvisor.fr/Hotel_Review-g187265-d16637469-Reviews-Seven_Lodge-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+200;Lyon;Good Night Inn Lyon;3.0;2;https://www.tripadvisor.fr/Hotel_Review-g187265-d16932854-Reviews-Good_Night_Inn_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+201;Lyon;Renting Lyon Pirard;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d16932770-Reviews-Renting_Lyon_Pirard-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+202;Lyon;Appartements Place Bellecour - Lyon Cocoon;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d19618711-Reviews-Appartements_Place_Bellecour_Lyon_Cocoon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+203;Lyon;Ma chambre à Lyon;2.5;2;https://www.tripadvisor.fr/Hotel_Review-g187265-d6868109-Reviews-Ma_chambre_a_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+204;Lyon;Parc Harmonie;3.0;2;https://www.tripadvisor.fr/Hotel_Review-g187265-d16661912-Reviews-Parc_Harmonie-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+205;Lyon;La Grange de Fourvière;4.5;188;https://www.tripadvisor.fr/Hotel_Review-g187265-d1636576-Reviews-La_Grange_de_Fourviere-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+206;Lyon;Residence Suiteasy Albert Thomas;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d17650401-Reviews-Residence_Suiteasy_Albert_Thomas-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+207;Lyon;The Thonet House;2.0;3;https://www.tripadvisor.fr/Hotel_Review-g187265-d13230426-Reviews-The_Thonet_House-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+208;Lyon;Appartements Lumiere;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d15747778-Reviews-Appartements_Lumiere-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+209;Lyon;BtoBed - Garibaldi;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d15853093-Reviews-BtoBed_Garibaldi-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+210;Lyon;Les Studios de la Place;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d12032319-Reviews-Les_Studios_de_la_Place-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+211;Lyon;Opera;2.5;6;https://www.tripadvisor.fr/Hotel_Review-g187265-d7335724-Reviews-Opera-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+212;Lyon;MiHotel Comte;4.5;2;https://www.tripadvisor.fr/Hotel_Review-g187265-d17673432-Reviews-MiHotel_Comte-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+213;Lyon;Les Demeures de Morphee;5.0;73;https://www.tripadvisor.fr/Hotel_Review-g187265-d2154027-Reviews-Les_Demeures_de_Morphee-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+214;Lyon;Apart'Observatoire Saint Jean;4.5;77;https://www.tripadvisor.fr/Hotel_Review-g187265-d1523739-Reviews-Apart_Observatoire_Saint_Jean-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+215;Lyon;Le Chateau du Pin;5.0;8;https://www.tripadvisor.fr/Hotel_Review-g187265-d565708-Reviews-Le_Chateau_du_Pin-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+216;Lyon;Le Love Spa;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g187265-d19813126-Reviews-Le_Love_Spa-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+217;Lyon;Chambres d'hotes Oiseau Blanc;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d6420098-Reviews-Chambres_d_hotes_Oiseau_Blanc-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+218;Lyon;Cercle Mixte Bellecour;2.0;8;https://www.tripadvisor.fr/Hotel_Review-g187265-d6201190-Reviews-Cercle_Mixte_Bellecour-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+219;Lyon;La Cardinale Et Sa Residence;2.5;3;https://www.tripadvisor.fr/Hotel_Review-g187265-d251419-Reviews-La_Cardinale_Et_Sa_Residence-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+220;Lyon;Residence Pavillon Mazenod;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d1148988-Reviews-Residence_Pavillon_Mazenod-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+221;Lyon;Antaeus Parc Montchat;1.0;1;https://www.tripadvisor.fr/Hotel_Review-g187265-d1444585-Reviews-Antaeus_Parc_Montchat-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+222;Lyon;Apparteo Saxe-Gambetta;4.0;1;https://www.tripadvisor.fr/Hotel_Review-g187265-d7613933-Reviews-Apparteo_Saxe_Gambetta-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+223;Lyon;El Kantara;4.0;15;https://www.tripadvisor.fr/Hotel_Review-g187265-d2536692-Reviews-El_Kantara-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+224;Lyon;Apparteo Lyon 8 Lumiere;1.0;1;https://www.tripadvisor.fr/Hotel_Review-g187265-d3564906-Reviews-Apparteo_Lyon_8_Lumiere-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+225;Lyon;Apparteo Lyon 8 Berthelot;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d3564903-Reviews-Apparteo_Lyon_8_Berthelot-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+226;Lyon;Median Lyon Hotel;1.0;2;https://www.tripadvisor.fr/Hotel_Review-g187265-d248546-Reviews-Median_Lyon_Hotel-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+227;Lyon;Residence Raoul Follereau;5.0;2;https://www.tripadvisor.fr/Hotel_Review-g187265-d7818615-Reviews-Residence_Raoul_Follereau-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+228;Lyon;L'Aurore;5.0;8;https://www.tripadvisor.fr/Hotel_Review-g187265-d3140114-Reviews-L_Aurore-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+229;Lyon;Hotel Central;4.0;174;https://www.tripadvisor.fr/Hotel_Review-g187265-d1224989-Reviews-Hotel_Central-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+230;Lyon;Residence Pitiot;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d16802269-Reviews-Residence_Pitiot-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+231;Lyon;Hotel du Tourisme;2.5;22;https://www.tripadvisor.fr/Hotel_Review-g187265-d671688-Reviews-Hotel_du_Tourisme-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+232;Lyon;Hermitane;4.5;4;https://www.tripadvisor.fr/Hotel_Review-g187265-d3319380-Reviews-Hermitane-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+233;Lyon;Trip @ Lyon;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d6570976-Reviews-Trip_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+234;Lyon;Residence Suitetudes Carre Villon;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d4475222-Reviews-Residence_Suitetudes_Carre_Villon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+235;Lyon;Bed Et Breakfast A Lyon;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d246476-Reviews-Bed_Et_Breakfast_A_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+236;Lyon;Le Jardin d'Hiver;4.5;28;https://www.tripadvisor.fr/Hotel_Review-g187265-d2045853-Reviews-Le_Jardin_d_Hiver-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+237;Lyon;Hotel Residence Les Palatines;2.5;6;https://www.tripadvisor.fr/Hotel_Review-g187265-d1107501-Reviews-Hotel_Residence_Les_Palatines-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+238;Lyon;Chambres d'hotes Jardin Croix-Rousse;2.0;1;https://www.tripadvisor.fr/Hotel_Review-g187265-d6671784-Reviews-Chambres_d_hotes_Jardin_Croix_Rousse-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+239;Lyon;Residhome Residence Le Clip;4.0;1;https://www.tripadvisor.fr/Hotel_Review-g187265-d283840-Reviews-Residhome_Residence_Le_Clip-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+240;Lyon;Ibis Gerland Hotel - Lyon;3.5;45;https://www.tripadvisor.fr/Hotel_Review-g187265-d232359-Reviews-Ibis_Gerland_Hotel_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+241;Lyon;Villages Hotel Lyon Meyzieu;5.0;2;https://www.tripadvisor.fr/Hotel_Review-g187265-d282558-Reviews-Villages_Hotel_Lyon_Meyzieu-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+242;Lyon;La Maison Prune;5.0;16;https://www.tripadvisor.fr/Hotel_Review-g187265-d12409681-Reviews-La_Maison_Prune-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+243;Lyon;Avy Residence Hoteliere;4.0;39;https://www.tripadvisor.fr/Hotel_Review-g187265-d1051927-Reviews-Avy_Residence_Hoteliere-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+244;Lyon;At Home In Lyon;5.0;2;https://www.tripadvisor.fr/Hotel_Review-g187265-d16688904-Reviews-At_Home_In_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+249;Lyon;Mon Hotel Particulier;4.5;146;https://www.tripadvisor.fr/Hotel_Review-g187265-d3400998-Reviews-Mon_Hotel_Particulier-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+252;Lyon;Hotel Stars Lyon Centre;1.5;3;https://www.tripadvisor.fr/Hotel_Review-g187265-d1142183-Reviews-Hotel_Stars_Lyon_Centre-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+253;Lyon;Résidence Hotelière Bellecour;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d6900246-Reviews-Residence_Hoteliere_Bellecour-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+256;Lyon;Hotel Saint-Pierre des Terreaux;4.0;194;https://www.tripadvisor.fr/Hotel_Review-g187265-d293646-Reviews-Hotel_Saint_Pierre_des_Terreaux-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+257;Lyon;BtoBed - Gare Part Dieu;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d15642056-Reviews-BtoBed_Gare_Part_Dieu-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+258;Lyon;Nos Chambres en Ville;4.5;54;https://www.tripadvisor.fr/Hotel_Review-g187265-d1987077-Reviews-Nos_Chambres_en_Ville-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+263;Lyon;Dormir Autrement A;5.0;29;https://www.tripadvisor.fr/Hotel_Review-g187265-d3659118-Reviews-Dormir_Autrement_A-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+270;Lyon;Kyriad Lyon Vaulx-en-Velin;2.0;14;https://www.tripadvisor.fr/Hotel_Review-g187265-d482985-Reviews-Kyriad_Lyon_Vaulx_en_Velin-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+272;Lyon;Les Appartements de l'Opera;1.0;1;https://www.tripadvisor.fr/Hotel_Review-g187265-d6638815-Reviews-Les_Appartements_de_l_Opera-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+273;Lyon;Appart Ambiance - Regal;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d17371066-Reviews-Appart_Ambiance_Regal-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+278;Lyon;Dify - Les Muses de L'opera;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d17743072-Reviews-Dify_Les_Muses_de_L_opera-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+281;Lyon;Maison d'Hôtes Bérengère et Olivier;4.5;26;https://www.tripadvisor.fr/Hotel_Review-g187265-d6649820-Reviews-Maison_d_Hotes_Berengere_et_Olivier-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+282;Lyon;Apparteo Lyon 7 Gerland;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g187265-d3564905-Reviews-Apparteo_Lyon_7_Gerland-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+284;Lyon;Apparteo Lyon 9 Vaise;2.5;3;https://www.tripadvisor.fr/Hotel_Review-g187265-d7202143-Reviews-Apparteo_Lyon_9_Vaise-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+287;Lyon;Gite Le petit jacquard de la croix rousse;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g187265-d1841755-Reviews-Gite_Le_petit_jacquard_de_la_croix_rousse-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+288;Lyon;J’irais dormir a Lyon;5.0;3;https://www.tripadvisor.fr/Hotel_Review-g187265-d13447940-Reviews-J_irais_dormir_a_Lyon-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+290;Lyon;La Tour Rose;3.0;124;https://www.tripadvisor.fr/Hotel_Review-g187265-d195629-Reviews-La_Tour_Rose-Lyon_Rhone_Auvergne_Rhone_Alpes.html
+293;Lyon;Le Malesherbes;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187265-d6427169-Reviews-Le_Malesherbes-Lyon_Rhone_Auvergne_Rhone_Alpes.html

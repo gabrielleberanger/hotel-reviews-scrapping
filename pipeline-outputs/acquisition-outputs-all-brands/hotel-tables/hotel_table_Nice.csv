@@ -1,0 +1,299 @@
+;city;hotel_name;hotel_rating;hotel_reviews;hotel_url
+0;Nice;Palais Saleya;5.0;462;https://www.tripadvisor.fr/Hotel_Review-g187234-d12506810-Reviews-Palais_Saleya-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+1;Nice;Ibis Styles Nice Centre Gare;4.5;1231;https://www.tripadvisor.fr/Hotel_Review-g187234-d7932671-Reviews-Ibis_Styles_Nice_Centre_Gare-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azu.html
+2;Nice;La Villa Nice Victor Hugo;4.5;873;https://www.tripadvisor.fr/Hotel_Review-g187234-d197225-Reviews-La_Villa_Nice_Victor_Hugo-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+3;Nice;Radisson Blu Hotel, Nice;4.0;3082;https://www.tripadvisor.fr/Hotel_Review-g187234-d197181-Reviews-Radisson_Blu_Hotel_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+4;Nice;Hotel du Centre;4.5;357;https://www.tripadvisor.fr/Hotel_Review-g187234-d222935-Reviews-Hotel_du_Centre-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+5;Nice;Hotel Negresco;4.0;3256;https://www.tripadvisor.fr/Hotel_Review-g187234-d195659-Reviews-Hotel_Negresco-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+6;Nice;Hotel West End;4.0;1603;https://www.tripadvisor.fr/Hotel_Review-g187234-d197184-Reviews-Hotel_West_End-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+7;Nice;Boscolo Exedra Nice, Autograph Collection;4.0;1925;https://www.tripadvisor.fr/Hotel_Review-g187234-d482672-Reviews-Boscolo_Exedra_Nice_Autograph_Collection-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes.html
+8;Nice;Ajoupa Apart'hotel Nice;4.5;1509;https://www.tripadvisor.fr/Hotel_Review-g187234-d265986-Reviews-Ajoupa_Apart_hotel_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+9;Nice;The Deck Hotel by HappyCulture;4.5;227;https://www.tripadvisor.fr/Hotel_Review-g187234-d197196-Reviews-The_Deck_Hotel_by_HappyCulture-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Az.html
+10;Nice;Hotel Aston La Scala;4.0;1949;https://www.tripadvisor.fr/Hotel_Review-g187234-d197185-Reviews-Hotel_Aston_La_Scala-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+11;Nice;Hôtel Nice Riviera;4.0;1678;https://www.tripadvisor.fr/Hotel_Review-g187234-d197194-Reviews-Hotel_Nice_Riviera-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+12;Nice;Ibis Budget Nice Aeroport;3.0;1131;https://www.tripadvisor.fr/Hotel_Review-g187234-d260813-Reviews-Ibis_Budget_Nice_Aeroport-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+13;Nice;Hotel Ozz By HappyCulture;4.5;312;https://www.tripadvisor.fr/Hotel_Review-g187234-d234434-Reviews-Hotel_Ozz_By_HappyCulture-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+14;Nice;Ibis Styles Nice Vieux Port;4.0;1433;https://www.tripadvisor.fr/Hotel_Review-g187234-d272600-Reviews-Ibis_Styles_Nice_Vieux_Port-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+15;Nice;Hotel du Petit Palais;4.5;812;https://www.tripadvisor.fr/Hotel_Review-g187234-d219970-Reviews-Hotel_du_Petit_Palais-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+16;Nice;Hotel Florence Nice;4.0;949;https://www.tripadvisor.fr/Hotel_Review-g187234-d220181-Reviews-Hotel_Florence_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+17;Nice;Hôtel de la Fontaine;4.5;705;https://www.tripadvisor.fr/Hotel_Review-g187234-d220182-Reviews-Hotel_de_la_Fontaine-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+18;Nice;Westminster Hotel & Spa, BW Premier Collection;4.0;1414;https://www.tripadvisor.fr/Hotel_Review-g187234-d197852-Reviews-Westminster_Hotel_Spa_BW_Premier_Collection-Nice_French_Riviera_Cote_d_Azur_Provence_Al.html
+19;Nice;Novotel Nice Centre Vieux Nice;3.5;231;https://www.tripadvisor.fr/Hotel_Review-g187234-d197197-Reviews-Novotel_Nice_Centre_Vieux_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Az.html
+20;Nice;Hôtel Monsigny;4.0;656;https://www.tripadvisor.fr/Hotel_Review-g187234-d263752-Reviews-Hotel_Monsigny-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+21;Nice;Best Western Plus Hotel Massena Nice;4.0;1691;https://www.tripadvisor.fr/Hotel_Review-g187234-d197187-Reviews-Best_Western_Plus_Hotel_Massena_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cot.html
+22;Nice;Ibis Budget Nice Californie Lenval;3.5;1237;https://www.tripadvisor.fr/Hotel_Review-g187234-d197209-Reviews-Ibis_Budget_Nice_Californie_Lenval-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_.html
+23;Nice;Hotel Windsor Nice;4.0;1334;https://www.tripadvisor.fr/Hotel_Review-g187234-d219971-Reviews-Hotel_Windsor_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+24;Nice;Hotel Beau Rivage;3.5;1393;https://www.tripadvisor.fr/Hotel_Review-g187234-d197198-Reviews-Hotel_Beau_Rivage-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+25;Nice;Hôtel Parisien;4.0;228;https://www.tripadvisor.fr/Hotel_Review-g187234-d627151-Reviews-Hotel_Parisien-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+26;Nice;Hotel Le Grimaldi by HappyCulture;4.5;556;https://www.tripadvisor.fr/Hotel_Review-g187234-d197193-Reviews-Hotel_Le_Grimaldi_by_HappyCulture-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d.html
+27;Nice;Ibis Nice Palais des Congres Vieux Nice;4.0;715;https://www.tripadvisor.fr/Hotel_Review-g187234-d197858-Reviews-EasyHotel_Nice_Palais_des_Congres_Vieux_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_A.html
+28;Nice;Hyatt Regency Nice Palais de la Mediterranee;4.5;3836;https://www.tripadvisor.fr/Hotel_Review-g187234-d289384-Reviews-Hyatt_Regency_Nice_Palais_de_la_Mediterranee-Nice_French_Riviera_Cote_d_Azur_Provence_A.html
+29;Nice;Hotel La Perouse;4.5;1645;https://www.tripadvisor.fr/Hotel_Review-g187234-d263754-Reviews-Hotel_La_Perouse-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+30;Nice;Hôtel Le Royal;3.5;927;https://www.tripadvisor.fr/Hotel_Review-g187234-d609466-Reviews-Hotel_Le_Royal-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+31;Nice;Adagio Nice Promenade Des Anglais;3.5;647;https://www.tripadvisor.fr/Hotel_Review-g187234-d572415-Reviews-Adagio_Nice_Promenade_Des_Anglais-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d.html
+32;Nice;NH Nice;4.0;1483;https://www.tripadvisor.fr/Hotel_Review-g187234-d197189-Reviews-NH_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+33;Nice;Splendid Hotel & Spa;4.0;1247;https://www.tripadvisor.fr/Hotel_Review-g187234-d197180-Reviews-Splendid_Hotel_Spa_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+34;Nice;Best Western Plus Hotel Brice Garden Nice;4.0;731;https://www.tripadvisor.fr/Hotel_Review-g187234-d197202-Reviews-Best_Western_Plus_Hotel_Brice_Garden_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpe.html
+35;Nice;Le Meridien Nice;3.5;2629;https://www.tripadvisor.fr/Hotel_Review-g187234-d197179-Reviews-Le_Meridien_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+36;Nice;Novotel Nice Arenas Aeroport;3.5;989;https://www.tripadvisor.fr/Hotel_Review-g187234-d232364-Reviews-Novotel_Nice_Arenas_Aeroport-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+37;Nice;Adagio Access Nice Acropolis;3.0;756;https://www.tripadvisor.fr/Hotel_Review-g187234-d575786-Reviews-Adagio_Access_Nice_Acropolis-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+38;Nice;Hôtel So’Co by HappyCulture;4.5;255;https://www.tripadvisor.fr/Hotel_Review-g187234-d261787-Reviews-Hotel_So_co_by_HappyCulture-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+39;Nice;Hôtel Kyriad Nice Port;3.0;787;https://www.tripadvisor.fr/Hotel_Review-g187234-d258373-Reviews-Hotel_Kyriad_Nice_Port-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+40;Nice;Hôtel La Villa Nice Promenade;4.0;761;https://www.tripadvisor.fr/Hotel_Review-g187234-d2075416-Reviews-Hotel_La_Villa_Nice_Promenade-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Az.html
+41;Nice;Mercure Nice Centre Notre Dame;4.0;1474;https://www.tripadvisor.fr/Hotel_Review-g187234-d197192-Reviews-Mercure_Nice_Centre_Notre_Dame-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Az.html
+42;Nice;Ibis Budget Nice Palais Nikaia;3.0;586;https://www.tripadvisor.fr/Hotel_Review-g187234-d294169-Reviews-Ibis_Budget_Nice_Palais_Nikaia-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Az.html
+43;Nice;Ibis Styles Nice Aéroport Arénas;4.0;941;https://www.tripadvisor.fr/Hotel_Review-g187234-d1143056-Reviews-Ibis_Styles_Nice_Airport_Arenas-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_.html
+44;Nice;Campanile Nice - Aéroport;3.5;824;https://www.tripadvisor.fr/Hotel_Review-g187234-d197213-Reviews-Campanile_Nice_Aeroport-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+45;Nice;Mercure Nice Promenade des Anglais;4.0;2328;https://www.tripadvisor.fr/Hotel_Review-g187234-d197190-Reviews-Mercure_Nice_Promenade_des_Anglais-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_.html
+46;Nice;Best Western Alba Hotel;4.0;643;https://www.tripadvisor.fr/Hotel_Review-g187234-d488405-Reviews-Best_Western_Alba_Hotel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+47;Nice;Hotel Trocadero;3.5;666;https://www.tripadvisor.fr/Hotel_Review-g187234-d289126-Reviews-Hotel_Trocadero-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+48;Nice;Villa Bougainville by HappyCulture;4.0;525;https://www.tripadvisor.fr/Hotel_Review-g187234-d231041-Reviews-Villa_Bougainville_by_HappyCulture-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_.html
+49;Nice;Ibis Nice Centre Gare;3.5;1756;https://www.tripadvisor.fr/Hotel_Review-g187234-d197212-Reviews-Ibis_Nice_Centre_Gare-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+50;Nice;Hotel Suisse;4.0;1496;https://www.tripadvisor.fr/Hotel_Review-g187234-d232365-Reviews-Hotel_Suisse_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+51;Nice;Mercure Nice Centre Grimaldi;4.0;1059;https://www.tripadvisor.fr/Hotel_Review-g187234-d230745-Reviews-Mercure_Nice_Centre_Grimaldi-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+52;Nice;Arome Hotel;5.0;76;https://www.tripadvisor.fr/Hotel_Review-g187234-d1161692-Reviews-Arome_Hotel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+53;Nice;Hotel Albert 1er;3.5;804;https://www.tripadvisor.fr/Hotel_Review-g187234-d284282-Reviews-Hotel_Albert_1er-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+54;Nice;Hôtel 64 Nice;4.5;325;https://www.tripadvisor.fr/Hotel_Review-g187234-d243897-Reviews-Hotel_64_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+55;Nice;Nice Excelsior Hôtel;4.0;794;https://www.tripadvisor.fr/Hotel_Review-g187234-d219974-Reviews-Nice_Excelsior_Hotel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+56;Nice;Hotel Villa Victoria;4.5;978;https://www.tripadvisor.fr/Hotel_Review-g187234-d197188-Reviews-Hotel_Villa_Victoria-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+57;Nice;Best Western Hotel Lakmi Nice;4.0;1025;https://www.tripadvisor.fr/Hotel_Review-g187234-d232361-Reviews-Best_Western_Hotel_Lakmi_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azu.html
+58;Nice;The Jay Hotel by HappyCulture;4.0;353;https://www.tripadvisor.fr/Hotel_Review-g187234-d197222-Reviews-The_Jay_Hotel_by_HappyCulture-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azu.html
+59;Nice;Hotel Villa Rivoli;4.0;1013;https://www.tripadvisor.fr/Hotel_Review-g187234-d243896-Reviews-Hotel_Villa_Rivoli-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+60;Nice;Servotel Saint-Vincent;4.0;909;https://www.tripadvisor.fr/Hotel_Review-g187234-d617646-Reviews-Servotel_Saint_Vincent-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+61;Nice;Hotel Amaryllis;3.5;290;https://www.tripadvisor.fr/Hotel_Review-g187234-d294164-Reviews-Hotel_Amaryllis-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+62;Nice;Kyriad Nice - Stade;3.0;193;https://www.tripadvisor.fr/Hotel_Review-g187234-d294353-Reviews-Kyriad_Nice_Stade-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+63;Nice;Hotel Antares;4.0;294;https://www.tripadvisor.fr/Hotel_Review-g187234-d277277-Reviews-Hotel_Antares-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+64;Nice;Le Dortoir;5.0;329;https://www.tripadvisor.fr/Hotel_Review-g187234-d1149022-Reviews-Le_Dortoir-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+65;Nice;Days Inn by Wyndham Nice Centre;3.5;233;https://www.tripadvisor.fr/Hotel_Review-g187234-d197218-Reviews-Days_Inn_by_Wyndham_Nice_Centre-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_A.html
+66;Nice;Hotel De France;4.5;147;https://www.tripadvisor.fr/Hotel_Review-g187234-d275287-Reviews-Hotel_De_France-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+67;Nice;Hôtel L’Annexe Nice;3.5;41;https://www.tripadvisor.fr/Hotel_Review-g187234-d1067555-Reviews-Hotel_L_Annexe_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+68;Nice;AC Hotel by Marriott Nice;4.0;818;https://www.tripadvisor.fr/Hotel_Review-g187234-d231038-Reviews-AC_Hotel_by_Marriott_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+69;Nice;Hotel 66 Nice;4.5;78;https://www.tripadvisor.fr/Hotel_Review-g187234-d13823652-Reviews-Hotel_66_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+70;Nice;Campanile Nice Centre - Acropolis;3.5;543;https://www.tripadvisor.fr/Hotel_Review-g187234-d291556-Reviews-Campanile_Nice_Centre_Acropolis-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_A.html
+71;Nice;Hôtel Esprit d'Azur;4.0;335;https://www.tripadvisor.fr/Hotel_Review-g187234-d197206-Reviews-Hotel_Esprit_d_Azur-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+72;Nice;Univers Hotel;3.5;570;https://www.tripadvisor.fr/Hotel_Review-g187234-d277283-Reviews-Univers_Hotel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+73;Nice;Hotel Vendome;4.0;735;https://www.tripadvisor.fr/Hotel_Review-g187234-d197208-Reviews-Hotel_Vendome-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+74;Nice;Hotel Relais Acropolis;4.0;502;https://www.tripadvisor.fr/Hotel_Review-g187234-d277281-Reviews-Hotel_Relais_Acropolis-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+75;Nice;Hotel Paganini;4.0;76;https://www.tripadvisor.fr/Hotel_Review-g187234-d13386117-Reviews-Hotel_Paganini-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+76;Nice;Le Saint Paul;4.5;76;https://www.tripadvisor.fr/Hotel_Review-g187234-d1416548-Reviews-Le_Saint_Paul-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+77;Nice;Hotel Bristol;3.5;126;https://www.tripadvisor.fr/Hotel_Review-g187234-d248532-Reviews-Hotel_Bristol-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+78;Nice;Hotel Boreal;4.0;776;https://www.tripadvisor.fr/Hotel_Review-g187234-d197223-Reviews-Hotel_Boreal-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+79;Nice;Hotel Ellington Nice Centre;4.0;1099;https://www.tripadvisor.fr/Hotel_Review-g187234-d197182-Reviews-Hotel_Ellington_Nice_Centre-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+80;Nice;Hotel Gounod Nice;4.0;607;https://www.tripadvisor.fr/Hotel_Review-g187234-d197200-Reviews-Hotel_Gounod_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+81;Nice;Villa Saint Exupery Beach Hostel;4.0;650;https://www.tripadvisor.fr/Hotel_Review-g187234-d1906384-Reviews-Villa_Saint_Exupery_Beach_Hostel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d.html
+82;Nice;Villa Otero by HappyCulture;4.0;599;https://www.tripadvisor.fr/Hotel_Review-g187234-d231039-Reviews-Villa_Otero_by_HappyCulture-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+83;Nice;Hotel Suede;4.0;637;https://www.tripadvisor.fr/Hotel_Review-g187234-d235836-Reviews-Hotel_Suede-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+84;Nice;Hôtel Helvétique;4.0;309;https://www.tripadvisor.fr/Hotel_Review-g187234-d294175-Reviews-Hotel_Helvetique-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+85;Nice;La Malmaison Nice;4.0;365;https://www.tripadvisor.fr/Hotel_Review-g187234-d197204-Reviews-La_Malmaison_Nice_Boutique_hotel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_.html
+86;Nice;Park Inn by Radisson Nice Airport Hotel;3.0;1088;https://www.tripadvisor.fr/Hotel_Review-g187234-d197183-Reviews-Park_Inn_by_Radisson_Nice_Airport_Hotel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_.html
+87;Nice;Goldstar Resort & Suites;4.0;811;https://www.tripadvisor.fr/Hotel_Review-g187234-d279300-Reviews-Goldstar_Resort_Suites-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+88;Nice;Novotel Suites Nice Airport;4.0;909;https://www.tripadvisor.fr/Hotel_Review-g187234-d1118660-Reviews-Novotel_Suites_Nice_Aeroport-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azu.html
+89;Nice;Hotel Les Cigales;4.5;214;https://www.tripadvisor.fr/Hotel_Review-g187234-d272601-Reviews-Hotel_les_Cigales-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+90;Nice;Hipark by Adagio Nice;3.5;906;https://www.tripadvisor.fr/Hotel_Review-g187234-d1865881-Reviews-Hipark_by_Adagio_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+91;Nice;Hôtel Nap By HappyCulture;4.0;615;https://www.tripadvisor.fr/Hotel_Review-g187234-d277278-Reviews-Hotel_Nap_by_HappyCulture-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+92;Nice;Ibis Nice Centre Notre-Dame;3.5;683;https://www.tripadvisor.fr/Hotel_Review-g187234-d232362-Reviews-Ibis_Nice_Centre_Notre_Dame-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+93;Nice;Hôtel Ibis Nice Aéroport Promenade Des Anglais;3.5;696;https://www.tripadvisor.fr/Hotel_Review-g187234-d197215-Reviews-Hotel_Ibis_Nice_Aeroport_Promenade_Des_Anglais-Nice_French_Riviera_Cote_d_Azur_Provence.html
+96;Nice;Holiday Inn Nice;4.0;943;https://www.tripadvisor.fr/Hotel_Review-g187234-d207539-Reviews-Holiday_Inn_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+97;Nice;Nice Garden Hotel;4.5;664;https://www.tripadvisor.fr/Hotel_Review-g187234-d604431-Reviews-Nice_Garden_Hotel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+98;Nice;Hotel Locarno;3.5;149;https://www.tripadvisor.fr/Hotel_Review-g187234-d283724-Reviews-Hotel_Locarno-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+99;Nice;Best Western Plus Nice Cosy Hotel;3.5;682;https://www.tripadvisor.fr/Hotel_Review-g187234-d243895-Reviews-Best_Western_Plus_Nice_Cosy_Hotel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d.html
+100;Nice;Star Hôtel;4.0;486;https://www.tripadvisor.fr/Hotel_Review-g187234-d197217-Reviews-Star_Hotel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+101;Nice;Kyriad Nice Gare;3.5;436;https://www.tripadvisor.fr/Hotel_Review-g187234-d323931-Reviews-Kyriad_Nice_Gare-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+102;Nice;Evelia Hotels;3.5;108;https://www.tripadvisor.fr/Hotel_Review-g187234-d5058149-Reviews-Evelia_Hotels-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+103;Nice;Hôtel des Dames;4.0;119;https://www.tripadvisor.fr/Hotel_Review-g187234-d2306098-Reviews-Hotel_des_Dames-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+104;Nice;Hotel Aria;4.0;406;https://www.tripadvisor.fr/Hotel_Review-g187234-d279291-Reviews-Hotel_Aria-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+105;Nice;Hotel Saint Gothard;3.5;36;https://www.tripadvisor.fr/Hotel_Review-g187234-d197228-Reviews-Hotel_Saint_Gothard-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+106;Nice;Azurea;2.0;420;https://www.tripadvisor.fr/Hotel_Review-g187234-d624061-Reviews-Azurea-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+107;Nice;Hotel de Berne - Nice;2.5;272;https://www.tripadvisor.fr/Hotel_Review-g187234-d197227-Reviews-Hotel_de_Berne_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+108;Nice;Hotel de la Mer;4.0;243;https://www.tripadvisor.fr/Hotel_Review-g187234-d219972-Reviews-Hotel_de_la_Mer-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+109;Nice;Hotel Apogia Nice;3.0;446;https://www.tripadvisor.fr/Hotel_Review-g187234-d228748-Reviews-Hotel_Apogia_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+110;Nice;Hôtel Lafayette Nice;4.0;310;https://www.tripadvisor.fr/Hotel_Review-g187234-d197214-Reviews-Hotel_Lafayette_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+111;Nice;Hôtel Oasis;3.5;463;https://www.tripadvisor.fr/Hotel_Review-g187234-d276157-Reviews-Hotel_Oasis-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+112;Nice;Hotel Solara;4.0;268;https://www.tripadvisor.fr/Hotel_Review-g187234-d571533-Reviews-Hotel_Solara-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+113;Nice;Hotel Wilson;4.0;261;https://www.tripadvisor.fr/Hotel_Review-g187234-d670103-Reviews-Hotel_Wilson-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+114;Nice;Hotel du Petit Louvre;3.5;154;https://www.tripadvisor.fr/Hotel_Review-g187234-d294178-Reviews-Hotel_du_Petit_Louvre-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+115;Nice;Adagio Access Nice Magnan;3.5;462;https://www.tripadvisor.fr/Hotel_Review-g187234-d530449-Reviews-Adagio_Access_Nice_Magnan-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+116;Nice;Hotel Berlioz;4.0;149;https://www.tripadvisor.fr/Hotel_Review-g187234-d640083-Reviews-Hotel_Berlioz-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+117;Nice;Hotel Villa La Tour;4.0;471;https://www.tripadvisor.fr/Hotel_Review-g187234-d286946-Reviews-Hotel_Villa_La_Tour-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+118;Nice;Appart'City Nice Acropolis;2.5;433;https://www.tripadvisor.fr/Hotel_Review-g187234-d2150156-Reviews-Appart_City_Nice_Acropolis-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+119;Nice;Hôtel Busby;3.5;25;https://www.tripadvisor.fr/Hotel_Review-g187234-d232366-Reviews-Hotel_Busby-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+120;Nice;Best Western Premier Hotel Roosevelt;4.5;91;https://www.tripadvisor.fr/Hotel_Review-g187234-d197221-Reviews-Best_Western_Premier_Hotel_Roosevelt-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cot.html
+121;Nice;Open House Nice;4.5;78;https://www.tripadvisor.fr/Hotel_Review-g187234-d2549669-Reviews-Open_House_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+122;Nice;Résidence Lamartine;4.5;161;https://www.tripadvisor.fr/Hotel_Review-g187234-d571479-Reviews-Residence_Lamartine-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+123;Nice;Hotel Lepante;3.5;211;https://www.tripadvisor.fr/Hotel_Review-g187234-d234438-Reviews-Hotel_Lepante-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+124;Nice;L'alcove Hotel;4.0;33;https://www.tripadvisor.fr/Hotel_Review-g187234-d14149824-Reviews-L_alcove_Hotel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+125;Nice;Hotel Danemark;4.0;214;https://www.tripadvisor.fr/Hotel_Review-g187234-d611824-Reviews-Hotel_Danemark-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+126;Nice;Flots d'Azur;4.0;94;https://www.tripadvisor.fr/Hotel_Review-g187234-d219975-Reviews-Flots_d_Azur-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+127;Nice;Hotel Villa La Malouine;4.0;195;https://www.tripadvisor.fr/Hotel_Review-g187234-d280198-Reviews-Hotel_Villa_La_Malouine-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+128;Nice;Hôtel Le Seize;3.5;319;https://www.tripadvisor.fr/Hotel_Review-g187234-d197205-Reviews-Hotel_Le_Seize-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+129;Nice;Hotel Felix;3.0;212;https://www.tripadvisor.fr/Hotel_Review-g187234-d220184-Reviews-Hotel_Felix-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+130;Nice;Au Picardy;4.0;111;https://www.tripadvisor.fr/Hotel_Review-g187234-d1471796-Reviews-Au_Picardy-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+131;Nice;Le Meurice;4.0;137;https://www.tripadvisor.fr/Hotel_Review-g187234-d234436-Reviews-Le_Meurice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+132;Nice;Hotel H33;3.5;236;https://www.tripadvisor.fr/Hotel_Review-g187234-d234435-Reviews-Hotel_H33-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+133;Nice;Hôtel Villa Eden;3.0;82;https://www.tripadvisor.fr/Hotel_Review-g187234-d222936-Reviews-Hotel_Villa_Eden-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+134;Nice;Hotel Magnan;3.5;156;https://www.tripadvisor.fr/Hotel_Review-g187234-d219973-Reviews-Hotel_Magnan-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+135;Nice;Hôtel plaisance;2.5;100;https://www.tripadvisor.fr/Hotel_Review-g187234-d197219-Reviews-Hotel_plaisance-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+136;Nice;Hotel Interlaken;2.5;126;https://www.tripadvisor.fr/Hotel_Review-g187234-d625527-Reviews-Hotel_Interlaken-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+137;Nice;SansSouci-Nice Hotel Meuble;4.5;28;https://www.tripadvisor.fr/Hotel_Review-g187234-d12326215-Reviews-SansSouci_Nice_Hotel_Meuble-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azu.html
+138;Nice;Hotel Acanthe;3.0;268;https://www.tripadvisor.fr/Hotel_Review-g187234-d277276-Reviews-Hotel_Acanthe-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+139;Nice;Hotel Lyonnais;1.0;47;https://www.tripadvisor.fr/Hotel_Review-g187234-d263643-Reviews-Hotel_Lyonnais-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+140;Nice;Hotel Baccarat;3.5;181;https://www.tripadvisor.fr/Hotel_Review-g187234-d288628-Reviews-Hotel_Baccarat-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+141;Nice;Chez Brigitte B.;3.5;42;https://www.tripadvisor.fr/Hotel_Review-g187234-d1233071-Reviews-Chez_Brigitte_B-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+142;Nice;Hotel Durante;3.5;318;https://www.tripadvisor.fr/Hotel_Review-g187234-d253892-Reviews-Hotel_Durante-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+143;Nice;Premiere Classe Nice - Promenade Des Anglais;2.5;812;https://www.tripadvisor.fr/Hotel_Review-g187234-d593591-Reviews-Premiere_Classe_Nice_Promenade_Des_Anglais-Nice_French_Riviera_Cote_d_Azur_Provence_Alp.html
+144;Nice;Appart'hôtel Odalys Palais Rossini;4.0;106;https://www.tripadvisor.fr/Hotel_Review-g187234-d1020997-Reviews-Appart_hotel_Odalys_Palais_Rossini-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote.html
+145;Nice;Hôtel Victor Hugo Nice;4.5;317;https://www.tripadvisor.fr/Hotel_Review-g187234-d2021418-Reviews-Hotel_Victor_Hugo_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+146;Nice;Hotel Villa Rose;4.5;67;https://www.tripadvisor.fr/Hotel_Review-g187234-d1510529-Reviews-Hotel_Villa_Rose-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+147;Nice;Le Panoramic Boutique Hôtel;4.5;247;https://www.tripadvisor.fr/Hotel_Review-g187234-d643411-Reviews-Le_Panoramic_Boutique_Hotel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+148;Nice;Les Suites Masséna;4.5;104;https://www.tripadvisor.fr/Hotel_Review-g187234-d8680514-Reviews-Les_Suites_Massena-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+149;Nice;Residhome Nice Promenade;3.5;268;https://www.tripadvisor.fr/Hotel_Review-g187234-d232367-Reviews-Residhome_Nice_Promenade-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+150;Nice;Hotel Victorine;4.0;77;https://www.tripadvisor.fr/Hotel_Review-g187234-d567557-Reviews-Hotel_Victorine-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+151;Nice;Hostel Meyerbeer;4.0;313;https://www.tripadvisor.fr/Hotel_Review-g187234-d280178-Reviews-Hostel_Meyerbeer-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+152;Nice;Club Inn;4.5;351;https://www.tripadvisor.fr/Hotel_Review-g187234-d10920267-Reviews-Club_Inn-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+153;Nice;Anis Hotel;3.5;360;https://www.tripadvisor.fr/Hotel_Review-g187234-d197201-Reviews-Anis_Hotel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+154;Nice;Hotel Cronstadt;4.5;162;https://www.tripadvisor.fr/Hotel_Review-g187234-d263757-Reviews-Hotel_Cronstadt-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+155;Nice;Hotel Armenonville;3.5;239;https://www.tripadvisor.fr/Hotel_Review-g187234-d259225-Reviews-Armenonville_Hotel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+156;Nice;Heart of Old Town Nice;4.0;5;https://www.tripadvisor.fr/Hotel_Review-g187234-d12367415-Reviews-Heart_of_Old_Town_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+157;Nice;Hotel Villa St-Hubert;4.0;88;https://www.tripadvisor.fr/Hotel_Review-g187234-d253901-Reviews-Hotel_Villa_St_Hubert-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+158;Nice;Lou Souleou Bed and Breakfast;4.5;76;https://www.tripadvisor.fr/Hotel_Review-g187234-d2479475-Reviews-Lou_Souleou_Bed_and_Breakfast-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Az.html
+159;Nice;La Vela;2.0;10;https://www.tripadvisor.fr/Hotel_Review-g187234-d3156124-Reviews-La_Vela-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+160;Nice;La Maïoun Guesthouse;5.0;25;https://www.tripadvisor.fr/Hotel_Review-g187234-d11789340-Reviews-La_Maioun_Guesthouse-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+161;Nice;Residence Villa Serafina;4.0;16;https://www.tripadvisor.fr/Hotel_Review-g187234-d12556685-Reviews-Residence_Villa_Serafina-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+162;Nice;Hotel Regence;4.0;865;https://www.tripadvisor.fr/Hotel_Review-g187234-d266331-Reviews-Hotel_Regence-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+163;Nice;Villa Le Nid;5.0;21;https://www.tripadvisor.fr/Hotel_Review-g187234-d15327381-Reviews-Villa_Le_Nid-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+164;Nice;Nice Appart;4.0;27;https://www.tripadvisor.fr/Hotel_Review-g187234-d2648643-Reviews-Nice_Appart-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+165;Nice;Villa Kilauea B&B;5.0;186;https://www.tripadvisor.fr/Hotel_Review-g187234-d729841-Reviews-Villa_Kilauea_B_B-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+166;Nice;Hotel Rossetti;4.5;192;https://www.tripadvisor.fr/Hotel_Review-g187234-d4332485-Reviews-Hotel_Rossetti-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+167;Nice;Ambassador Hotel;3.5;346;https://www.tripadvisor.fr/Hotel_Review-g187234-d266327-Reviews-Ambassador_Hotel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+168;Nice;Hotel de la Buffa;3.0;193;https://www.tripadvisor.fr/Hotel_Review-g187234-d197210-Reviews-Hotel_de_la_Buffa-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+169;Nice;Little Palace;3.5;433;https://www.tripadvisor.fr/Hotel_Review-g187234-d229783-Reviews-Little_Palace-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+170;Nice;Le Carré du Mercantour;3.5;35;https://www.tripadvisor.fr/Hotel_Review-g187234-d3140282-Reviews-Le_Carre_du_Mercantour-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+171;Nice;Spity Hotel Nice;3.5;607;https://www.tripadvisor.fr/Hotel_Review-g187234-d269719-Reviews-Spity_Hotel_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+172;Nice;Room With A Vue;4.5;2;https://www.tripadvisor.fr/Hotel_Review-g187234-d16670707-Reviews-Room_With_A_Vue-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+173;Nice;Villa Sud Nice;4.5;8;https://www.tripadvisor.fr/Hotel_Review-g187234-d12896070-Reviews-Villa_Sud_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+174;Nice;Interieurs-cour;4.0;56;https://www.tripadvisor.fr/Hotel_Review-g187234-d1566624-Reviews-Interieurs_cour-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+175;Nice;Hotel Marly's;2.0;28;https://www.tripadvisor.fr/Hotel_Review-g187234-d234437-Reviews-Hotel_Marly_s-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+176;Nice;Villa Aramis;3.0;52;https://www.tripadvisor.fr/Hotel_Review-g187234-d1534671-Reviews-Villa_Aramis-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+177;Nice;La Villa de Magdalena;4.5;37;https://www.tripadvisor.fr/Hotel_Review-g187234-d1743917-Reviews-La_Villa_de_Magdalena-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+178;Nice;Casa Musa;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d19699205-Reviews-Casa_Musa-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+179;Nice;Residence Appartement Adonis;1.5;4;https://www.tripadvisor.fr/Hotel_Review-g187234-d15357014-Reviews-Residence_Appartement_Adonis-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Az.html
+180;Nice;Hotel Monet;2.0;29;https://www.tripadvisor.fr/Hotel_Review-g187234-d630729-Reviews-Hotel_Monet-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+181;Nice;Hotel Le G;4.0;153;https://www.tripadvisor.fr/Hotel_Review-g187234-d5778835-Reviews-Hotel_Le_G-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+182;Nice;Hôtel Belle Meunière;3.5;151;https://www.tripadvisor.fr/Hotel_Review-g187234-d290570-Reviews-Hotel_Belle_Meuniere-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+183;Nice;Hotel Neptune Nice;4.5;55;https://www.tripadvisor.fr/Hotel_Review-g187234-d12549439-Reviews-Hotel_Neptune_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+184;Nice;Nice Center Room;5.0;4;https://www.tripadvisor.fr/Hotel_Review-g187234-d15216503-Reviews-Nice_Center_Room-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+185;Nice;Esatitude Hotel;4.0;301;https://www.tripadvisor.fr/Hotel_Review-g187234-d2100130-Reviews-Esatitude_Hotel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+186;Nice;Nice Art Hôtel;2.0;207;https://www.tripadvisor.fr/Hotel_Review-g187234-d2690348-Reviews-Nice_Art_Hotel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+187;Nice;Le Romantica Dante;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g187234-d19072831-Reviews-Le_Romantica_Dante-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+188;Nice;Hotel Carlone;2.5;44;https://www.tripadvisor.fr/Hotel_Review-g187234-d294165-Reviews-Hotel_Carlone-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+189;Nice;MyNice Villa Indigo;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d18995278-Reviews-MyNice_Villa_Indigo-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+190;Nice;Apart-A-Nice : A Breathtaking View On The Sea;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d19625055-Reviews-Apart_A_Nice_A_Breathtaking_View_On_The_Sea-Nice_French_Riviera_Cote_d_Azur_Provence_.html
+191;Nice;Nice Centre Flat - Modern, Quiet and Brand New;4.5;3;https://www.tripadvisor.fr/Hotel_Review-g187234-d15829177-Reviews-Nice_Centre_Flat_Modern_Quiet_and_Brand_New-Nice_French_Riviera_Cote_d_Azur_Provence_.html
+192;Nice;Villa Bellabe;5.0;12;https://www.tripadvisor.fr/Hotel_Review-g187234-d7131872-Reviews-Villa_Bellabe-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+193;Nice;French Riviera;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15709927-Reviews-French_Riviera-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+194;Nice;Apartment - Promenade des Anglais;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d19609608-Reviews-Apartment_Promenade_des_Anglais-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d.html
+195;Nice;Parc Gorbella;1.0;2;https://www.tripadvisor.fr/Hotel_Review-g187234-d13867499-Reviews-Parc_Gorbella-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+196;Nice;Nice Center Studio Guest House;3.0;2;https://www.tripadvisor.fr/Hotel_Review-g187234-d12813883-Reviews-Nice_Center_Studio_Guest_House-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_.html
+197;Nice;French Riviera Cosy Appartment;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15349990-Reviews-French_Riviera_Cosy_Appartment-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_.html
+198;Nice;Nice Booking - Fabrinice Port;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15619054-Reviews-Nice_Booking_Fabrinice_Port-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azu.html
+199;Nice;Villa Maryluna;1.0;1;https://www.tripadvisor.fr/Hotel_Review-g187234-d15645979-Reviews-Villa_Maryluna-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+200;Nice;Residence Tonduti;4.5;2;https://www.tripadvisor.fr/Hotel_Review-g187234-d15828118-Reviews-Residence_Tonduti-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+201;Nice;Le Cedre Bleu;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15745644-Reviews-Le_Cedre_Bleu-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+202;Nice;Résidence France Riviera;3.5;24;https://www.tripadvisor.fr/Hotel_Review-g187234-d3840529-Reviews-Residence_France_Riviera-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+203;Nice;Guest House Maccarani - Locanice;4.0;1;https://www.tripadvisor.fr/Hotel_Review-g187234-d16932858-Reviews-Guest_House_Maccarani_Locanice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_.html
+204;Nice;Apartments Kosma Big Wifi;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15870632-Reviews-Apartments_Kosma_Big_Wifi-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+205;Nice;Terra & Mare;4.0;5;https://www.tripadvisor.fr/Hotel_Review-g187234-d8719517-Reviews-Terra_Mare-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+206;Nice;Palm Hotel;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d19906221-Reviews-Palm_Hotel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+207;Nice;Hotel Dante;2.5;187;https://www.tripadvisor.fr/Hotel_Review-g187234-d266329-Reviews-Hotel_Dante-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+208;Nice;Les Studios Floreal;4.0;39;https://www.tripadvisor.fr/Hotel_Review-g187234-d2045035-Reviews-Les_Studios_Floreal-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+209;Nice;Nice Garibaldi;4.5;2;https://www.tripadvisor.fr/Hotel_Review-g187234-d7322558-Reviews-Nice_Garibaldi-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+210;Nice;Beautiful Apartment Near the Sea;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g187234-d16891304-Reviews-Beautiful_Apartment_Near_the_Sea-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_.html
+211;Nice;Hotel Pastoral;3.5;90;https://www.tripadvisor.fr/Hotel_Review-g187234-d310082-Reviews-Hotel_Pastoral-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+212;Nice;Hôtel d'Ostende;3.0;216;https://www.tripadvisor.fr/Hotel_Review-g187234-d2532942-Reviews-Hotel_d_Ostende-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+213;Nice;Nice Home Sweet Home;4.0;106;https://www.tripadvisor.fr/Hotel_Review-g187234-d571536-Reviews-Nice_Home_Sweet_Home-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+214;Nice;Residence Privee;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d13869172-Reviews-Residence_Privee-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+215;Nice;Meubles Inice;2.5;3;https://www.tripadvisor.fr/Hotel_Review-g187234-d12540659-Reviews-Meubles_Inice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+216;Nice;Villa Maeva;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15212476-Reviews-Villa_Maeva-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+217;Nice;Nissa;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15842130-Reviews-Nissa-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+218;Nice;26-Pairoliere;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d16670846-Reviews-26_Pairoliere-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+219;Nice;Samsara;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15835796-Reviews-Samsara-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+220;Nice;Altea Hostel;2.0;44;https://www.tripadvisor.fr/Hotel_Review-g187234-d1202199-Reviews-Altea_Hostel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+221;Nice;MY Casa 48 Gioffredo Near Place Massena;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15674656-Reviews-MY_Casa_48_Gioffredo_Near_Place_Massena-Nice_French_Riviera_Cote_d_Azur_Provence_Alpe.html
+222;Nice;Marechal Foch;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d16780004-Reviews-Marechal_Foch-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+223;Nice;Chambre Proche Aeroport et Plage;1.0;1;https://www.tripadvisor.fr/Hotel_Review-g187234-d15398910-Reviews-Chambre_Proche_Aeroport_et_Plage-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_.html
+224;Nice;Room In Apartment - Rue Droite;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d16671351-Reviews-Room_In_Apartment_Rue_Droite-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Az.html
+225;Nice;Azur Campus 1;4.0;2;https://www.tripadvisor.fr/Hotel_Review-g187234-d6561525-Reviews-Azur_Campus_1-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+226;Nice;Appartement Ferber;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15738543-Reviews-Appartement_Ferber-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+227;Nice;Palais Haydee;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d13373554-Reviews-Palais_Haydee-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+228;Nice;Villa 3 Elephants;5.0;2;https://www.tripadvisor.fr/Hotel_Review-g187234-d15661225-Reviews-Villa_3_Elephants-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+229;Nice;Backpacker's Chez Patrick  Hostel;3.5;33;https://www.tripadvisor.fr/Hotel_Review-g187234-d263634-Reviews-Backpacker_s_Chez_Patrick_Hostel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_.html
+230;Nice;Hotel Georges;3.0;56;https://www.tripadvisor.fr/Hotel_Review-g187234-d263635-Reviews-Hotel_Georges-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+231;Nice;MY Casa - Saint Siagre;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15686815-Reviews-MY_Casa_Saint_Siagre-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+232;Nice;Hostel Smith Beach;3.5;295;https://www.tripadvisor.fr/Hotel_Review-g187234-d1188600-Reviews-Hostel_Smith_Beach-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+233;Nice;My Casa 10 Cassini;3.0;1;https://www.tripadvisor.fr/Hotel_Review-g187234-d15686493-Reviews-My_Casa_10_Cassini-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+234;Nice;Marjo;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15814808-Reviews-Marjo-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+235;Nice;"Le Relais International de la Jeunesse ""Clairvallon"" Hostel";2.5;17;https://www.tripadvisor.fr/Hotel_Review-g187234-d288349-Reviews-Le_Relais_International_de_la_Jeunesse_Clairvallon_Hostel-Nice_French_Riviera_Cote_d_Az.html
+236;Nice;Riviera Home - Le Kot Republique;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d13344548-Reviews-Riviera_Home_Le_Kot_Republique-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_.html
+237;Nice;Topi's Apartments Promenade Des Anglais;1.0;1;https://www.tripadvisor.fr/Hotel_Review-g187234-d15841367-Reviews-Topi_s_Apartments_Promenade_Des_Anglais-Nice_French_Riviera_Cote_d_Azur_Provence_Alpe.html
+238;Nice;Pertinax;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d17626826-Reviews-Pertinax-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+239;Nice;Le Renaissance;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d17829104-Reviews-Le_Renaissance-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+240;Nice;Appartements Nice Centre Carré d'Or;4.5;2;https://www.tripadvisor.fr/Hotel_Review-g187234-d16917053-Reviews-Appartements_Nice_Centre_Carre_d_Or-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Co.html
+241;Nice;La Maison de Lulu;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d16890648-Reviews-La_Maison_de_Lulu-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+242;Nice;Les Marilines;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d7070783-Reviews-Les_Marilines-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+243;Nice;Altair Hostel;2.5;113;https://www.tripadvisor.fr/Hotel_Review-g187234-d2291586-Reviews-Altair_Hostel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+244;Nice;Appartements Les Lions;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15646341-Reviews-Appartements_Les_Lions-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+245;Nice;France-Nice-Carre d'Or;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g187234-d15671371-Reviews-France_Nice_Carre_d_Or-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+246;Nice;La Villa Léonie;4.5;57;https://www.tripadvisor.fr/Hotel_Review-g187234-d1687277-Reviews-La_Villa_Leonie-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+247;Nice;The Napoleon 2-BR Old Town - Terrace;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d16891505-Reviews-The_Napoleon_2_BR_Old_Town_Terrace-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cot.html
+248;Nice;Nice Savoie;2.0;7;https://www.tripadvisor.fr/Hotel_Review-g187234-d1480617-Reviews-Nice_Savoie-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+249;Nice;Hostel Harold's Backpackers;1.5;9;https://www.tripadvisor.fr/Hotel_Review-g187234-d6428764-Reviews-Hostel_Harold_s_Backpackers-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+250;Nice;Sarrasine immobilier;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15682549-Reviews-Sarrasine_immobilier-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+251;Nice;Chambre Cosy en Collocation Proche Vieille Ville;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d17706363-Reviews-Chambre_Cosy_en_Collocation_Proche_Vieille_Ville-Nice_French_Riviera_Cote_d_Azur_Prov.html
+252;Nice;Les Pervenches;4.5;53;https://www.tripadvisor.fr/Hotel_Review-g187234-d2430876-Reviews-Les_Pervenches-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+253;Nice;Black & White;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15733547-Reviews-Black_White-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+254;Nice;Odyssee Guesthouse;5.0;6;https://www.tripadvisor.fr/Hotel_Review-g187234-d6916276-Reviews-Odyssee_Guesthouse-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+255;Nice;Agreable Appartement Centre Nice;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15848964-Reviews-Agreable_Appartement_Centre_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_.html
+256;Nice;Les Pervenches;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15856917-Reviews-Les_Pervenches-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+257;Nice;Nice Sunshine;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15836080-Reviews-Nice_Sunshine-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+258;Nice;Azur City Home;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d16651155-Reviews-Azur_City_Home-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+259;Nice;Les Dauphins;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15649201-Reviews-Les_Dauphins-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+260;Nice;Nice Cosy Studio;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15693798-Reviews-Nice_Cosy_Studio-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+261;Nice;Le Cenac;4.0;34;https://www.tripadvisor.fr/Hotel_Review-g187234-d3316328-Reviews-Le_Cenac-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+262;Nice;Maison D'Hotes Emma Tiranty;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d15565205-Reviews-Maison_D_Hotes_Emma_Tiranty-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azu.html
+263;Nice;Maison Bonfils;3.5;17;https://www.tripadvisor.fr/Hotel_Review-g187234-d2480806-Reviews-Maison_Bonfils-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+264;Nice;Residence Nice Vauban;4.0;2;https://www.tripadvisor.fr/Hotel_Review-g187234-d12827344-Reviews-Residence_Nice_Vauban-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+265;Nice;Alp Azur Hotel;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g187234-d197231-Reviews-Alp_Azur_Hotel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+266;Nice;Villa Baie Des Anges;4.0;4;https://www.tripadvisor.fr/Hotel_Review-g187234-d6976657-Reviews-Villa_Baie_Des_Anges-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+267;Nice;Bed & Breakfast Downtown;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d3443486-Reviews-Bed_Breakfast_Downtown-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+268;Nice;La Treille Muscat;5.0;10;https://www.tripadvisor.fr/Hotel_Review-g187234-d3610316-Reviews-La_Treille_Muscat-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+269;Nice;Port de Nice;4.0;20;https://www.tripadvisor.fr/Hotel_Review-g187234-d3183289-Reviews-Port_de_Nice-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+270;Nice;Blue Angels Bed & Breakfast;4.5;2;https://www.tripadvisor.fr/Hotel_Review-g187234-d8736090-Reviews-Blue_Angels_Bed_Breakfast-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+271;Nice;Un Petit Coin De Paradis;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d17697086-Reviews-Un_Petit_Coin_De_Paradis-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+272;Nice;Residence Maeva Les Oliviers;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d291560-Reviews-Residence_Maeva_Les_Oliviers-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+273;Nice;Nice Hotel Congres;3.0;1;https://www.tripadvisor.fr/Hotel_Review-g187234-d496867-Reviews-Nice_Hotel_Congres-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+274;Nice;Du Piemont;3.0;9;https://www.tripadvisor.fr/Hotel_Review-g187234-d1473681-Reviews-Du_Piemont-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+275;Nice;Absdan-House;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d3183006-Reviews-Absdan_House-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+276;Nice;Hotel Marbella;4.0;26;https://www.tripadvisor.fr/Hotel_Review-g187234-d1010100-Reviews-Hotel_Marbella-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+277;Nice;Residence Regency;4.0;3;https://www.tripadvisor.fr/Hotel_Review-g187234-d263755-Reviews-Residence_Regency-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+278;Nice;Villa 9;4.5;31;https://www.tripadvisor.fr/Hotel_Review-g187234-d8329891-Reviews-Villa_9-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+279;Nice;Byzance cote Balcon;5.0;8;https://www.tripadvisor.fr/Hotel_Review-g187234-d674554-Reviews-Byzance_Cote_Balcon-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+280;Nice;The Best Link;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d2268189-Reviews-The_Best_Link-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+281;Nice;Patio Wilson;4.0;1;https://www.tripadvisor.fr/Hotel_Review-g187234-d19113331-Reviews-Patio_Wilson-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+282;Nice;Villa l'Aimée;4.5;151;https://www.tripadvisor.fr/Hotel_Review-g187234-d597051-Reviews-Villa_l_Aimee-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+283;Nice;Mignon Hotel;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d1483756-Reviews-Mignon_Hotel-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+284;Nice;Un estupendo hotel en el coraz n de Niza;3.5;9;https://www.tripadvisor.fr/Hotel_Review-g187234-d1225781-Reviews-Un_estupendo_hotel_en_el_coraz_n_de_Niza-Nice_French_Riviera_Cote_d_Azur_Provence_Alpe.html
+285;Nice;Hotel Residence Stella;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d197226-Reviews-Hotel_Residence_Stella-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+286;Nice;Nelly's Sweet Home;5.0;19;https://www.tripadvisor.fr/Hotel_Review-g187234-d7613293-Reviews-Nelly_s_Sweet_Home-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+287;Nice;Villa Hestia;4.5;31;https://www.tripadvisor.fr/Hotel_Review-g187234-d2022049-Reviews-Villa_Hestia-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+288;Nice;La Reverie;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d1751959-Reviews-La_Reverie-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+289;Nice;Chateau Des Ollieres;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d1224947-Reviews-Chateau_Des_Ollieres-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+290;Nice;Hostel des Alizes;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d1199232-Reviews-Hostel_des_Alizes-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+291;Nice;Hotel Darcy;1.5;8;https://www.tripadvisor.fr/Hotel_Review-g187234-d260815-Reviews-Hotel_Darcy-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+292;Nice;Hotel Athena;3.0;1;https://www.tripadvisor.fr/Hotel_Review-g187234-d260814-Reviews-Hotel_Athena-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+293;Nice;La Moma;4.5;27;https://www.tripadvisor.fr/Hotel_Review-g187234-d1083340-Reviews-La_Moma-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+294;Nice;Un Paradis Nicois;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187234-d3164524-Reviews-Un_Paradis_Nicois-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+295;Nice;Californie Plage Bambou;3.0;4;https://www.tripadvisor.fr/Hotel_Review-g187234-d12585313-Reviews-Californie_Plage_Bambou-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+296;Nice;Apartment Gubernatis;1.0;1;https://www.tripadvisor.fr/Hotel_Review-g187234-d12610671-Reviews-Apartment_Gubernatis-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+297;Nice;Villa Rima;4.0;7;https://www.tripadvisor.fr/Hotel_Review-g187234-d2623774-Reviews-Villa_Rima-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+298;Nice;Brownsword Mobilehomes;5.0;3;https://www.tripadvisor.fr/Hotel_Review-g187234-d875422-Reviews-Brownsword_Mobilehomes-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html
+299;Nice;Hotel Metropole;5.0;2;https://www.tripadvisor.fr/Hotel_Review-g187234-d283723-Reviews-Hotel_Metropole-Nice_French_Riviera_Cote_d_Azur_Provence_Alpes_Cote_d_Azur.html

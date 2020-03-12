@@ -1,0 +1,120 @@
+;city;hotel_name;hotel_rating;hotel_reviews;hotel_url
+0;Nantes;Radisson Blu Hotel, Nantes;4.5;2442;https://www.tripadvisor.fr/Hotel_Review-g187198-d3523360-Reviews-Radisson_Blu_Hotel_Nantes-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+1;Nantes;Campanile Nantes Centre - Saint Jacques;4.0;782;https://www.tripadvisor.fr/Hotel_Review-g187198-d2280145-Reviews-Campanile_Nantes_Centre_Saint_Jacques-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+2;Nantes;Bho Hotel;4.0;588;https://www.tripadvisor.fr/Hotel_Review-g635821-d2522032-Reviews-Bho_Hotel-Saint_Herblain_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+3;Nantes;Oceania Hôtel de France;4.5;973;https://www.tripadvisor.fr/Hotel_Review-g187198-d289355-Reviews-Oceania_Hotel_de_France-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+4;Nantes;Seven Urban Suites Nantes Centre;4.5;761;https://www.tripadvisor.fr/Hotel_Review-g187198-d3360255-Reviews-Hotel_Seven_Urban_Suites_Nantes_Centre-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+5;Nantes;Ibis Nantes Centre Tour Bretagne;4.0;1002;https://www.tripadvisor.fr/Hotel_Review-g187198-d197260-Reviews-Ibis_Nantes_Centre_Tour_Bretagne-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+6;Nantes;SOZO Hôtel;4.5;1010;https://www.tripadvisor.fr/Hotel_Review-g187198-d2418135-Reviews-SOZO_Hotel-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+7;Nantes;Mercure Nantes Centre Passage Pommeraye;4.5;734;https://www.tripadvisor.fr/Hotel_Review-g187198-d600893-Reviews-Mercure_Nantes_Centre_Passage_Pommeraye-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+8;Nantes;Ibis Nantes Centre Gare Sud;4.0;747;https://www.tripadvisor.fr/Hotel_Review-g187198-d197256-Reviews-Ibis_Nantes_Centre_Gare_Sud-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+9;Nantes;Westotel Nantes Atlantique;4.0;821;https://www.tripadvisor.fr/Hotel_Review-g1080574-d227305-Reviews-Westotel_Nantes_Atlantique-La_Chapelle_sur_Erdre_Nantes_Loire_Atlantique_Pays_de_la_Lo.html
+10;Nantes;Best Western Hotel Atlantys Zenith Nantes;4.5;199;https://www.tripadvisor.fr/Hotel_Review-g635821-d597545-Reviews-Best_Western_Hotel_Atlantys_Zenith_Nantes-Saint_Herblain_Nantes_Loire_Atlantique_Pays_d.html
+11;Nantes;Hôtel Voltaire Opéra;4.5;511;https://www.tripadvisor.fr/Hotel_Review-g187198-d529309-Reviews-Hotel_Voltaire_Opera_Nantes_Centre-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+12;Nantes;The Originals Nantes Saint Herblain;4.0;279;https://www.tripadvisor.fr/Hotel_Review-g635821-d1672403-Reviews-The_Originals_Nantes_Saint_Herblain-Saint_Herblain_Nantes_Loire_Atlantique_Pays_de_la_.html
+13;Nantes;Hôtel de Nantes Saint Herblain;2.5;227;https://www.tripadvisor.fr/Hotel_Review-g635821-d660582-Reviews-Hotel_de_Nantes_Saint_Herblain-Saint_Herblain_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+14;Nantes;Adagio City Aparthotel Nantes Centre;4.0;544;https://www.tripadvisor.fr/Hotel_Review-g187198-d1535640-Reviews-Adagio_City_Aparthotel_Nantes_Centre-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+15;Nantes;Ibis Budget Nantes Rezé Aeroport;3.5;385;https://www.tripadvisor.fr/Hotel_Review-g1080871-d4998189-Reviews-Ibis_Budget_Nantes_Reze_Airport-Reze_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+16;Nantes;Ibis Styles Nantes Centre Gare;4.0;462;https://www.tripadvisor.fr/Hotel_Review-g187198-d280146-Reviews-Ibis_Styles_Nantes_Centre_Gare-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+17;Nantes;Maisons du Monde Hôtel & Suites;4.5;63;https://www.tripadvisor.fr/Hotel_Review-g187198-d230191-Reviews-Maisons_du_Monde_Hotel_Suites-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+18;Nantes;Golden Tulip Nantes Carquefou;4.0;433;https://www.tripadvisor.fr/Hotel_Review-g207349-d7393401-Reviews-Golden_Tulip_Nantes_Carquefou-Carquefou_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+19;Nantes;Mercure Nantes Centre Grand Hotel;4.0;1089;https://www.tripadvisor.fr/Hotel_Review-g187198-d197245-Reviews-Mercure_Nantes_Centre_Grand_Hotel-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+20;Nantes;Appart'City Confort Nantes Centre;3.0;458;https://www.tripadvisor.fr/Hotel_Review-g187198-d1649116-Reviews-Appart_City_Confort_Nantes_Centre-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+21;Nantes;Adagio Access Nantes Viarme;4.0;355;https://www.tripadvisor.fr/Hotel_Review-g187198-d2502849-Reviews-Adagio_Access_Nantes_Viarme-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+22;Nantes;Hôtel Mercure Nantes Centre Gare;4.0;721;https://www.tripadvisor.fr/Hotel_Review-g187198-d248952-Reviews-Hotel_Mercure_Nantes_Centre_Gare-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+23;Nantes;Résid'Spa - Loire & Sèvre;4.5;245;https://www.tripadvisor.fr/Hotel_Review-g1080871-d4049405-Reviews-Resid_Spa_Loire_Sevre-Reze_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+24;Nantes;OKKO HOTELS Nantes Chateau;4.5;888;https://www.tripadvisor.fr/Hotel_Review-g187198-d5960349-Reviews-OKKO_HOTELS_Nantes_Chateau-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+25;Nantes;Ibis Budget Nantes Sainte Luce;3.5;293;https://www.tripadvisor.fr/Hotel_Review-g661723-d1071439-Reviews-Ibis_Budget_Nantes_Sainte_Luce-Sainte_Luce_sur_Loire_Nantes_Loire_Atlantique_Pays_de_l.html
+26;Nantes;Novotel Nantes Centre Bord de Loire;4.0;780;https://www.tripadvisor.fr/Hotel_Review-g187198-d1489843-Reviews-Novotel_Nantes_Centre_Bord_de_Loire-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+27;Nantes;Ibis Budget Nantes Nord Saint Herblain;4.0;313;https://www.tripadvisor.fr/Hotel_Review-g635821-d1052726-Reviews-Ibis_Budget_Nantes_Nord_Saint_Herblain-Saint_Herblain_Nantes_Loire_Atlantique_Pays_de_.html
+28;Nantes;Zenitude Hôtel-Résidences Nantes Métropole;2.5;181;https://www.tripadvisor.fr/Hotel_Review-g187198-d1973939-Reviews-Zenitude_Hotel_Residences_Nantes_Metropole-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+29;Nantes;Hôtel la Pérouse;4.0;198;https://www.tripadvisor.fr/Hotel_Review-g187198-d235788-Reviews-Hotel_La_Perouse-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+34;Nantes;Hotel The Originals Nantes Centre Gare Novella;4.0;298;https://www.tripadvisor.fr/Hotel_Review-g187198-d1224112-Reviews-Hotel_The_Originals_Nantes_Centre_Gare_Novella-Nantes_Loire_Atlantique_Pays_de_la_Loir.html
+37;Nantes;CERISE Nantes Atlantis;4.0;79;https://www.tripadvisor.fr/Hotel_Review-g635821-d1903960-Reviews-CERISE_Nantes_Atlantis-Saint_Herblain_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+39;Nantes;Hotel Inn Design Resto Novo Sainte Luce Sur Loire;4.0;185;https://www.tripadvisor.fr/Hotel_Review-g661723-d488512-Reviews-Hotel_Inn_Design_Resto_Novo_Sainte_Luce_Sur_Loire-Sainte_Luce_sur_Loire_Nantes_Loire_At.html
+40;Nantes;Hotel ibis Styles Nantes Rezé Aéroport ;4.0;526;https://www.tripadvisor.fr/Hotel_Review-g1080871-d2250799-Reviews-Hotel_Ibis_Styles_Nantes_Reze_Aeroport-Reze_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+42;Nantes;Hotel la Marine;4.5;92;https://www.tripadvisor.fr/Hotel_Review-g635821-d1915006-Reviews-Hotel_la_Marine-Saint_Herblain_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+43;Nantes;Hotel Ibis Nantes Saint Herblain;4.0;394;https://www.tripadvisor.fr/Hotel_Review-g635821-d248949-Reviews-Hotel_Ibis_Nantes_Saint_Herblain-Saint_Herblain_Nantes_Loire_Atlantique_Pays_de_la_Loir.html
+44;Nantes;Hôtel Ibis Styles Nantes Centre Place Graslin;3.5;548;https://www.tripadvisor.fr/Hotel_Review-g187198-d555095-Reviews-Hotel_Ibis_Styles_Nantes_Centre_Place_Graslin-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+45;Nantes;Novotel Nantes Centre Gare;3.5;597;https://www.tripadvisor.fr/Hotel_Review-g187198-d197248-Reviews-Novotel_Nantes_Centre_Gare-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+46;Nantes;Résidence Odalys Nantes Cité des congrès;4.0;48;https://www.tripadvisor.fr/Hotel_Review-g187198-d15191265-Reviews-Residence_Odalys_Nantes_Cite_des_congres-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+47;Nantes;Kyriad Nantes Centre Graslin;3.5;212;https://www.tripadvisor.fr/Hotel_Review-g187198-d1224114-Reviews-Kyriad_Nantes_Centre_Graslin-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+48;Nantes;Zenitude Hôtel-Residences Nantes Beaujoire;4.0;161;https://www.tripadvisor.fr/Hotel_Review-g187198-d623854-Reviews-Zenitude_Hotel_Residences_Nantes_Beaujoire-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+49;Nantes;Hôtel Astoria Nantes;3.5;194;https://www.tripadvisor.fr/Hotel_Review-g187198-d313294-Reviews-Hotel_Astoria_Nantes-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+50;Nantes;The Originals City Novella Nantes-Carquefou;4.0;96;https://www.tripadvisor.fr/Hotel_Review-g207349-d1828426-Reviews-The_Originals_City_Novella_Nantes_Carquefou-Carquefou_Nantes_Loire_Atlantique_Pays_de_.html
+51;Nantes;B&B HOTEL Nantes Centre;3.5;149;https://www.tripadvisor.fr/Hotel_Review-g187198-d660575-Reviews-B_B_Hotel_Nantes_Centre-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+52;Nantes;Residhome Les Berges de la Loire;4.0;254;https://www.tripadvisor.fr/Hotel_Review-g187198-d1600087-Reviews-Residhome_Nantes_Les_Berges_de_la_Loire-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+53;Nantes;Hotel Belfort;4.0;209;https://www.tripadvisor.fr/Hotel_Review-g187198-d1595268-Reviews-Hotel_Belfort-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+54;Nantes;Beaujoire Hotel Nantes;4.0;162;https://www.tripadvisor.fr/Hotel_Review-g187198-d1224113-Reviews-Beaujoire_Hotel_Nantes-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+55;Nantes;Coeur De Loire;4.5;88;https://www.tripadvisor.fr/Hotel_Review-g187198-d1744499-Reviews-Coeur_De_Loire-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+56;Nantes;Hotel Ibis Nantes La Beaujoire Parc Expo;4.0;430;https://www.tripadvisor.fr/Hotel_Review-g187198-d233402-Reviews-Hotel_Ibis_Nantes_La_Beaujoire_Parc_Expo-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+57;Nantes;Hôtel Saint-Yves;4.5;191;https://www.tripadvisor.fr/Hotel_Review-g187198-d1033612-Reviews-Hotel_Saint_Yves-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+58;Nantes;Quality Suites Nantes Beaujoire;3.5;291;https://www.tripadvisor.fr/Hotel_Review-g187198-d1539492-Reviews-Quality_Suites_Nantes_Beaujoire-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+59;Nantes;Hotel Duquesne;4.0;191;https://www.tripadvisor.fr/Hotel_Review-g187198-d1224111-Reviews-Duquesne_Hotel-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+60;Nantes;Hôtel Inn Design Resto Novo Carquefou;3.5;102;https://www.tripadvisor.fr/Hotel_Review-g207349-d2179957-Reviews-Hotel_Inn_Design_Resto_Novo_Carquefou-Carquefou_Nantes_Loire_Atlantique_Pays_de_la_Loi.html
+61;Nantes;Hotel Abat Jour;4.0;112;https://www.tripadvisor.fr/Hotel_Review-g187198-d1054661-Reviews-Hotel_Abat_Jour-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+62;Nantes;Hotel Saint-Patrick;3.5;80;https://www.tripadvisor.fr/Hotel_Review-g187198-d1054721-Reviews-Hotel_Saint_Patrick-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+64;Nantes;Appart'City Nantes Saint-Herblain;2.5;74;https://www.tripadvisor.fr/Hotel_Review-g635821-d1674276-Reviews-Appart_City_Nantes_Saint_Herblain-Saint_Herblain_Nantes_Loire_Atlantique_Pays_de_la_Lo.html
+67;Nantes;Appart'City Nantes Carquefou;3.5;89;https://www.tripadvisor.fr/Hotel_Review-g207349-d1076266-Reviews-Appart_City_Nantes_Carquefou-Carquefou_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+69;Nantes;B&B HOTEL Nantes Atlantis Le Zénith;3.5;71;https://www.tripadvisor.fr/Hotel_Review-g635821-d1236510-Reviews-B_B_Hotel_Nantes_Atlantis_Le_Zenith-Saint_Herblain_Nantes_Loire_Atlantique_Pays_de_la_.html
+71;Nantes;hotelF1 Nantes est Porte de Ste Luce;2.5;42;https://www.tripadvisor.fr/Hotel_Review-g187198-d797861-Reviews-HotelF1_Nantes_est_Porte_de_Ste_Luce-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+72;Nantes;Nantes Camping;4.5;397;https://www.tripadvisor.fr/Hotel_Review-g187198-d3513360-Reviews-Nantes_Camping-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+73;Nantes;Hotel Le Longchamp;3.5;27;https://www.tripadvisor.fr/Hotel_Review-g187198-d3164060-Reviews-Hotel_Le_Longchamp-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+75;Nantes;Best Western Plus Hotel De La Regate;4.0;402;https://www.tripadvisor.fr/Hotel_Review-g187198-d1389997-Reviews-Best_Western_Plus_Hotel_De_La_Regate-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+77;Nantes;LE COLISEE Hotel & Spa;4.5;207;https://www.tripadvisor.fr/Hotel_Review-g635821-d2508937-Reviews-LE_COLISEE_Hotel_Spa-Saint_Herblain_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+79;Nantes;CERISE Nantes La Beaujoire;3.5;79;https://www.tripadvisor.fr/Hotel_Review-g187198-d1886946-Reviews-CERISE_Nantes_La_Beaujoire-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+81;Nantes;Hotel Saint Daniel;3.0;51;https://www.tripadvisor.fr/Hotel_Review-g187198-d1017493-Reviews-Hotel_Saint_Daniel-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+82;Nantes;Hôtel The Originals Nantes Est;2.5;41;https://www.tripadvisor.fr/Hotel_Review-g207349-d287058-Reviews-Hotel_The_Originals_Nantes_Est-Carquefou_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+83;Nantes;Quick Palace;2.5;74;https://www.tripadvisor.fr/Hotel_Review-g187198-d1999602-Reviews-Quick_Palace-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+84;Nantes;Brit Hotel Nantes La Beaujoire - L'Amandine;3.5;92;https://www.tripadvisor.fr/Hotel_Review-g187198-d266846-Reviews-Brit_Hotel_Nantes_La_Beaujoire_L_Amandine-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+85;Nantes;LOCIA Appart-Hotels Automatiques;1.5;4;https://www.tripadvisor.fr/Hotel_Review-g187198-d16711324-Reviews-LOCIA_Appart_Hotels_Automatiques-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+86;Nantes;Des Trois Marchands;2.5;89;https://www.tripadvisor.fr/Hotel_Review-g187198-d529308-Reviews-Des_Trois_Marchands-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+87;Nantes;Brit Hotel Nantes St Herblain - Le Kerann;3.5;60;https://www.tripadvisor.fr/Hotel_Review-g635821-d576054-Reviews-Brit_Hotel_Nantes_St_Herblain_Le_Kerann-Saint_Herblain_Nantes_Loire_Atlantique_Pays_de_.html
+88;Nantes;Hotel Akena;3.5;44;https://www.tripadvisor.fr/Hotel_Review-g661723-d681188-Reviews-Hotel_Akena-Sainte_Luce_sur_Loire_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+89;Nantes;Kyriad Direct Nantes la Beaujeoire;2.5;66;https://www.tripadvisor.fr/Hotel_Review-g187198-d233401-Reviews-Kyriad_Direct_Nantes_la_Beaujeoire-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+90;Nantes;B&B HOTEL Nantes Parc Expos La Chapelle;3.5;46;https://www.tripadvisor.fr/Hotel_Review-g1080574-d1236509-Reviews-B_B_Hotel_Nantes_Parc_Expos_La_Chapelle-La_Chapelle_sur_Erdre_Nantes_Loire_Atlantique.html
+92;Nantes;City Residence Nantes Campus;4.0;10;https://www.tripadvisor.fr/Hotel_Review-g187198-d6365572-Reviews-City_Residence_Nantes_Campus-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+93;Nantes;Hotel Du Chateau;4.0;37;https://www.tripadvisor.fr/Hotel_Review-g187198-d2557889-Reviews-Hotel_Du_Chateau-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+94;Nantes;Le Relais de la Rinière;5.0;13;https://www.tripadvisor.fr/Hotel_Review-g187198-d3369079-Reviews-Le_Relais_de_la_Riniere-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+95;Nantes;La Maison Bleue;4.0;9;https://www.tripadvisor.fr/Hotel_Review-g1080871-d12368008-Reviews-La_Maison_Bleue-Reze_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+96;Nantes;Citadines Confluent Nantes;4.5;6;https://www.tripadvisor.fr/Hotel_Review-g187198-d19087061-Reviews-Citadines_Confluent_Nantes-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+97;Nantes;A la Maison Jaune;5.0;80;https://www.tripadvisor.fr/Hotel_Review-g187198-d3209653-Reviews-A_la_Maison_Jaune-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+98;Nantes;La Maison d'Hôtes Nantes Centre;4.5;38;https://www.tripadvisor.fr/Hotel_Review-g187198-d2155638-Reviews-La_Maison_d_Hotes_Nantes_Centre-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+99;Nantes;Hotel The Originals Nantes Centre Gare Novella;3.5;2;https://www.tripadvisor.fr/Hotel_Review-g187198-d16854905-Reviews-Hotel_The_Originals_Nantes_Centre_Gare_Novella-Nantes_Loire_Atlantique_Pays_de_la_Loi.html
+100;Nantes;Au Cadran Solaire;5.0;33;https://www.tripadvisor.fr/Hotel_Review-g187198-d3546939-Reviews-Au_Cadran_Solaire-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+101;Nantes;Hotel Terminus;3.0;42;https://www.tripadvisor.fr/Hotel_Review-g187198-d3824269-Reviews-Hotel_Terminus-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+102;Nantes;Agil Hotel;3.5;16;https://www.tripadvisor.fr/Hotel_Review-g635821-d6443233-Reviews-Agil_Hotel-Saint_Herblain_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+103;Nantes;La Guilbaudiere;4.5;25;https://www.tripadvisor.fr/Hotel_Review-g635821-d12316531-Reviews-La_Guilbaudiere-Saint_Herblain_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+104;Nantes;Inter-Hotel Novella Nantes Centre-Gare;4.0;3;https://www.tripadvisor.fr/Hotel_Review-g187198-d15870192-Reviews-Inter_Hotel_Novella_Nantes_Centre_Gare-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+105;Nantes;Residhome Residence Ducs de Bretagne;3.0;40;https://www.tripadvisor.fr/Hotel_Review-g187198-d281570-Reviews-Residhome_Residence_Ducs_de_Bretagne-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+106;Nantes;Residence Suit'Etudes Einstein II;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g187198-d3248756-Reviews-Residence_Suit_Etudes_Einstein_II-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+107;Nantes;Edenea Reze;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g1080871-d15835577-Reviews-Edenea_Reze-Reze_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+108;Nantes;Le 22 Grand Rue;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g1080871-d17377034-Reviews-Le_22_Grand_Rue-Reze_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+109;Nantes;Chambres Saint Donatien;4.0;1;https://www.tripadvisor.fr/Hotel_Review-g187198-d13423766-Reviews-Chambres_Saint_Donatien-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+110;Nantes;Blue Note;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187198-d16802175-Reviews-Blue_Note-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+111;Nantes;Sejour chez l'habitant;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187198-d12535022-Reviews-Sejour_chez_l_habitant-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+112;Nantes;Domaine Le Petit Plessis;3.5;10;https://www.tripadvisor.fr/Hotel_Review-g661723-d4260017-Reviews-Domaine_Le_Petit_Plessis-Sainte_Luce_sur_Loire_Nantes_Loire_Atlantique_Pays_de_la_Loir.html
+113;Nantes;Le Pre de la Lande;5.0;3;https://www.tripadvisor.fr/Hotel_Review-g1080574-d6408997-Reviews-Le_Pre_de_la_Lande-La_Chapelle_sur_Erdre_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+114;Nantes;Un Coin Chez Soi - Jules Verne;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187198-d16650455-Reviews-Un_Coin_Chez_Soi_Jules_Verne-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+115;Nantes;La Ptite Madeleine;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187198-d19699267-Reviews-La_Ptite_Madeleine-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+116;Nantes;Adagio Access Nantes Sextant;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187198-d18979438-Reviews-Adagio_Access_Nantes_Sextant-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+117;Nantes;Votre Sejour A Nantes;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g187198-d17844295-Reviews-Votre_Sejour_A_Nantes-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+118;Nantes;Les Deux Chenes;5.0;1;https://www.tripadvisor.fr/Hotel_Review-g1080574-d6278060-Reviews-Les_Deux_Chenes-La_Chapelle_sur_Erdre_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+119;Nantes;Hotel Aparte;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g661723-d17382788-Reviews-Hotel_Aparte-Sainte_Luce_sur_Loire_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+122;Nantes;hotelF1 Nantes ouest St Herblain;2.5;44;https://www.tripadvisor.fr/Hotel_Review-g635821-d1164236-Reviews-HotelF1_Nantes_ouest_St_Herblain-Saint_Herblain_Nantes_Loire_Atlantique_Pays_de_la_Loi.html
+123;Nantes;Chambres Hotes Courteline;5.0;55;https://www.tripadvisor.fr/Hotel_Review-g635821-d2341295-Reviews-Chambres_Hotes_Courteline-Saint_Herblain_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+124;Nantes;Camping Belle Rivière;4.5;12;https://www.tripadvisor.fr/Hotel_Review-g661723-d14989382-Reviews-Camping_Belle_Riviere-Sainte_Luce_sur_Loire_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+125;Nantes;Premier Prix Hotel Relais de Nantes;4.0;4;https://www.tripadvisor.fr/Hotel_Review-g661723-d942889-Reviews-Premier_Prix_Hotel_Relais_de_Nantes-Sainte_Luce_sur_Loire_Nantes_Loire_Atlantique_Pays_.html
+126;Nantes;ERDRE INTIME;2.0;4;https://www.tripadvisor.fr/Hotel_Review-g1080871-d2161417-Reviews-Erdre_Intime-Reze_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+127;Nantes;Ker Anna;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g1080871-d6420507-Reviews-Ker_Anna-Reze_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+128;Nantes;Hotel Mary Flor;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g207349-d1208155-Reviews-Hotel_Mary_Flor-Carquefou_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+129;Nantes;Marmotte;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g207349-d1149185-Reviews-Marmotte-Carquefou_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+130;Nantes;Antaeus Cote Scene;0.0;0;https://www.tripadvisor.fr/Hotel_Review-g207349-d1743676-Reviews-Antaeus_Cote_Scene-Carquefou_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+131;Nantes;Résidence du Fournil;4.5;4;https://www.tripadvisor.fr/Hotel_Review-g207349-d3479423-Reviews-Residence_du_Fournil-Carquefou_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+132;Nantes;Hotel de la Gare;3.5;62;https://www.tripadvisor.fr/Hotel_Review-g187198-d660697-Reviews-Hotel_de_la_Gare-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+134;Nantes;Sejours & Affaires Nantes La Beaujoire;3.5;52;https://www.tripadvisor.fr/Hotel_Review-g187198-d2370291-Reviews-Sejours_Affaires_Nantes_La_Beaujoire-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+137;Nantes;Hotel de Bourgogne;2.0;82;https://www.tripadvisor.fr/Hotel_Review-g187198-d543466-Reviews-Hotel_de_Bourgogne-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+140;Nantes;Château Bois Briand;4.5;15;https://www.tripadvisor.fr/Hotel_Review-g187198-d197254-Reviews-Chateau_Bois_Briand-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+146;Nantes;Hotel Renova;2.0;25;https://www.tripadvisor.fr/Hotel_Review-g187198-d1735742-Reviews-Hotel_Renova-Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+153;Nantes;Hotel du Cheval blanc;3.5;11;https://www.tripadvisor.fr/Hotel_Review-g1080871-d3418273-Reviews-Hotel_du_Cheval_blanc-Reze_Nantes_Loire_Atlantique_Pays_de_la_Loire.html
+155;Nantes;hotelF1 Nantes nord est Carquefou;2.5;22;https://www.tripadvisor.fr/Hotel_Review-g207349-d1071178-Reviews-HotelF1_Nantes_nord_est_Carquefou-Carquefou_Nantes_Loire_Atlantique_Pays_de_la_Loire.html

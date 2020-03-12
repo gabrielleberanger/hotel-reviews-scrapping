@@ -1,0 +1,29 @@
+;city;hotel_name;hotel_rating;hotel_reviews;hotel_url
+0;Strasbourg;Sofitel Strasbourg Grande Ile;4.5;1863;https://www.tripadvisor.fr/Hotel_Review-g187075-d197342-Reviews-Sofitel_Strasbourg_Grande_Ile-Strasbourg_Bas_Rhin_Grand_Est.html
+1;Strasbourg;Hôtel Cour du Corbeau Strasbourg - MGallery Collection;4.5;2141;https://www.tripadvisor.fr/Hotel_Review-g187075-d1436560-Reviews-Hotel_Cour_du_Corbeau_Strasbourg_MGallery-Strasbourg_Bas_Rhin_Grand_Est.html
+2;Strasbourg;Novotel Strasbourg Centre Halles;4.0;1258;https://www.tripadvisor.fr/Hotel_Review-g187075-d197336-Reviews-Novotel_Strasbourg_Centre_Halles-Strasbourg_Bas_Rhin_Grand_Est.html
+3;Strasbourg;Mercure Strasbourg Palais des Congres;4.0;1123;https://www.tripadvisor.fr/Hotel_Review-g187075-d197335-Reviews-Mercure_Strasbourg_Palais_des_Congres-Strasbourg_Bas_Rhin_Grand_Est.html
+4;Strasbourg;Mercure Strasbourg Centre Petite France;4.0;828;https://www.tripadvisor.fr/Hotel_Review-g187075-d197346-Reviews-Mercure_Strasbourg_Centre_Petite_France-Strasbourg_Bas_Rhin_Grand_Est.html
+5;Strasbourg;Mercure Strasbourg Centre;4.0;975;https://www.tripadvisor.fr/Hotel_Review-g187075-d197338-Reviews-Mercure_Strasbourg_Centre-Strasbourg_Bas_Rhin_Grand_Est.html
+6;Strasbourg;Mercure Strasbourg Aéroport;4.0;318;https://www.tripadvisor.fr/Hotel_Review-g666495-d250835-Reviews-Mercure_Strasbourg_Airport-Ostwald_Strasbourg_Bas_Rhin_Grand_Est.html
+7;Strasbourg;Mercure Strasbourg Centre Gare;3.5;509;https://www.tripadvisor.fr/Hotel_Review-g187075-d197341-Reviews-Mercure_Strasbourg_Centre_Gare-Strasbourg_Bas_Rhin_Grand_Est.html
+8;Strasbourg;Adagio Strasbourg Place Kleber;4.0;376;https://www.tripadvisor.fr/Hotel_Review-g187075-d1107708-Reviews-Adagio_Strasbourg_Place_Kleber-Strasbourg_Bas_Rhin_Grand_Est.html
+9;Strasbourg;Adagio Access Strasbourg Petite France;4.0;615;https://www.tripadvisor.fr/Hotel_Review-g187075-d2508034-Reviews-Adagio_Access_Strasbourg_Petite_France-Strasbourg_Bas_Rhin_Grand_Est.html
+10;Strasbourg;Adagio Access Strasbourg Illkirch;3.5;399;https://www.tripadvisor.fr/Hotel_Review-g227612-d665170-Reviews-Adagio_Access_Strasbourg_Illkirch-Illkirch_Graffenstaden_Strasbourg_Bas_Rhin_Grand_Est.html
+11;Strasbourg;Ibis Strasbourg Centre Gare;4.0;1186;https://www.tripadvisor.fr/Hotel_Review-g187075-d232381-Reviews-Ibis_Strasbourg_Centre_Gare-Strasbourg_Bas_Rhin_Grand_Est.html
+12;Strasbourg;Ibis Strasbourg Centre Historique;3.5;1706;https://www.tripadvisor.fr/Hotel_Review-g187075-d261113-Reviews-Ibis_Strasbourg_Centre_Historique-Strasbourg_Bas_Rhin_Grand_Est.html
+13;Strasbourg;Ibis Budget Strasbourg Centre Gare;3.5;919;https://www.tripadvisor.fr/Hotel_Review-g187075-d300504-Reviews-Ibis_Budget_Strasbourg_Centre_Gare-Strasbourg_Bas_Rhin_Grand_Est.html
+14;Strasbourg;Ibis Budget Strasbourg Sud Illkirch Geispolsheim;3.5;534;https://www.tripadvisor.fr/Hotel_Review-g661476-d1071213-Reviews-Ibis_Budget_Strasbourg_Sud_Illkirch_Geispolsheim-Geispolsheim_Strasbourg_Bas_Rhin_Gran.html
+15;Strasbourg;Ibis Strasbourg Centre Halles;4.0;987;https://www.tripadvisor.fr/Hotel_Review-g187075-d197347-Reviews-Ibis_Strasbourg_Centre_Halles-Strasbourg_Bas_Rhin_Grand_Est.html
+16;Strasbourg;Ibis Styles Strasbourg Centre Petite France;3.5;722;https://www.tripadvisor.fr/Hotel_Review-g187075-d197340-Reviews-Ibis_Styles_Strasbourg_Centre_Petite_France-Strasbourg_Bas_Rhin_Grand_Est.html
+17;Strasbourg;Ibis Styles Strasbourg Centre Gare;4.0;778;https://www.tripadvisor.fr/Hotel_Review-g187075-d601676-Reviews-Ibis_Styles_Strasbourg_Centre_Gare-Strasbourg_Bas_Rhin_Grand_Est.html
+18;Strasbourg;Ibis Strasbourg Centre Petite France;3.5;1076;https://www.tripadvisor.fr/Hotel_Review-g187075-d197348-Reviews-Ibis_Strasbourg_Centre_Petite_France-Strasbourg_Bas_Rhin_Grand_Est.html
+19;Strasbourg;Ibis Budget Strasbourg la Vigie;3.0;417;https://www.tripadvisor.fr/Hotel_Review-g666495-d1071425-Reviews-Ibis_Budget_Strasbourg_La_Vigie-Ostwald_Strasbourg_Bas_Rhin_Grand_Est.html
+20;Strasbourg;Ibis Styles Strasbourg Avenue du Rhin;4.0;552;https://www.tripadvisor.fr/Hotel_Review-g187075-d6511306-Reviews-Ibis_Styles_Strasbourg_Avenue_du_Rhin-Strasbourg_Bas_Rhin_Grand_Est.html
+21;Strasbourg;Ibis Budget Strasbourg Palais des Congrès;3.0;724;https://www.tripadvisor.fr/Hotel_Review-g1079304-d1097877-Reviews-Ibis_Budget_Strasbourg_Palais_des_Congres-Schiltigheim_Strasbourg_Bas_Rhin_Grand_Est.html
+22;Strasbourg;ibis Strasbourg Sud la Vigie;3.5;268;https://www.tripadvisor.fr/Hotel_Review-g666495-d251751-Reviews-Ibis_Strasbourg_Sud_La_Vigie-Ostwald_Strasbourg_Bas_Rhin_Grand_Est.html
+23;Strasbourg;Ibis Strasbourg Aeroport Le Zenith;3.0;313;https://www.tripadvisor.fr/Hotel_Review-g651694-d280961-Reviews-Ibis_Strasbourg_Aeroport_Le_Zenith-Lingolsheim_Strasbourg_Bas_Rhin_Grand_Est.html
+24;Strasbourg;Ibis Styles Strasbourg Stade de la Meinau;4.0;103;https://www.tripadvisor.fr/Hotel_Review-g187075-d236855-Reviews-Ibis_Styles_Strasbourg_Stade_de_la_Meinau-Strasbourg_Bas_Rhin_Grand_Est.html
+25;Strasbourg;hotelF1 Strasbourg Pont de l'Europe;2.5;119;https://www.tripadvisor.fr/Hotel_Review-g187075-d236860-Reviews-HotelF1_Strasbourg_Pont_de_l_Europe-Strasbourg_Bas_Rhin_Grand_Est.html
+26;Strasbourg;hotelF1 Strasbourg Sud Illkirch;2.0;104;https://www.tripadvisor.fr/Hotel_Review-g227612-d299903-Reviews-HotelF1_Strasbourg_Sud_Illkirch-Illkirch_Graffenstaden_Strasbourg_Bas_Rhin_Grand_Est.html
+27;Strasbourg;hotelF1 Strasbourg Nord;2.5;49;https://www.tripadvisor.fr/Hotel_Review-g1166677-d1163229-Reviews-HotelF1_Strasbourg_Nord-Lampertheim_Strasbourg_Bas_Rhin_Grand_Est.html
