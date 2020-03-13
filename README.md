@@ -13,7 +13,7 @@ In total, **11,694 reviews** on **265 hotels** were scrapped from a well-known h
 	- Premium brands:  Raffles, Sofitel, Pullman, MGallery
 	- Intermediary brands: Novotel, Mercure, Adagio, Mama Shelter
 	- Economic brands: Ibis, hotelF1
-- **Values**: Top 10 hospitality values, each one of them being characterized by a set of keywords (*keyword can be found in the* `data.py` *file of this repository, under the* `values_dict` *variable*)
+- **Values**: Top 10 hospitality values, each one of them being characterized by a set of keywords (*keywords can be found in the* `data.py` *file of this repository, under the* `values_dict` *variable*)
 	- Authenticity, Adventure, Community, Creativity, Cool, Fairness, Friendliness, Inner Harmony, Instantaneity, Love, Indulgement, Safety, Service, Status, Trustworthiness
 
 #### METHODOLOGY
