@@ -10,9 +10,9 @@ In total, **11,694 reviews** on **265 hotels** were scrapped from a well-known h
 - **Locations**: Top 10 French cities
 	- Paris, Marseille, Lyon, Toulouse, Nice, Nantes, Strasbourg, Montpellier, Bordeaux, Lille
 - **Brands**: Accor Hotels
-	- *Premium brands*:  Raffles, Sofitel, Pullman, MGallery
-	- *Intermediary brands*: Novotel, Mercure, Adagio, Mama Shelter
-	- *Economic brands*: Ibis, hotelF1
+	- Premium brands:  Raffles, Sofitel, Pullman, MGallery
+	- Intermediary brands: Novotel, Mercure, Adagio, Mama Shelter
+	- Economic brands: Ibis, hotelF1
 - **Values**: Top 10 hospitality values, each one of them being characterized by a set of keywords (*keyword can be found in the* `data.py` *file of this repository, under the* `values_dict` *variable*)
 	- Authenticity, Adventure, Community, Creativity, Cool, Fairness, Friendliness, Inner Harmony, Instantaneity, Love, Indulgement, Safety, Service, Status, Trustworthiness
 
@@ -20,16 +20,16 @@ In total, **11,694 reviews** on **265 hotels** were scrapped from a well-known h
 
 The scraping pipeline was composed of **three main steps**:
 
-- **STEP #1 - Acquisition: scrapping of hotel reviews** - Output files (1 per city):
-	- 10 `hotel_tables` (city name, hotel name, hotel rating, number of hotel reviews, hotel url)
-	- 10 `filtered_hotel_tables`, removing non-Accor Hotels brands from the scraping output
-	- 10 `review_tables` (city, hotel name, individual rating, review text)
+- **STEP #1 - Acquisition: scrapping of hotel reviews**
+	- 1 `hotel_table` per city, including city, hotel name, hotel rating, number of hotel reviews and hotel url
+	- 1 `filtered_hotel_table` per city, removing non-Accor Hotels brands from the scraping output
+	- 1 `review_table` per city, inclidung city, hotel name, individual rating, review text
 
-- **STEP #2 - Preparation of collected data** - Output files:
-	- 1 `scrapped_table` for France (aggregation of the `filtered_hotel_tables` and `review_tables` of all cities, filtered on the selected range of Accor Hotel brands: *premium, intermediary or economic*)
-	- 1 `study_table` (transformed `scrapped_table`, featuring a count of values occurrences)
+- **STEP #2 - Preparation of collected data**
+	- 1 `scrapped_table` for France: aggregation of the `filtered_hotel_tables` and `review_tables` of all cities, filtered on the selected range of Accor Hotel brands (premium, intermediary or economic)
+	- 1 `study_table`: transformed `scrapped_table`, featuring a count of values occurrences
 
-- **STEP #3 - Reporting** - Output file:
+- **STEP #3 - Reporting**
 	- 1 `bar chart` summarizing the percentage of total reviews mentioning each one of the hospitality values
 
 #### REPOSITORY STRUCTURE
