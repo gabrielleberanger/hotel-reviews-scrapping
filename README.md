@@ -1,4 +1,4 @@
-## Analysing top hospitality values mentioned in Accor Hotels reviews
+## Scraping Accor Hotels reviews to analyse the occurrences of top hospitality values
 
 *This project was completed as part of my cursus at Ironhack (a 9-week intensive coding bootcamp).*
 
