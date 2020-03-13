@@ -74,3 +74,7 @@ Analysis conducted on **949 reviews of *premium* Accor Hotels brands**:
 
 Analysis conducted on **4,575 reviews of *intermediary* Accor Hotels brands**:
 ![](https://raw.githubusercontent.com/gabrielleberanger/hotel-reviews-scrapping/master/pipeline-outputs/preparation-reporting-outputs-intermediary/bar-chart-top-10-values-intermediary.png)
+
+#### MAIN LIBRARIES
+
+Requests, BeautifulSoup, GoogleTranslate, NLTK
